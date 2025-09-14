@@ -1,0 +1,5001 @@
+Age,Income,Gender,Spend_Score,Education,City,Purchased
+56,21920,Male,54,Bachelors,Chennai,1
+69,126121,Female,43,Bachelors,Chennai,0
+46,97219,Female,42,PhD,Bangalore,0
+32,96872,Female,81,PhD,Delhi,0
+60,101132,Female,22,Bachelors,Mumbai,0
+25,22093,Male,68,PhD,Bangalore,0
+38,32905,Female,19,PhD,Kolkata,0
+56,141759,Female,66,Masters,Mumbai,1
+36,44351,Male,39,PhD,Kolkata,0
+40,50981,Male,73,Masters,Bangalore,1
+28,93903,Female,19,High School,Delhi,0
+28,90821,Female,16,Masters,Kolkata,0
+41,129200,Male,54,Masters,Bangalore,0
+53,123241,Male,25,PhD,Mumbai,0
+57,102289,Male,18,Bachelors,Delhi,1
+41,136506,Female,23,High School,Kolkata,1
+20,104021,Female,85,High School,Bangalore,0
+39,98513,Male,11,High School,Delhi,1
+19,39874,Female,39,Bachelors,Delhi,1
+41,70931,Male,68,High School,Chennai,1
+61,27674,Female,25,High School,Delhi,0
+47,70516,Male,63,Bachelors,Bangalore,1
+55,141982,Male,96,High School,Mumbai,0
+19,148408,Female,30,PhD,Chennai,1
+38,114574,Female,45,PhD,Bangalore,0
+50,80686,Female,90,Masters,Bangalore,0
+29,114851,Female,61,Masters,Bangalore,0
+39,89212,Female,51,Masters,Kolkata,0
+61,22426,Female,98,PhD,Kolkata,1
+42,142952,Male,9,PhD,Mumbai,0
+66,110009,Female,76,PhD,Bangalore,0
+44,88498,Male,2,Masters,Kolkata,1
+59,49943,Male,5,Masters,Kolkata,0
+45,86395,Female,62,Masters,Kolkata,0
+33,64816,Male,69,Masters,Mumbai,0
+32,24138,Male,52,Masters,Mumbai,0
+64,120728,Female,86,Masters,Bangalore,0
+68,111176,Female,5,PhD,Chennai,0
+61,95945,Female,59,Bachelors,Bangalore,1
+69,24017,Male,68,Bachelors,Kolkata,1
+20,30451,Female,9,Masters,Kolkata,0
+54,82956,Female,93,Bachelors,Delhi,0
+68,113863,Female,22,Bachelors,Bangalore,0
+24,30278,Female,27,PhD,Kolkata,1
+38,110480,Male,10,Masters,Kolkata,0
+26,63764,Female,80,Masters,Chennai,1
+56,143030,Male,61,Bachelors,Delhi,0
+35,21134,Female,51,Masters,Bangalore,1
+21,82943,Male,10,Masters,Mumbai,0
+42,115667,Male,6,Masters,Bangalore,1
+31,74318,Male,62,Masters,Bangalore,0
+67,123423,Female,5,Bachelors,Chennai,1
+26,123998,Male,70,High School,Bangalore,0
+43,80128,Female,63,Bachelors,Chennai,0
+19,108056,Female,56,PhD,Chennai,0
+37,41869,Female,59,High School,Kolkata,1
+45,122468,Female,63,High School,Mumbai,1
+64,137034,Female,89,High School,Chennai,0
+24,25039,Male,59,Bachelors,Delhi,0
+61,41281,Female,51,PhD,Delhi,0
+25,132935,Male,50,Bachelors,Mumbai,1
+64,30442,Male,4,PhD,Chennai,1
+52,93788,Male,48,Bachelors,Mumbai,1
+31,139729,Male,32,Bachelors,Kolkata,0
+34,47586,Male,51,Bachelors,Delhi,1
+53,73053,Male,52,High School,Bangalore,1
+67,70489,Male,99,Bachelors,Delhi,1
+57,103104,Female,74,PhD,Chennai,0
+21,106346,Male,34,PhD,Mumbai,1
+19,87087,Female,36,PhD,Delhi,0
+23,32625,Male,70,High School,Bangalore,0
+59,54397,Male,43,Bachelors,Bangalore,0
+21,78671,Male,16,Bachelors,Mumbai,0
+46,136214,Male,59,Masters,Mumbai,0
+35,111785,Female,53,High School,Delhi,0
+43,86897,Female,19,PhD,Chennai,0
+61,46149,Female,98,PhD,Kolkata,1
+51,80030,Male,89,Bachelors,Bangalore,0
+27,89906,Male,95,PhD,Mumbai,0
+53,25283,Male,41,Bachelors,Kolkata,0
+31,27610,Female,81,Bachelors,Kolkata,1
+48,63326,Male,47,Masters,Kolkata,1
+65,34924,Female,94,High School,Chennai,0
+32,133143,Female,54,Bachelors,Mumbai,1
+25,130253,Male,55,Bachelors,Bangalore,0
+31,96162,Male,95,Bachelors,Mumbai,1
+40,120297,Female,19,Masters,Delhi,0
+57,20869,Female,62,Bachelors,Bangalore,0
+38,117088,Female,99,High School,Mumbai,0
+33,21014,Male,93,High School,Bangalore,0
+62,30103,Male,59,PhD,Delhi,0
+35,102522,Male,65,High School,Bangalore,1
+64,130317,Male,68,PhD,Kolkata,1
+41,116007,Male,28,High School,Chennai,0
+43,53458,Male,18,PhD,Delhi,0
+42,110605,Female,26,Bachelors,Bangalore,0
+62,102409,Female,19,Masters,Delhi,0
+58,43248,Female,55,Masters,Kolkata,1
+46,109160,Male,57,Masters,Chennai,0
+32,63516,Female,6,Bachelors,Delhi,1
+62,49061,Male,1,Masters,Kolkata,0
+18,44170,Male,8,High School,Kolkata,0
+42,28024,Female,97,PhD,Kolkata,0
+24,102214,Male,51,Bachelors,Bangalore,0
+26,123792,Female,85,Masters,Mumbai,0
+41,105947,Female,88,High School,Delhi,1
+18,63803,Male,25,High School,Mumbai,0
+61,39296,Female,47,Bachelors,Kolkata,0
+25,111829,Female,55,Bachelors,Mumbai,1
+41,112708,Female,64,Masters,Kolkata,0
+28,106664,Female,83,PhD,Kolkata,1
+68,38257,Male,93,Masters,Chennai,0
+34,32855,Female,10,Masters,Chennai,0
+25,105178,Female,56,Bachelors,Mumbai,1
+52,149876,Female,12,Masters,Delhi,1
+52,121121,Male,33,Masters,Mumbai,0
+50,143324,Female,71,PhD,Delhi,0
+22,40025,Male,17,High School,Mumbai,1
+59,24458,Female,61,High School,Bangalore,0
+56,83610,Female,10,PhD,Bangalore,0
+58,90843,Female,31,High School,Delhi,1
+45,127237,Male,60,Masters,Chennai,1
+24,103961,Male,70,PhD,Delhi,1
+26,69831,Male,17,PhD,Mumbai,1
+25,63427,Male,50,Bachelors,Kolkata,1
+29,113809,Male,37,High School,Bangalore,1
+51,58506,Male,82,Bachelors,Kolkata,1
+50,25668,Female,62,Masters,Bangalore,0
+65,111470,Male,90,PhD,Mumbai,0
+40,67195,Female,80,Masters,Bangalore,1
+41,93233,Male,72,High School,Delhi,1
+54,44417,Male,88,Bachelors,Kolkata,0
+52,101982,Male,77,High School,Kolkata,0
+61,126133,Female,29,Masters,Mumbai,1
+57,30751,Male,32,Bachelors,Kolkata,0
+39,66218,Male,88,High School,Mumbai,0
+44,146649,Female,80,Masters,Chennai,1
+52,27352,Female,11,High School,Delhi,1
+18,99052,Female,96,PhD,Bangalore,1
+52,108835,Female,6,Bachelors,Bangalore,1
+54,117493,Male,35,Bachelors,Bangalore,0
+64,48927,Female,33,Bachelors,Chennai,1
+31,61094,Male,18,PhD,Delhi,0
+20,121948,Male,37,Bachelors,Kolkata,1
+18,74122,Female,13,PhD,Kolkata,0
+22,49493,Male,74,Bachelors,Delhi,0
+43,112247,Female,90,High School,Delhi,0
+31,93539,Male,81,High School,Bangalore,0
+56,51707,Female,64,High School,Kolkata,1
+44,88814,Female,1,High School,Delhi,1
+26,27296,Female,63,PhD,Kolkata,1
+32,45398,Female,89,Masters,Delhi,1
+32,55842,Female,34,Masters,Mumbai,0
+43,33261,Female,10,High School,Bangalore,1
+59,96709,Male,84,Masters,Delhi,1
+30,115985,Male,7,Masters,Chennai,1
+68,126616,Male,56,Bachelors,Delhi,0
+49,76704,Female,80,PhD,Mumbai,1
+56,87173,Male,37,High School,Chennai,1
+66,51781,Female,29,Masters,Chennai,0
+69,33652,Male,12,Masters,Delhi,1
+49,25103,Male,17,High School,Mumbai,1
+21,45500,Female,48,Bachelors,Chennai,0
+47,135332,Male,84,High School,Bangalore,1
+54,120336,Male,26,Bachelors,Bangalore,1
+40,55529,Male,83,Masters,Kolkata,1
+56,133499,Female,12,PhD,Kolkata,0
+62,38452,Male,21,Bachelors,Mumbai,1
+32,69393,Female,42,Bachelors,Chennai,0
+60,51174,Male,61,High School,Bangalore,0
+46,84450,Male,58,Masters,Bangalore,1
+53,55436,Male,54,PhD,Mumbai,1
+30,67406,Male,34,High School,Chennai,1
+49,83059,Female,7,High School,Mumbai,0
+24,35954,Male,35,PhD,Delhi,0
+68,102722,Female,15,Masters,Bangalore,1
+39,139747,Female,65,PhD,Mumbai,0
+45,32356,Male,90,High School,Mumbai,1
+19,148128,Male,99,High School,Delhi,1
+59,118499,Female,25,Bachelors,Kolkata,1
+62,22187,Female,59,PhD,Bangalore,0
+23,97243,Male,79,PhD,Mumbai,1
+45,55098,Male,86,PhD,Bangalore,1
+45,112471,Male,6,High School,Kolkata,0
+61,41225,Male,52,Masters,Mumbai,0
+61,23606,Male,79,High School,Delhi,0
+37,148664,Female,88,Bachelors,Bangalore,0
+47,77620,Male,21,High School,Delhi,1
+28,52828,Male,71,High School,Kolkata,1
+45,146270,Female,93,High School,Kolkata,1
+42,46489,Male,96,Bachelors,Bangalore,0
+56,34387,Male,32,PhD,Kolkata,1
+50,89463,Female,53,Masters,Chennai,0
+18,91832,Male,59,Masters,Bangalore,1
+44,115980,Female,69,Bachelors,Chennai,1
+69,131926,Male,62,PhD,Kolkata,1
+30,132429,Male,4,PhD,Bangalore,1
+58,22591,Male,86,Bachelors,Chennai,1
+20,143446,Female,18,High School,Kolkata,1
+56,130431,Female,99,PhD,Mumbai,1
+23,68516,Female,81,Masters,Mumbai,0
+25,111683,Female,56,Bachelors,Delhi,1
+44,82061,Male,24,Masters,Mumbai,1
+26,124425,Female,66,High School,Chennai,0
+54,86736,Female,13,Bachelors,Mumbai,0
+50,101257,Female,62,Masters,Bangalore,1
+68,81753,Male,54,Masters,Bangalore,0
+59,104774,Male,15,High School,Bangalore,0
+61,31087,Female,69,Bachelors,Mumbai,1
+41,50816,Female,3,PhD,Mumbai,1
+32,43408,Male,37,PhD,Delhi,1
+49,144116,Female,37,Masters,Kolkata,0
+49,125276,Female,3,High School,Delhi,0
+41,20136,Female,63,Masters,Chennai,0
+58,37413,Female,35,High School,Bangalore,0
+69,133650,Male,52,PhD,Mumbai,0
+66,79500,Male,87,Masters,Kolkata,1
+66,104514,Male,28,Masters,Kolkata,0
+69,76358,Female,94,High School,Mumbai,0
+29,86197,Female,18,Bachelors,Delhi,0
+56,120776,Male,36,High School,Kolkata,0
+19,112789,Male,33,Bachelors,Delhi,0
+20,112420,Male,64,PhD,Mumbai,0
+66,52854,Female,26,Masters,Delhi,1
+54,96240,Male,48,Masters,Bangalore,0
+66,124523,Female,40,High School,Mumbai,0
+34,149494,Female,17,High School,Mumbai,0
+66,110063,Male,40,PhD,Kolkata,0
+19,36322,Male,7,PhD,Kolkata,0
+19,133053,Female,57,Bachelors,Kolkata,0
+45,26968,Male,8,PhD,Bangalore,0
+40,47518,Male,56,PhD,Bangalore,1
+54,71925,Female,31,PhD,Chennai,0
+49,79848,Female,59,PhD,Mumbai,0
+50,131900,Female,58,Bachelors,Kolkata,0
+18,113422,Female,12,PhD,Mumbai,0
+36,21700,Female,48,Bachelors,Delhi,0
+19,113782,Male,31,High School,Bangalore,0
+61,121004,Female,83,Masters,Chennai,0
+43,43199,Female,63,High School,Delhi,0
+49,64589,Female,74,PhD,Mumbai,0
+23,52115,Male,39,Masters,Bangalore,0
+49,81934,Female,76,PhD,Kolkata,0
+21,136335,Female,20,PhD,Delhi,1
+28,140726,Female,48,High School,Bangalore,1
+34,74316,Male,71,PhD,Mumbai,1
+55,25520,Female,54,High School,Mumbai,1
+41,129814,Female,78,PhD,Delhi,1
+22,56455,Female,75,Bachelors,Delhi,1
+69,135284,Male,71,Masters,Delhi,1
+51,106465,Male,29,High School,Chennai,0
+23,143364,Male,74,High School,Kolkata,0
+39,61605,Male,93,Masters,Bangalore,1
+28,34955,Female,73,High School,Mumbai,1
+65,64049,Female,48,Masters,Mumbai,0
+33,33917,Male,74,Bachelors,Kolkata,1
+50,90293,Male,83,PhD,Delhi,0
+26,98581,Female,56,Bachelors,Delhi,0
+23,139072,Female,95,PhD,Mumbai,0
+33,84925,Male,17,Masters,Kolkata,0
+46,127216,Male,9,Bachelors,Mumbai,0
+20,90269,Male,97,PhD,Delhi,1
+37,50954,Male,34,Masters,Bangalore,1
+53,116671,Female,45,PhD,Delhi,1
+36,92617,Male,88,High School,Bangalore,0
+43,61458,Male,9,High School,Chennai,1
+20,109037,Female,7,Masters,Kolkata,0
+36,41113,Female,16,PhD,Chennai,0
+37,119977,Female,19,High School,Delhi,1
+49,132622,Female,6,Bachelors,Kolkata,0
+24,145947,Female,11,PhD,Delhi,0
+69,110226,Male,76,PhD,Kolkata,0
+58,63939,Male,61,High School,Kolkata,1
+50,49345,Male,42,High School,Delhi,0
+57,144616,Female,13,Masters,Delhi,1
+56,66313,Male,12,PhD,Kolkata,1
+35,130107,Female,85,Bachelors,Kolkata,1
+57,141866,Male,74,High School,Delhi,1
+18,112365,Male,20,PhD,Delhi,0
+28,120598,Female,50,High School,Mumbai,0
+45,89166,Female,36,Masters,Mumbai,0
+42,67861,Male,92,PhD,Mumbai,0
+67,117406,Male,88,PhD,Chennai,1
+40,69298,Male,69,Masters,Kolkata,0
+48,67221,Male,37,Bachelors,Bangalore,0
+47,64942,Male,12,High School,Chennai,1
+59,23453,Female,99,Masters,Kolkata,1
+52,122811,Female,40,PhD,Bangalore,1
+24,74935,Female,54,Masters,Mumbai,1
+33,142439,Female,2,PhD,Bangalore,1
+43,63370,Male,50,Masters,Delhi,1
+65,123932,Male,41,Bachelors,Delhi,0
+69,28328,Female,45,PhD,Kolkata,1
+66,35534,Male,9,Masters,Chennai,0
+19,105280,Female,62,Bachelors,Mumbai,0
+18,104925,Male,86,Bachelors,Kolkata,0
+65,56320,Male,47,High School,Mumbai,1
+29,69170,Male,5,PhD,Delhi,1
+22,120546,Female,76,High School,Chennai,0
+54,100201,Female,1,Bachelors,Chennai,0
+49,148935,Female,44,High School,Delhi,1
+26,141006,Female,22,High School,Bangalore,1
+58,123401,Male,38,Masters,Chennai,0
+52,28640,Male,19,High School,Bangalore,0
+36,120252,Male,80,Bachelors,Mumbai,1
+65,111057,Male,31,High School,Chennai,0
+33,50049,Female,67,PhD,Delhi,1
+20,25618,Male,87,Masters,Bangalore,0
+37,122540,Male,42,Bachelors,Mumbai,0
+41,76053,Male,82,High School,Mumbai,0
+50,21920,Female,26,PhD,Chennai,0
+41,63937,Female,13,Bachelors,Chennai,0
+69,89724,Female,58,High School,Kolkata,0
+28,32207,Male,18,Masters,Kolkata,1
+66,85774,Female,67,High School,Chennai,0
+25,52972,Male,87,Bachelors,Kolkata,1
+53,30799,Male,3,Bachelors,Delhi,0
+55,91088,Male,55,Bachelors,Delhi,1
+57,48916,Female,89,PhD,Kolkata,0
+37,90463,Female,91,High School,Chennai,0
+52,113500,Male,58,High School,Delhi,0
+65,96700,Male,63,High School,Mumbai,0
+42,57158,Female,91,Masters,Chennai,1
+52,104607,Female,52,PhD,Bangalore,1
+42,139639,Female,89,PhD,Bangalore,1
+46,133945,Male,24,Masters,Chennai,0
+35,91696,Male,72,PhD,Kolkata,1
+63,81510,Male,9,Masters,Delhi,1
+35,140076,Female,37,Bachelors,Delhi,1
+19,78692,Female,94,Bachelors,Chennai,1
+52,81744,Female,83,PhD,Mumbai,0
+33,35810,Male,53,Bachelors,Kolkata,0
+58,25126,Male,80,Bachelors,Mumbai,0
+53,50009,Female,24,Bachelors,Chennai,1
+50,119120,Male,21,High School,Chennai,0
+21,131718,Female,40,Bachelors,Mumbai,1
+50,110932,Male,62,High School,Bangalore,0
+31,20192,Female,70,Masters,Chennai,0
+38,136464,Male,69,Masters,Kolkata,0
+65,56413,Male,14,Masters,Mumbai,0
+37,32816,Female,42,Masters,Bangalore,1
+25,59082,Female,50,Masters,Mumbai,0
+24,85048,Female,61,Bachelors,Bangalore,1
+20,143130,Female,4,Bachelors,Bangalore,0
+34,70940,Female,72,Bachelors,Kolkata,0
+50,52130,Male,88,Masters,Chennai,1
+65,60142,Female,75,Masters,Bangalore,0
+29,149564,Female,17,High School,Chennai,1
+68,56468,Female,85,PhD,Kolkata,1
+39,50698,Male,57,Bachelors,Chennai,1
+39,30655,Female,90,PhD,Delhi,0
+63,67897,Female,48,Masters,Bangalore,0
+47,50075,Female,44,Masters,Kolkata,1
+55,29359,Male,45,Masters,Mumbai,1
+55,149048,Male,91,PhD,Kolkata,1
+62,122197,Female,80,High School,Bangalore,0
+68,125115,Male,90,Masters,Kolkata,0
+25,62056,Female,33,High School,Mumbai,0
+44,71831,Male,31,High School,Delhi,1
+44,79191,Female,47,Bachelors,Bangalore,0
+51,138592,Male,6,PhD,Bangalore,0
+38,141948,Female,72,Masters,Kolkata,1
+47,53272,Female,71,High School,Chennai,0
+50,128117,Male,34,PhD,Chennai,0
+45,34671,Female,53,PhD,Mumbai,0
+64,47048,Female,14,Masters,Delhi,0
+50,96274,Female,16,Bachelors,Delhi,0
+22,45963,Female,43,Bachelors,Kolkata,0
+65,63954,Male,73,High School,Kolkata,0
+36,92309,Female,74,Bachelors,Chennai,0
+21,122120,Male,81,Bachelors,Delhi,0
+52,115430,Male,12,Bachelors,Delhi,1
+66,20717,Male,70,PhD,Delhi,0
+34,31676,Male,19,Masters,Mumbai,0
+61,24434,Female,41,PhD,Mumbai,0
+45,69810,Female,53,PhD,Kolkata,0
+47,123361,Male,29,Masters,Chennai,0
+46,138696,Female,70,PhD,Bangalore,0
+63,114636,Male,59,High School,Chennai,1
+23,24994,Female,89,High School,Mumbai,0
+52,24234,Female,64,PhD,Mumbai,1
+58,89300,Female,24,Bachelors,Kolkata,0
+54,63949,Male,89,PhD,Bangalore,0
+41,57405,Male,16,Bachelors,Delhi,0
+46,54872,Female,52,PhD,Bangalore,1
+66,62215,Male,80,High School,Bangalore,0
+63,43185,Male,6,Bachelors,Bangalore,0
+48,63442,Female,37,High School,Kolkata,0
+52,143263,Male,85,PhD,Mumbai,0
+50,71759,Female,4,Masters,Delhi,1
+69,61153,Female,98,Bachelors,Bangalore,0
+38,97535,Female,92,Bachelors,Delhi,1
+49,122023,Male,38,PhD,Bangalore,1
+40,22581,Female,41,PhD,Mumbai,0
+50,71717,Female,92,Bachelors,Delhi,0
+20,22763,Male,81,Masters,Chennai,1
+35,112910,Male,14,PhD,Mumbai,0
+42,75480,Male,71,PhD,Delhi,0
+59,58759,Male,86,PhD,Bangalore,1
+48,96067,Female,51,Masters,Bangalore,1
+20,138094,Male,65,Bachelors,Mumbai,1
+57,45307,Male,93,High School,Mumbai,1
+63,116371,Male,52,PhD,Bangalore,0
+41,31064,Male,95,Masters,Delhi,0
+67,96848,Female,30,Bachelors,Chennai,0
+49,57548,Male,57,Bachelors,Kolkata,1
+64,56945,Female,79,Masters,Mumbai,1
+39,67937,Male,82,PhD,Bangalore,0
+40,26476,Female,99,High School,Delhi,0
+19,71756,Female,30,PhD,Mumbai,0
+44,110101,Male,98,Bachelors,Delhi,1
+59,22382,Female,42,High School,Mumbai,0
+19,69683,Male,11,PhD,Bangalore,0
+43,107999,Female,27,High School,Delhi,1
+34,65276,Female,24,Masters,Bangalore,1
+57,53402,Female,99,PhD,Delhi,0
+50,111881,Male,39,Bachelors,Mumbai,1
+26,130300,Female,72,Bachelors,Kolkata,0
+60,46946,Male,18,High School,Kolkata,0
+65,99698,Female,77,Masters,Chennai,0
+56,134690,Female,45,PhD,Chennai,1
+46,132309,Female,88,Masters,Bangalore,1
+59,93933,Female,87,Masters,Delhi,0
+43,42335,Female,12,High School,Chennai,1
+52,65095,Female,49,High School,Mumbai,0
+67,99930,Male,94,PhD,Kolkata,1
+42,149974,Male,31,Bachelors,Delhi,1
+41,47197,Male,92,PhD,Kolkata,0
+30,147619,Female,22,Masters,Delhi,0
+24,42010,Male,44,High School,Chennai,1
+53,44123,Female,92,Masters,Chennai,0
+62,107923,Male,64,High School,Bangalore,1
+37,22890,Male,77,Bachelors,Delhi,0
+18,113305,Female,25,Masters,Mumbai,1
+25,129162,Female,51,High School,Chennai,0
+63,140927,Male,7,PhD,Bangalore,0
+33,28026,Male,6,PhD,Chennai,0
+31,84925,Male,24,PhD,Kolkata,1
+29,88842,Male,19,Masters,Chennai,0
+68,53665,Female,83,High School,Delhi,0
+40,29277,Male,9,High School,Bangalore,1
+32,62239,Female,36,High School,Delhi,1
+45,67664,Female,40,Masters,Mumbai,0
+51,68008,Male,93,High School,Mumbai,1
+19,34683,Female,24,Bachelors,Chennai,1
+49,20670,Male,48,Masters,Bangalore,0
+40,109211,Female,63,Bachelors,Bangalore,0
+39,37889,Female,69,Bachelors,Bangalore,1
+68,75612,Male,53,PhD,Bangalore,1
+42,64535,Female,54,Masters,Chennai,0
+39,98542,Female,42,High School,Delhi,0
+39,74319,Male,45,Bachelors,Chennai,0
+66,134072,Female,90,Masters,Delhi,0
+69,112067,Female,14,High School,Kolkata,0
+59,41639,Male,29,PhD,Kolkata,0
+23,84712,Male,6,Masters,Delhi,1
+32,36633,Female,7,Masters,Chennai,1
+60,141145,Female,37,Masters,Mumbai,0
+54,54660,Female,53,High School,Chennai,0
+50,88975,Male,18,Bachelors,Mumbai,0
+25,52172,Female,87,Bachelors,Chennai,0
+61,79197,Female,38,Masters,Bangalore,1
+61,121158,Female,59,Masters,Bangalore,1
+22,78847,Female,1,High School,Kolkata,0
+56,31577,Female,68,PhD,Kolkata,0
+21,97299,Female,44,Masters,Delhi,0
+23,40176,Male,47,Masters,Mumbai,1
+62,64386,Male,35,PhD,Bangalore,0
+49,83972,Female,87,Masters,Chennai,1
+69,140018,Female,91,Bachelors,Delhi,1
+47,109791,Male,60,Masters,Chennai,0
+64,61003,Male,90,Bachelors,Bangalore,1
+52,39996,Male,52,High School,Bangalore,1
+57,120922,Female,8,High School,Bangalore,1
+69,106598,Female,80,Bachelors,Bangalore,1
+33,55931,Female,41,Bachelors,Chennai,0
+30,144168,Female,3,PhD,Delhi,0
+67,55710,Male,96,Bachelors,Bangalore,1
+59,143099,Male,69,Bachelors,Kolkata,1
+47,54693,Male,84,Masters,Delhi,1
+36,55740,Male,14,PhD,Kolkata,0
+34,97241,Female,96,Bachelors,Chennai,1
+36,128944,Female,26,Bachelors,Bangalore,0
+45,113583,Male,70,Bachelors,Delhi,0
+43,96502,Male,58,Masters,Bangalore,0
+54,37374,Male,40,Masters,Bangalore,0
+43,96674,Male,51,Masters,Delhi,0
+40,136500,Male,5,High School,Bangalore,1
+26,101471,Female,77,Masters,Bangalore,0
+29,65913,Female,32,Bachelors,Mumbai,0
+18,143683,Male,80,Masters,Mumbai,0
+18,86025,Male,1,Masters,Delhi,0
+64,64516,Male,77,PhD,Delhi,1
+51,107796,Female,54,Bachelors,Bangalore,0
+49,46069,Female,11,Masters,Kolkata,0
+65,138333,Female,53,High School,Delhi,1
+42,76233,Male,8,PhD,Bangalore,1
+57,104811,Female,25,Masters,Kolkata,1
+62,79049,Male,40,PhD,Mumbai,1
+18,121820,Female,32,PhD,Delhi,1
+33,138028,Female,88,High School,Bangalore,0
+56,59178,Female,28,High School,Mumbai,1
+22,52821,Male,78,High School,Chennai,1
+39,71727,Male,3,Bachelors,Mumbai,0
+46,80935,Female,91,PhD,Bangalore,1
+20,36999,Male,84,Masters,Kolkata,1
+29,82522,Male,79,High School,Chennai,0
+43,58712,Male,62,High School,Chennai,0
+33,84551,Male,27,PhD,Chennai,1
+68,60172,Male,45,PhD,Delhi,0
+54,53722,Male,92,PhD,Bangalore,0
+39,30625,Male,25,Masters,Chennai,1
+46,87165,Female,61,Bachelors,Mumbai,0
+31,96509,Male,44,Bachelors,Kolkata,0
+45,26859,Male,97,High School,Bangalore,1
+22,61609,Female,46,Bachelors,Mumbai,1
+64,63307,Female,14,Masters,Delhi,0
+66,130986,Female,8,Bachelors,Chennai,1
+47,121582,Female,48,Masters,Mumbai,0
+63,41839,Male,14,High School,Bangalore,0
+69,47216,Female,65,PhD,Mumbai,0
+22,72953,Female,80,Masters,Delhi,1
+29,104481,Male,82,PhD,Kolkata,0
+33,80593,Male,7,High School,Chennai,0
+43,92075,Male,79,Masters,Bangalore,1
+43,69522,Female,88,Masters,Chennai,0
+65,119161,Male,49,Bachelors,Chennai,1
+38,24886,Female,55,Masters,Chennai,0
+56,131249,Male,13,High School,Mumbai,1
+53,27485,Male,73,PhD,Mumbai,0
+50,51455,Female,56,Masters,Kolkata,0
+47,131984,Male,56,High School,Delhi,0
+54,36767,Male,15,High School,Bangalore,1
+40,132701,Male,57,Masters,Mumbai,1
+27,48453,Male,58,Bachelors,Chennai,0
+22,96280,Male,35,Masters,Delhi,1
+53,122638,Female,88,Masters,Bangalore,0
+51,73442,Female,97,Bachelors,Bangalore,1
+69,71877,Male,16,High School,Bangalore,1
+48,32226,Female,8,Masters,Bangalore,1
+27,113405,Female,93,Bachelors,Kolkata,1
+36,42588,Female,87,PhD,Bangalore,1
+49,98976,Male,45,PhD,Delhi,0
+18,51709,Male,95,Bachelors,Mumbai,1
+22,67788,Male,40,High School,Delhi,1
+62,108031,Female,54,Bachelors,Chennai,1
+21,57019,Female,14,High School,Kolkata,0
+33,64948,Male,59,PhD,Kolkata,0
+41,85133,Male,94,Masters,Chennai,0
+33,134444,Female,53,Bachelors,Delhi,1
+19,86458,Female,27,PhD,Delhi,0
+66,137603,Male,47,Masters,Chennai,0
+45,47526,Female,80,PhD,Bangalore,0
+49,93493,Female,6,Bachelors,Bangalore,0
+44,148585,Female,55,Bachelors,Mumbai,0
+37,72198,Female,97,Masters,Delhi,0
+41,134100,Female,44,Bachelors,Delhi,1
+29,143854,Female,18,PhD,Chennai,1
+67,119534,Female,16,Masters,Chennai,0
+52,63395,Male,12,Masters,Bangalore,1
+50,44031,Male,20,PhD,Delhi,1
+50,95542,Female,45,High School,Delhi,0
+68,145814,Female,64,Masters,Kolkata,0
+60,57701,Female,59,High School,Mumbai,1
+54,132599,Male,93,PhD,Mumbai,0
+29,45939,Male,94,PhD,Bangalore,1
+20,69145,Female,90,Masters,Delhi,0
+18,40324,Male,22,Bachelors,Kolkata,0
+50,42867,Female,97,Masters,Delhi,1
+57,20203,Female,47,Bachelors,Chennai,0
+27,36544,Female,29,High School,Bangalore,1
+60,35899,Female,86,Bachelors,Mumbai,0
+61,49063,Female,45,Masters,Delhi,0
+46,110880,Female,77,Bachelors,Bangalore,0
+30,23748,Female,9,PhD,Mumbai,0
+29,125022,Male,24,High School,Delhi,0
+48,137269,Female,15,PhD,Kolkata,0
+63,86629,Male,36,PhD,Bangalore,0
+19,100764,Female,13,PhD,Delhi,1
+68,40884,Female,91,PhD,Mumbai,0
+67,45183,Male,44,Bachelors,Mumbai,1
+52,101570,Male,71,PhD,Kolkata,0
+40,91246,Female,72,Bachelors,Bangalore,0
+34,128036,Male,78,PhD,Bangalore,1
+43,39259,Female,76,Masters,Delhi,0
+25,55959,Female,36,PhD,Mumbai,0
+46,136525,Male,61,Masters,Mumbai,0
+43,53457,Male,81,Bachelors,Kolkata,1
+27,105679,Male,40,High School,Kolkata,1
+43,145829,Male,93,Bachelors,Bangalore,0
+51,148216,Female,27,High School,Mumbai,0
+68,22103,Male,1,High School,Delhi,1
+58,85901,Male,34,PhD,Chennai,0
+24,132314,Male,68,High School,Delhi,0
+21,64535,Male,88,Bachelors,Kolkata,0
+67,36103,Male,21,PhD,Delhi,0
+62,118046,Female,33,High School,Mumbai,0
+28,110012,Female,7,Bachelors,Bangalore,1
+46,98278,Male,65,High School,Chennai,0
+53,32391,Male,3,High School,Bangalore,0
+42,122476,Female,51,PhD,Chennai,1
+38,48901,Male,79,PhD,Chennai,0
+53,140721,Female,95,Bachelors,Mumbai,0
+27,117537,Female,54,PhD,Mumbai,0
+54,101159,Male,80,PhD,Kolkata,1
+26,87914,Female,74,Masters,Kolkata,0
+41,70357,Male,93,Masters,Chennai,0
+52,106908,Male,59,Bachelors,Kolkata,1
+66,130335,Female,6,PhD,Mumbai,1
+52,58437,Female,29,Bachelors,Kolkata,1
+65,55503,Male,17,Masters,Chennai,0
+53,116282,Female,60,Masters,Bangalore,0
+35,113459,Male,22,Masters,Delhi,0
+66,95403,Female,24,Bachelors,Kolkata,0
+56,61258,Female,81,PhD,Mumbai,1
+49,53724,Male,85,High School,Bangalore,0
+41,84286,Male,51,PhD,Mumbai,1
+40,94842,Male,50,Bachelors,Kolkata,0
+49,124927,Female,11,Masters,Chennai,0
+54,34908,Male,56,High School,Delhi,1
+29,112617,Male,71,Bachelors,Delhi,0
+66,70626,Female,42,Masters,Bangalore,1
+30,57228,Female,39,Bachelors,Delhi,1
+40,43386,Male,69,High School,Chennai,0
+42,66754,Male,48,Masters,Mumbai,0
+52,130942,Male,57,PhD,Chennai,0
+58,48302,Male,21,Bachelors,Bangalore,1
+47,80815,Female,82,High School,Bangalore,0
+34,141084,Female,99,PhD,Delhi,1
+66,104748,Male,20,High School,Chennai,0
+37,83344,Male,15,Bachelors,Mumbai,1
+65,55618,Male,69,High School,Chennai,1
+42,131603,Female,77,Masters,Mumbai,0
+39,96234,Male,51,High School,Mumbai,0
+30,81114,Male,76,Bachelors,Chennai,0
+36,137652,Female,62,Masters,Kolkata,0
+66,90130,Female,85,High School,Chennai,0
+53,45525,Male,37,High School,Mumbai,0
+29,99818,Male,6,Masters,Bangalore,1
+58,134589,Female,71,PhD,Bangalore,1
+36,34334,Male,26,PhD,Delhi,1
+29,114715,Male,8,Masters,Bangalore,0
+26,82767,Female,73,High School,Kolkata,1
+24,26644,Female,91,PhD,Mumbai,0
+45,121154,Female,4,Masters,Chennai,0
+31,133237,Male,21,Bachelors,Chennai,0
+48,52933,Female,31,High School,Kolkata,0
+69,146366,Female,21,Bachelors,Bangalore,0
+36,63469,Male,25,High School,Mumbai,0
+64,53687,Male,15,PhD,Bangalore,1
+33,126609,Female,35,Bachelors,Delhi,0
+22,72656,Female,49,Bachelors,Bangalore,1
+52,37375,Male,43,Masters,Delhi,0
+29,134019,Male,41,PhD,Chennai,0
+42,140735,Female,37,PhD,Mumbai,0
+69,85206,Female,57,High School,Delhi,1
+38,116462,Male,42,Masters,Bangalore,0
+53,56607,Female,47,Masters,Bangalore,0
+40,103178,Male,92,High School,Chennai,0
+33,43993,Female,61,Bachelors,Kolkata,0
+56,64386,Male,14,High School,Kolkata,1
+62,143394,Male,68,High School,Bangalore,0
+59,66287,Female,53,High School,Kolkata,0
+56,106724,Female,84,Masters,Mumbai,1
+31,118132,Male,34,High School,Kolkata,0
+48,113308,Female,76,High School,Mumbai,1
+22,116393,Female,97,High School,Bangalore,1
+52,147314,Female,24,PhD,Bangalore,1
+40,96312,Male,20,Bachelors,Bangalore,0
+46,118371,Female,69,Bachelors,Chennai,1
+60,95324,Female,30,Bachelors,Kolkata,0
+28,91196,Male,88,Bachelors,Delhi,1
+35,90014,Female,7,Masters,Delhi,0
+64,28210,Female,36,Masters,Bangalore,0
+29,30922,Male,38,High School,Kolkata,1
+26,56289,Male,80,Masters,Mumbai,0
+27,149097,Female,52,Bachelors,Delhi,1
+61,53340,Female,15,PhD,Bangalore,1
+34,59850,Male,46,High School,Delhi,0
+55,76984,Male,23,High School,Delhi,0
+24,123699,Female,12,Bachelors,Delhi,0
+63,133711,Female,93,Bachelors,Bangalore,1
+30,104178,Female,44,Bachelors,Bangalore,0
+57,31094,Male,15,Masters,Chennai,0
+59,107959,Female,93,High School,Chennai,1
+26,53418,Male,49,Bachelors,Chennai,1
+67,25741,Male,21,PhD,Delhi,1
+44,131585,Male,15,High School,Kolkata,1
+19,92374,Female,14,High School,Bangalore,0
+22,137275,Female,42,Masters,Chennai,0
+46,142564,Female,80,High School,Kolkata,0
+54,88798,Male,15,Bachelors,Chennai,1
+55,136026,Female,63,Bachelors,Chennai,1
+36,90532,Male,68,PhD,Kolkata,1
+25,130130,Male,27,High School,Chennai,1
+65,42164,Male,87,High School,Delhi,0
+62,55595,Male,93,Masters,Delhi,0
+18,50257,Male,53,Bachelors,Delhi,0
+39,34211,Male,52,PhD,Mumbai,0
+69,115989,Female,63,Bachelors,Chennai,1
+34,25232,Male,73,High School,Mumbai,0
+24,87753,Female,53,High School,Bangalore,1
+42,72691,Male,57,PhD,Kolkata,1
+62,109765,Female,52,High School,Bangalore,0
+21,99768,Female,43,PhD,Mumbai,0
+53,45613,Female,7,PhD,Delhi,0
+23,34026,Female,42,Bachelors,Chennai,0
+48,73535,Male,4,PhD,Chennai,1
+36,114090,Male,69,High School,Delhi,0
+61,50908,Male,5,Masters,Chennai,1
+56,72113,Male,75,Masters,Kolkata,1
+44,39610,Female,92,High School,Kolkata,0
+27,66646,Female,80,Masters,Kolkata,1
+43,125141,Female,41,Masters,Bangalore,1
+36,83185,Male,94,PhD,Delhi,1
+56,92567,Female,4,Masters,Kolkata,0
+20,67574,Male,2,Masters,Mumbai,0
+62,143978,Female,67,Masters,Kolkata,0
+30,145204,Female,21,Bachelors,Bangalore,0
+67,111051,Female,70,High School,Mumbai,1
+45,122020,Female,43,PhD,Delhi,1
+37,56182,Female,82,Masters,Delhi,1
+45,136136,Male,69,High School,Kolkata,0
+25,20570,Female,9,Masters,Mumbai,0
+58,117790,Male,84,Bachelors,Mumbai,1
+56,39288,Male,28,Bachelors,Kolkata,0
+18,98824,Male,26,Masters,Kolkata,0
+20,49877,Male,82,Masters,Chennai,0
+30,104425,Male,83,Masters,Chennai,0
+45,20917,Male,3,Bachelors,Kolkata,1
+66,95602,Male,73,Bachelors,Bangalore,0
+42,115040,Male,95,High School,Chennai,1
+50,84575,Female,49,PhD,Kolkata,1
+55,92518,Female,17,PhD,Mumbai,0
+23,142115,Male,63,Bachelors,Chennai,1
+61,59104,Male,55,PhD,Bangalore,0
+62,38062,Male,23,Masters,Delhi,1
+49,36999,Female,34,High School,Mumbai,0
+62,81845,Female,69,Bachelors,Bangalore,1
+64,29941,Male,15,Bachelors,Bangalore,0
+38,81169,Male,47,PhD,Bangalore,1
+33,43470,Female,3,Masters,Mumbai,1
+38,149744,Female,83,High School,Bangalore,0
+28,130684,Male,28,PhD,Delhi,1
+54,79821,Male,3,Bachelors,Chennai,0
+53,106669,Male,4,Bachelors,Mumbai,0
+52,138193,Male,88,PhD,Bangalore,1
+36,64435,Female,31,Masters,Kolkata,1
+37,24529,Female,45,High School,Chennai,0
+35,103055,Male,59,High School,Mumbai,0
+64,32192,Male,45,High School,Kolkata,1
+58,94102,Male,75,High School,Kolkata,1
+66,92762,Female,37,Masters,Bangalore,0
+31,123466,Male,65,Bachelors,Mumbai,0
+32,134894,Male,9,Bachelors,Bangalore,1
+48,106795,Male,17,High School,Delhi,1
+18,54087,Female,65,High School,Kolkata,1
+20,86677,Male,3,High School,Delhi,0
+33,24627,Female,26,PhD,Bangalore,1
+40,76541,Male,53,PhD,Chennai,1
+28,132805,Male,31,Bachelors,Kolkata,0
+29,88226,Male,26,Bachelors,Chennai,0
+27,125627,Female,23,High School,Mumbai,1
+49,23255,Male,30,PhD,Kolkata,0
+33,77433,Male,10,Masters,Delhi,1
+25,25213,Female,72,PhD,Chennai,1
+55,122412,Female,89,Bachelors,Mumbai,1
+29,39404,Female,64,PhD,Kolkata,1
+41,136545,Male,22,Bachelors,Mumbai,0
+45,45380,Female,15,High School,Delhi,0
+25,111056,Male,56,Masters,Kolkata,1
+45,39173,Female,74,High School,Mumbai,0
+53,148833,Female,20,High School,Bangalore,0
+43,73027,Female,47,Masters,Kolkata,0
+25,43989,Male,87,Masters,Kolkata,0
+67,128106,Male,53,Masters,Kolkata,1
+45,44519,Male,53,Bachelors,Kolkata,0
+45,145803,Male,1,High School,Bangalore,0
+54,42439,Male,2,Bachelors,Delhi,1
+58,138570,Male,58,Masters,Bangalore,1
+53,96949,Male,19,Bachelors,Bangalore,1
+44,34995,Male,62,Masters,Mumbai,1
+34,43559,Male,78,PhD,Chennai,1
+26,148028,Female,72,Masters,Chennai,1
+50,130887,Female,12,High School,Mumbai,0
+37,109049,Male,26,High School,Bangalore,1
+30,25021,Male,27,High School,Mumbai,0
+45,118000,Male,29,Bachelors,Kolkata,1
+65,41119,Male,15,High School,Mumbai,0
+46,71539,Female,46,Masters,Mumbai,0
+30,114835,Female,1,PhD,Kolkata,0
+63,59350,Male,60,High School,Chennai,0
+52,66223,Female,92,Bachelors,Kolkata,1
+23,45517,Female,57,PhD,Delhi,1
+35,98653,Male,3,High School,Mumbai,1
+68,42250,Male,18,High School,Mumbai,1
+22,104486,Male,52,PhD,Chennai,0
+64,102895,Male,60,High School,Bangalore,1
+42,109132,Female,34,Bachelors,Kolkata,0
+19,111066,Male,96,Masters,Bangalore,1
+27,86798,Female,93,Masters,Delhi,0
+47,74199,Male,89,PhD,Kolkata,0
+67,143823,Female,60,Masters,Delhi,1
+62,79546,Male,26,High School,Delhi,1
+22,148180,Male,72,High School,Delhi,1
+50,125686,Female,19,Bachelors,Kolkata,1
+18,108151,Female,22,Masters,Kolkata,0
+35,23327,Female,93,PhD,Chennai,1
+49,140318,Male,33,High School,Mumbai,1
+64,49768,Female,38,PhD,Bangalore,0
+66,84418,Female,35,High School,Bangalore,0
+28,114386,Female,67,High School,Delhi,0
+38,136947,Female,83,Bachelors,Kolkata,1
+43,62788,Female,10,Masters,Kolkata,0
+42,135945,Female,91,Bachelors,Delhi,0
+39,102384,Female,15,Masters,Mumbai,0
+44,66830,Female,11,PhD,Bangalore,0
+66,72446,Female,90,Masters,Chennai,1
+30,125078,Male,24,PhD,Mumbai,1
+50,35160,Male,77,High School,Kolkata,0
+51,76583,Female,96,PhD,Delhi,0
+58,53998,Male,4,PhD,Bangalore,0
+52,47230,Male,13,High School,Delhi,1
+18,29076,Female,73,PhD,Kolkata,0
+38,89341,Female,57,PhD,Delhi,0
+65,51085,Female,98,High School,Bangalore,1
+23,75571,Female,37,High School,Delhi,0
+45,34715,Female,48,High School,Bangalore,1
+34,148308,Female,71,Masters,Delhi,0
+22,25750,Male,1,High School,Delhi,1
+48,133931,Female,60,High School,Bangalore,0
+22,98768,Male,12,PhD,Delhi,0
+55,138544,Female,21,Bachelors,Mumbai,0
+20,55903,Female,11,Bachelors,Chennai,1
+40,92489,Male,44,Masters,Mumbai,1
+54,52093,Female,58,Masters,Chennai,0
+54,111036,Female,44,Bachelors,Mumbai,1
+27,107954,Male,78,Bachelors,Chennai,1
+27,139277,Female,98,High School,Delhi,1
+36,54314,Male,34,PhD,Bangalore,1
+34,68225,Female,25,High School,Bangalore,0
+38,107985,Female,4,Masters,Kolkata,1
+31,103014,Male,64,Bachelors,Chennai,0
+26,55179,Female,90,Masters,Kolkata,0
+63,137305,Male,16,High School,Kolkata,0
+18,132417,Male,10,Masters,Chennai,1
+68,45338,Male,66,Masters,Bangalore,1
+62,112435,Female,35,PhD,Chennai,1
+30,89681,Female,83,Masters,Delhi,1
+21,52101,Male,6,High School,Kolkata,1
+18,22775,Female,19,PhD,Kolkata,0
+66,131497,Female,59,Masters,Chennai,0
+57,117183,Female,53,High School,Kolkata,0
+49,65619,Male,8,Bachelors,Bangalore,0
+51,65838,Female,78,PhD,Kolkata,0
+45,141316,Male,10,Masters,Chennai,0
+48,39539,Female,67,Masters,Bangalore,1
+25,122274,Female,38,PhD,Bangalore,1
+56,77124,Male,29,High School,Kolkata,1
+43,85149,Female,15,Masters,Chennai,1
+51,46616,Male,87,High School,Kolkata,0
+20,99655,Female,23,PhD,Delhi,1
+67,110695,Male,82,Masters,Delhi,0
+29,74567,Female,46,Bachelors,Bangalore,0
+18,57099,Female,83,Bachelors,Kolkata,1
+61,95831,Female,28,Bachelors,Delhi,0
+22,120246,Male,26,PhD,Mumbai,0
+47,81799,Male,10,Masters,Delhi,0
+47,140714,Male,47,PhD,Kolkata,1
+34,110221,Female,4,Masters,Kolkata,1
+65,134879,Male,55,Bachelors,Delhi,0
+64,45479,Male,66,Bachelors,Kolkata,1
+40,66172,Male,67,High School,Kolkata,0
+32,119165,Male,7,PhD,Mumbai,0
+54,75863,Male,55,PhD,Bangalore,0
+38,62043,Male,80,High School,Kolkata,1
+31,102569,Male,31,Bachelors,Chennai,0
+19,122438,Male,74,Bachelors,Bangalore,0
+28,130107,Male,19,PhD,Bangalore,0
+68,35408,Male,28,Masters,Chennai,0
+56,142275,Female,81,Bachelors,Delhi,1
+55,77980,Female,28,High School,Mumbai,0
+51,102956,Male,19,High School,Kolkata,0
+55,36351,Female,87,High School,Delhi,0
+67,24131,Female,20,PhD,Chennai,0
+51,136836,Male,13,PhD,Mumbai,1
+35,64825,Male,77,PhD,Mumbai,0
+47,31349,Male,43,PhD,Mumbai,0
+32,80931,Female,11,High School,Chennai,0
+44,64254,Male,48,High School,Delhi,0
+68,58225,Female,15,PhD,Kolkata,1
+51,124383,Male,17,PhD,Mumbai,1
+69,32453,Female,54,High School,Mumbai,1
+55,38814,Female,50,PhD,Delhi,0
+50,38263,Male,28,PhD,Mumbai,1
+41,97694,Male,83,PhD,Mumbai,1
+32,35735,Female,4,PhD,Chennai,0
+47,35830,Female,22,Bachelors,Bangalore,1
+59,67893,Male,86,PhD,Delhi,1
+68,64673,Male,39,High School,Delhi,0
+34,147006,Female,34,High School,Delhi,0
+22,109462,Male,97,High School,Chennai,1
+46,65066,Female,44,High School,Chennai,0
+21,120315,Male,42,PhD,Kolkata,1
+27,23373,Male,40,Bachelors,Chennai,1
+34,30335,Male,97,Masters,Delhi,1
+27,43741,Female,12,Masters,Kolkata,0
+34,30692,Male,2,Masters,Bangalore,0
+37,67295,Female,28,Masters,Mumbai,0
+41,65541,Male,74,High School,Mumbai,1
+22,54057,Female,86,PhD,Kolkata,1
+51,86983,Female,81,PhD,Bangalore,1
+23,39583,Male,90,Masters,Mumbai,0
+19,42765,Female,67,Masters,Kolkata,1
+30,79287,Female,71,Bachelors,Chennai,1
+60,43906,Female,72,Bachelors,Delhi,0
+60,140747,Female,84,Bachelors,Bangalore,0
+65,105103,Male,76,High School,Mumbai,1
+28,99675,Male,99,PhD,Delhi,1
+68,66525,Male,81,High School,Kolkata,1
+64,58230,Female,92,High School,Mumbai,0
+40,137904,Female,10,PhD,Delhi,0
+33,39520,Male,86,Bachelors,Chennai,1
+48,105238,Male,57,PhD,Bangalore,1
+28,71934,Female,97,Masters,Kolkata,1
+33,45566,Male,86,Bachelors,Mumbai,1
+25,93193,Male,37,PhD,Chennai,0
+21,123224,Female,77,High School,Bangalore,1
+57,50134,Male,91,PhD,Bangalore,0
+21,30345,Female,64,Bachelors,Chennai,0
+42,141012,Male,79,Masters,Mumbai,0
+20,141015,Female,86,High School,Bangalore,1
+49,61185,Female,94,Masters,Kolkata,1
+20,135464,Female,40,Masters,Delhi,0
+44,112949,Female,98,High School,Kolkata,0
+46,90744,Female,60,PhD,Bangalore,1
+49,53455,Male,98,PhD,Delhi,1
+67,135217,Male,48,Masters,Chennai,1
+68,48018,Male,99,PhD,Delhi,0
+36,74219,Female,19,Bachelors,Delhi,0
+38,65991,Male,72,Masters,Delhi,0
+22,93616,Female,33,Masters,Bangalore,0
+35,107438,Female,44,Masters,Mumbai,0
+45,136841,Male,92,Bachelors,Bangalore,0
+59,29486,Female,37,Masters,Mumbai,0
+39,58862,Male,89,PhD,Chennai,0
+38,141662,Female,36,PhD,Chennai,1
+23,78870,Female,81,PhD,Chennai,0
+18,106694,Male,88,PhD,Chennai,0
+22,125996,Female,21,Masters,Chennai,1
+58,63856,Male,2,Bachelors,Kolkata,1
+29,121407,Female,31,High School,Bangalore,1
+43,120744,Male,97,PhD,Mumbai,1
+63,106055,Female,30,High School,Chennai,1
+51,51379,Male,76,High School,Kolkata,1
+66,84729,Male,44,Masters,Kolkata,1
+31,48378,Female,12,PhD,Kolkata,1
+43,125428,Male,51,PhD,Bangalore,0
+62,74353,Female,49,PhD,Chennai,0
+44,69996,Female,24,High School,Kolkata,1
+26,34031,Male,24,PhD,Kolkata,0
+43,100072,Male,60,PhD,Chennai,1
+64,85982,Male,11,Bachelors,Bangalore,0
+39,56683,Male,13,Masters,Kolkata,0
+64,134091,Male,91,PhD,Mumbai,1
+47,137797,Female,72,PhD,Delhi,0
+60,37618,Male,74,Masters,Delhi,1
+65,26587,Female,72,Masters,Delhi,1
+34,82790,Male,64,High School,Bangalore,1
+43,51480,Male,20,High School,Kolkata,0
+53,118530,Male,72,High School,Delhi,1
+18,40527,Female,73,Masters,Delhi,1
+25,43569,Male,71,Bachelors,Chennai,1
+66,31151,Female,78,PhD,Kolkata,1
+52,91094,Female,28,Masters,Kolkata,1
+69,79174,Female,2,Bachelors,Chennai,1
+32,64739,Male,43,Masters,Kolkata,1
+64,52954,Female,8,Bachelors,Mumbai,0
+39,132984,Male,13,Masters,Bangalore,0
+31,132863,Female,85,Masters,Chennai,0
+43,129373,Male,92,Bachelors,Delhi,0
+45,55303,Female,35,Bachelors,Kolkata,1
+40,54700,Male,23,Bachelors,Mumbai,0
+31,113036,Male,46,Bachelors,Mumbai,1
+41,143728,Male,15,Bachelors,Bangalore,0
+19,87568,Female,2,Bachelors,Mumbai,0
+62,86788,Female,61,Bachelors,Kolkata,0
+43,91045,Male,76,Bachelors,Kolkata,0
+31,57842,Female,64,Masters,Mumbai,0
+68,33900,Female,52,Bachelors,Kolkata,0
+24,147992,Female,36,Bachelors,Kolkata,1
+20,100059,Female,67,Masters,Delhi,0
+64,21881,Female,69,Masters,Chennai,0
+40,53037,Female,67,High School,Kolkata,1
+63,21630,Female,47,High School,Kolkata,0
+60,40789,Male,83,Bachelors,Bangalore,0
+64,146083,Male,2,Bachelors,Chennai,0
+62,108059,Female,44,High School,Chennai,0
+35,103494,Male,64,High School,Chennai,1
+55,66151,Male,81,PhD,Mumbai,0
+52,68920,Male,78,PhD,Delhi,1
+68,129388,Female,28,Bachelors,Delhi,1
+32,87231,Female,91,PhD,Bangalore,0
+42,137946,Female,54,High School,Chennai,1
+54,100357,Female,74,Bachelors,Chennai,0
+45,23262,Female,67,Masters,Kolkata,0
+27,86981,Male,36,Masters,Mumbai,0
+56,140951,Female,63,High School,Mumbai,0
+34,143099,Male,25,PhD,Bangalore,1
+56,101972,Female,86,Masters,Delhi,0
+39,95485,Male,48,PhD,Chennai,1
+43,74722,Female,39,Masters,Bangalore,1
+61,109499,Female,47,PhD,Mumbai,0
+42,70818,Female,94,Masters,Mumbai,1
+34,49932,Female,21,Masters,Mumbai,1
+30,26901,Female,30,Bachelors,Chennai,0
+37,137473,Female,92,Bachelors,Chennai,0
+42,119023,Male,31,High School,Chennai,0
+21,28597,Female,26,Masters,Kolkata,0
+27,149631,Male,22,PhD,Delhi,0
+20,83909,Female,21,Masters,Mumbai,0
+58,92391,Male,1,PhD,Mumbai,1
+62,104214,Male,37,PhD,Kolkata,1
+35,28263,Male,77,Masters,Mumbai,0
+64,83293,Male,85,PhD,Mumbai,0
+53,132824,Male,46,High School,Chennai,0
+64,144933,Male,9,Bachelors,Chennai,0
+39,45805,Female,17,PhD,Delhi,0
+51,111679,Male,47,Masters,Mumbai,1
+64,31874,Female,85,Bachelors,Bangalore,0
+25,113065,Female,95,High School,Mumbai,0
+57,106402,Male,59,PhD,Mumbai,0
+66,34079,Male,54,PhD,Delhi,1
+61,69850,Female,86,Bachelors,Bangalore,1
+36,92779,Male,12,PhD,Mumbai,0
+59,115408,Male,64,Masters,Bangalore,0
+58,29018,Male,6,Bachelors,Chennai,0
+54,140606,Male,53,Bachelors,Chennai,0
+23,69500,Male,16,PhD,Bangalore,1
+69,140062,Male,90,High School,Mumbai,1
+43,32100,Male,5,High School,Bangalore,1
+51,77021,Female,73,High School,Bangalore,0
+62,134995,Male,46,High School,Chennai,0
+23,39800,Female,14,Bachelors,Bangalore,1
+54,148126,Female,44,Bachelors,Kolkata,0
+50,83400,Female,63,PhD,Kolkata,1
+39,112446,Female,94,High School,Chennai,0
+38,49437,Male,52,High School,Mumbai,0
+23,123124,Female,26,PhD,Mumbai,1
+23,96537,Female,53,PhD,Chennai,0
+65,66675,Female,29,PhD,Mumbai,0
+21,39942,Female,19,Masters,Delhi,0
+47,40862,Female,47,PhD,Kolkata,1
+28,31669,Male,8,PhD,Delhi,0
+47,141219,Male,23,Masters,Delhi,0
+48,73772,Female,35,High School,Delhi,1
+41,35916,Male,95,Bachelors,Chennai,0
+26,30878,Male,53,High School,Delhi,1
+20,22985,Female,99,Bachelors,Bangalore,0
+68,117905,Female,96,Bachelors,Mumbai,1
+48,93648,Female,58,PhD,Chennai,0
+57,61235,Male,5,PhD,Bangalore,1
+54,38931,Female,16,Masters,Bangalore,1
+53,112876,Male,17,High School,Kolkata,1
+41,20336,Male,32,High School,Kolkata,0
+48,62933,Male,96,Bachelors,Bangalore,0
+23,104899,Female,52,PhD,Kolkata,1
+19,65536,Male,20,PhD,Mumbai,0
+37,89504,Female,66,High School,Mumbai,0
+45,119214,Female,84,Masters,Kolkata,1
+28,71148,Female,82,PhD,Delhi,0
+21,133936,Female,1,Masters,Bangalore,1
+32,36279,Female,58,High School,Mumbai,0
+23,88665,Male,93,High School,Kolkata,1
+66,123751,Male,93,Masters,Kolkata,0
+47,124433,Male,83,PhD,Mumbai,0
+55,91386,Male,44,High School,Mumbai,1
+68,106124,Male,6,Bachelors,Delhi,0
+19,125750,Female,50,High School,Kolkata,1
+32,97485,Female,72,PhD,Kolkata,1
+28,94055,Male,88,Bachelors,Chennai,0
+25,111911,Male,20,High School,Delhi,1
+43,118618,Male,14,PhD,Mumbai,0
+68,97273,Female,5,PhD,Mumbai,1
+62,86670,Female,41,High School,Bangalore,0
+61,96474,Female,40,PhD,Mumbai,1
+22,74028,Male,34,Masters,Kolkata,1
+23,110022,Male,80,Bachelors,Mumbai,0
+43,133892,Male,45,Masters,Kolkata,1
+21,111632,Male,71,High School,Kolkata,0
+36,126651,Female,80,Masters,Delhi,0
+37,91128,Male,71,High School,Mumbai,0
+50,38108,Male,27,High School,Delhi,0
+37,72495,Male,78,PhD,Kolkata,0
+66,102806,Female,78,PhD,Mumbai,0
+29,113185,Female,44,High School,Mumbai,0
+64,96533,Male,33,Bachelors,Delhi,0
+18,119025,Female,33,Bachelors,Delhi,0
+43,76830,Female,44,Bachelors,Kolkata,1
+31,94640,Female,20,Masters,Kolkata,1
+55,72509,Female,36,High School,Mumbai,0
+54,86406,Female,7,PhD,Mumbai,1
+28,114220,Male,32,Masters,Chennai,1
+53,59519,Male,67,Masters,Chennai,1
+30,69649,Male,39,PhD,Bangalore,0
+60,54524,Female,93,High School,Kolkata,0
+20,116493,Female,24,Masters,Bangalore,1
+50,53885,Female,86,High School,Bangalore,1
+23,64369,Female,70,High School,Delhi,0
+67,121132,Male,88,High School,Delhi,0
+27,115402,Male,87,PhD,Chennai,1
+22,50676,Male,54,High School,Bangalore,1
+40,84093,Male,38,Masters,Chennai,1
+27,67764,Male,74,PhD,Kolkata,0
+61,70799,Male,80,PhD,Mumbai,0
+19,99414,Female,75,Masters,Delhi,0
+30,125296,Female,32,PhD,Kolkata,0
+57,113095,Male,45,Masters,Kolkata,0
+19,132082,Female,61,Bachelors,Delhi,1
+37,92307,Male,70,Masters,Delhi,0
+18,102062,Male,88,PhD,Bangalore,1
+54,115432,Female,97,Masters,Chennai,0
+26,51923,Male,53,Bachelors,Kolkata,0
+34,137449,Male,51,High School,Bangalore,0
+26,121739,Male,76,High School,Bangalore,0
+28,124926,Female,56,High School,Kolkata,1
+32,98388,Female,27,PhD,Kolkata,0
+41,67574,Female,38,Bachelors,Mumbai,0
+55,63391,Female,62,Masters,Chennai,0
+52,148691,Male,18,Masters,Kolkata,0
+47,141757,Female,64,Masters,Delhi,1
+48,73664,Female,77,Masters,Mumbai,0
+66,87384,Female,30,PhD,Chennai,1
+22,51027,Male,49,PhD,Delhi,1
+61,55464,Female,41,Bachelors,Delhi,0
+67,54485,Female,13,Masters,Chennai,0
+31,148366,Male,34,High School,Mumbai,1
+28,39456,Male,94,PhD,Delhi,1
+26,94795,Male,25,Bachelors,Bangalore,0
+51,55554,Male,66,Bachelors,Chennai,0
+29,66922,Female,18,PhD,Chennai,0
+52,33409,Male,5,High School,Kolkata,0
+52,89327,Female,19,High School,Mumbai,0
+18,111400,Female,42,Masters,Bangalore,0
+57,56639,Female,18,PhD,Bangalore,0
+39,120110,Female,32,High School,Kolkata,0
+46,83627,Female,21,PhD,Delhi,0
+25,103424,Male,10,Bachelors,Delhi,1
+28,39692,Female,37,Bachelors,Bangalore,0
+58,109037,Female,49,Bachelors,Mumbai,1
+54,98840,Female,86,PhD,Delhi,0
+31,74200,Male,13,Masters,Chennai,1
+47,113063,Female,55,Masters,Kolkata,0
+52,77415,Female,17,High School,Mumbai,1
+38,38074,Male,9,PhD,Delhi,0
+54,35549,Female,88,Masters,Bangalore,0
+22,49963,Female,44,PhD,Kolkata,1
+36,111456,Male,78,Masters,Delhi,0
+31,116362,Female,46,Bachelors,Bangalore,1
+43,121607,Female,8,Bachelors,Delhi,0
+21,72265,Female,37,High School,Kolkata,0
+42,36061,Female,19,Bachelors,Chennai,0
+62,78226,Female,63,Masters,Chennai,1
+59,48810,Male,92,High School,Bangalore,0
+42,80006,Male,46,High School,Chennai,1
+35,142538,Male,94,Bachelors,Kolkata,0
+57,133502,Female,71,PhD,Bangalore,1
+25,42800,Female,26,Bachelors,Delhi,0
+56,136192,Female,46,Bachelors,Mumbai,0
+57,128959,Male,46,High School,Delhi,0
+31,145433,Female,75,Bachelors,Kolkata,0
+49,127228,Female,14,Masters,Bangalore,0
+68,95476,Female,85,High School,Delhi,0
+55,89460,Male,63,Bachelors,Bangalore,0
+50,77767,Male,72,PhD,Chennai,0
+40,48054,Female,3,Masters,Mumbai,0
+32,95319,Female,28,PhD,Kolkata,0
+50,122789,Female,29,Masters,Delhi,0
+42,65397,Male,87,PhD,Mumbai,1
+34,33233,Male,18,Bachelors,Kolkata,1
+50,131205,Male,35,Masters,Kolkata,0
+64,110020,Female,77,High School,Chennai,1
+19,45068,Male,76,High School,Bangalore,1
+31,85727,Female,47,PhD,Bangalore,0
+57,110610,Female,5,PhD,Mumbai,0
+57,90453,Male,75,PhD,Chennai,1
+68,124135,Female,59,Masters,Kolkata,1
+56,45832,Male,75,High School,Chennai,1
+68,128464,Female,59,Bachelors,Chennai,1
+23,106242,Female,47,Masters,Mumbai,0
+23,33682,Male,95,PhD,Bangalore,0
+20,112298,Female,95,High School,Chennai,0
+24,43383,Female,13,PhD,Chennai,0
+68,78160,Female,78,Bachelors,Chennai,0
+25,113332,Female,89,Bachelors,Delhi,0
+59,43666,Female,33,High School,Chennai,0
+69,78817,Female,97,Masters,Chennai,0
+32,111198,Female,62,Bachelors,Kolkata,0
+64,130695,Female,79,Bachelors,Delhi,0
+46,54642,Male,16,Bachelors,Chennai,0
+50,61830,Male,44,Bachelors,Chennai,0
+69,123067,Female,58,PhD,Mumbai,1
+47,30234,Female,6,PhD,Mumbai,1
+56,77616,Male,89,Masters,Delhi,0
+44,29221,Female,15,High School,Kolkata,0
+53,31410,Male,4,High School,Delhi,1
+46,100055,Male,56,High School,Delhi,0
+55,81413,Male,64,Bachelors,Mumbai,1
+50,21051,Female,68,PhD,Mumbai,0
+54,130529,Female,94,PhD,Kolkata,1
+44,95301,Female,34,Masters,Chennai,1
+50,96918,Male,91,High School,Kolkata,1
+21,98116,Male,95,PhD,Chennai,0
+39,142226,Male,56,Masters,Bangalore,1
+19,76563,Female,32,High School,Mumbai,1
+27,117859,Male,9,Bachelors,Bangalore,1
+22,64757,Male,63,PhD,Bangalore,0
+27,146169,Female,72,PhD,Mumbai,1
+50,141008,Male,78,High School,Bangalore,0
+55,97475,Male,33,Bachelors,Delhi,0
+30,71257,Female,87,Bachelors,Chennai,0
+48,115500,Female,21,PhD,Kolkata,0
+64,20307,Male,55,High School,Mumbai,1
+53,76889,Female,76,Masters,Delhi,1
+62,88895,Male,57,PhD,Kolkata,0
+41,115184,Female,2,Bachelors,Kolkata,1
+69,55944,Male,13,Masters,Kolkata,1
+32,119555,Female,4,High School,Bangalore,0
+46,58134,Male,84,Bachelors,Bangalore,0
+25,47323,Female,50,Masters,Bangalore,0
+22,136205,Female,48,PhD,Bangalore,0
+46,91762,Female,78,Bachelors,Delhi,0
+64,107225,Female,30,High School,Bangalore,0
+21,116507,Female,29,Bachelors,Mumbai,0
+29,45954,Female,8,PhD,Kolkata,1
+62,75021,Female,12,High School,Delhi,1
+19,109959,Male,41,PhD,Bangalore,0
+44,115927,Male,26,Masters,Kolkata,0
+48,99866,Female,50,Bachelors,Delhi,0
+68,90427,Female,2,PhD,Kolkata,0
+68,24992,Male,55,Masters,Delhi,0
+53,21961,Male,56,High School,Chennai,0
+53,32497,Female,14,High School,Delhi,0
+43,137551,Male,6,Masters,Bangalore,0
+60,52551,Male,95,Masters,Kolkata,0
+44,96384,Female,81,High School,Kolkata,1
+22,145374,Female,89,PhD,Kolkata,0
+37,75755,Female,61,Masters,Mumbai,0
+28,33255,Male,96,PhD,Mumbai,0
+27,24567,Female,12,High School,Bangalore,1
+57,68847,Female,13,PhD,Chennai,1
+55,124817,Male,19,PhD,Mumbai,0
+23,68003,Female,44,Masters,Delhi,1
+25,40389,Male,89,PhD,Bangalore,0
+40,64523,Male,95,PhD,Chennai,1
+64,143802,Male,59,PhD,Delhi,0
+43,81576,Male,37,High School,Kolkata,0
+63,147342,Male,25,High School,Mumbai,1
+60,63919,Male,16,Bachelors,Delhi,0
+29,102103,Female,38,High School,Chennai,1
+43,142443,Female,43,High School,Bangalore,0
+30,23358,Female,87,Bachelors,Delhi,1
+57,108535,Male,14,Bachelors,Bangalore,0
+35,127894,Female,6,Masters,Kolkata,0
+42,141485,Male,89,Masters,Chennai,1
+50,96524,Female,23,High School,Chennai,1
+64,143416,Male,60,PhD,Mumbai,1
+57,125982,Female,12,Masters,Chennai,1
+60,117057,Male,13,Masters,Delhi,1
+29,25698,Female,98,High School,Delhi,0
+61,86809,Male,6,PhD,Delhi,0
+53,113079,Female,63,Bachelors,Kolkata,0
+65,75805,Male,38,Bachelors,Chennai,0
+21,51349,Female,50,High School,Chennai,1
+22,96777,Female,52,High School,Delhi,0
+54,70248,Female,40,PhD,Mumbai,1
+25,95033,Male,8,High School,Mumbai,0
+59,127411,Male,61,High School,Chennai,1
+66,118239,Male,8,High School,Chennai,0
+45,64041,Male,97,PhD,Bangalore,0
+48,51954,Male,34,High School,Chennai,1
+26,28002,Female,79,Masters,Delhi,0
+68,89783,Male,60,PhD,Kolkata,0
+46,127524,Female,57,Masters,Chennai,0
+31,107234,Female,99,PhD,Chennai,0
+57,144857,Male,46,Masters,Delhi,0
+58,39738,Female,22,PhD,Bangalore,1
+39,30703,Male,87,Bachelors,Chennai,0
+28,133776,Male,40,High School,Mumbai,0
+40,69422,Male,45,High School,Mumbai,0
+18,103106,Female,55,PhD,Mumbai,1
+63,81899,Male,51,Masters,Kolkata,1
+54,32392,Male,86,Bachelors,Kolkata,0
+38,64724,Male,5,Masters,Chennai,0
+43,52299,Female,95,High School,Chennai,0
+63,35641,Male,13,High School,Chennai,1
+53,99534,Female,28,Masters,Kolkata,1
+40,26305,Female,84,PhD,Chennai,1
+18,118262,Male,97,PhD,Delhi,0
+68,38782,Female,80,Masters,Bangalore,0
+57,98257,Female,62,High School,Mumbai,0
+32,125299,Male,93,Masters,Mumbai,0
+38,97963,Male,87,High School,Delhi,0
+64,132086,Male,24,Masters,Chennai,0
+26,141987,Female,98,PhD,Kolkata,1
+26,40566,Male,7,Bachelors,Chennai,0
+27,144591,Female,38,High School,Chennai,1
+69,87766,Female,37,Bachelors,Mumbai,0
+43,26511,Female,68,PhD,Mumbai,1
+58,134816,Female,98,Masters,Kolkata,1
+52,127765,Female,42,PhD,Mumbai,1
+69,138360,Male,86,Bachelors,Chennai,1
+42,46177,Male,5,PhD,Delhi,1
+43,24765,Female,64,PhD,Kolkata,0
+28,40354,Female,50,Masters,Delhi,0
+55,43929,Male,87,Bachelors,Chennai,1
+19,48820,Male,15,Bachelors,Kolkata,1
+24,131576,Female,95,Bachelors,Delhi,1
+35,49523,Female,73,High School,Kolkata,0
+44,91088,Male,53,PhD,Chennai,0
+51,86163,Male,25,Bachelors,Kolkata,1
+44,97525,Female,89,PhD,Chennai,1
+34,33780,Male,85,Masters,Kolkata,0
+60,26589,Male,9,Masters,Kolkata,0
+61,54812,Female,38,High School,Mumbai,0
+68,113664,Female,22,High School,Chennai,0
+41,65939,Female,87,Masters,Bangalore,0
+42,71493,Male,49,Bachelors,Kolkata,0
+24,124188,Female,68,Masters,Delhi,1
+69,113326,Male,93,PhD,Mumbai,0
+23,60953,Female,15,High School,Mumbai,0
+41,85785,Female,65,High School,Kolkata,1
+50,39309,Male,54,Masters,Bangalore,1
+66,74195,Male,30,Bachelors,Mumbai,1
+46,135662,Female,93,Bachelors,Chennai,0
+60,45901,Female,20,PhD,Kolkata,1
+39,43576,Male,33,High School,Kolkata,0
+43,51508,Female,86,Masters,Bangalore,1
+45,94711,Male,77,Masters,Chennai,1
+67,45464,Male,7,High School,Chennai,0
+38,80281,Female,8,Masters,Bangalore,0
+66,36260,Male,28,High School,Delhi,0
+24,144997,Male,45,Bachelors,Chennai,1
+34,55440,Male,73,Bachelors,Delhi,0
+37,115082,Female,89,Masters,Delhi,1
+58,125583,Male,80,Bachelors,Kolkata,0
+66,76683,Female,74,Bachelors,Kolkata,0
+37,144206,Female,11,PhD,Mumbai,1
+39,61430,Female,31,High School,Kolkata,1
+45,21987,Male,12,High School,Chennai,1
+57,134778,Male,95,Masters,Chennai,0
+66,45105,Female,78,High School,Delhi,0
+24,98484,Female,51,PhD,Chennai,0
+18,138747,Male,44,Masters,Kolkata,0
+49,33026,Female,96,Masters,Kolkata,0
+30,88309,Female,50,High School,Kolkata,1
+47,65927,Male,17,Bachelors,Bangalore,0
+40,95414,Female,35,Bachelors,Chennai,0
+68,77535,Male,1,Bachelors,Mumbai,0
+36,62946,Male,29,Bachelors,Chennai,0
+49,146503,Female,51,PhD,Chennai,1
+47,76561,Male,64,Masters,Bangalore,0
+46,30377,Male,4,Bachelors,Chennai,0
+66,73592,Male,87,PhD,Delhi,0
+62,27347,Female,28,Masters,Kolkata,1
+46,53776,Female,16,High School,Kolkata,1
+47,23783,Female,63,High School,Bangalore,1
+33,75798,Male,76,PhD,Kolkata,0
+57,24298,Male,53,Masters,Delhi,0
+36,90204,Female,85,Bachelors,Bangalore,1
+35,106207,Female,17,Masters,Mumbai,1
+18,120356,Male,40,Bachelors,Kolkata,1
+31,75161,Female,13,PhD,Chennai,1
+68,80652,Female,52,Bachelors,Delhi,0
+64,54484,Female,58,PhD,Delhi,1
+67,118614,Female,96,Masters,Kolkata,1
+19,149572,Female,37,Masters,Mumbai,1
+45,132695,Male,79,Bachelors,Chennai,0
+66,40922,Female,76,Masters,Mumbai,0
+67,54028,Female,61,Bachelors,Mumbai,0
+47,131461,Male,79,Masters,Kolkata,0
+55,40316,Male,34,High School,Chennai,0
+68,96996,Male,70,Bachelors,Kolkata,1
+21,36968,Male,17,PhD,Kolkata,0
+18,50266,Female,20,High School,Delhi,0
+25,145679,Female,73,PhD,Kolkata,0
+46,115745,Female,59,Masters,Bangalore,0
+56,44000,Female,69,High School,Chennai,1
+20,143239,Male,87,Masters,Delhi,0
+49,34011,Male,33,Bachelors,Chennai,0
+27,22866,Female,78,PhD,Delhi,1
+27,132669,Female,17,Masters,Bangalore,1
+36,25898,Female,57,PhD,Kolkata,0
+63,38395,Female,83,PhD,Delhi,1
+51,59019,Male,97,Masters,Delhi,1
+50,123243,Female,1,Bachelors,Delhi,1
+40,24006,Male,13,PhD,Bangalore,0
+45,54393,Male,27,Masters,Chennai,1
+49,30956,Male,70,Bachelors,Bangalore,0
+67,70042,Male,59,Masters,Delhi,0
+24,116199,Female,6,Bachelors,Delhi,0
+46,26078,Female,97,PhD,Kolkata,0
+25,49631,Female,94,High School,Bangalore,1
+18,115676,Female,99,Masters,Bangalore,0
+20,141724,Male,23,PhD,Mumbai,0
+41,82901,Male,10,Masters,Chennai,0
+40,127227,Male,51,Masters,Mumbai,0
+25,89497,Female,19,Bachelors,Mumbai,1
+64,114813,Male,51,Masters,Chennai,0
+54,137192,Male,92,Bachelors,Kolkata,1
+20,61574,Male,87,PhD,Kolkata,1
+68,138494,Male,68,Masters,Chennai,1
+50,51417,Female,84,PhD,Chennai,1
+45,108020,Male,83,High School,Bangalore,0
+64,103639,Male,42,PhD,Bangalore,1
+25,85006,Female,91,Masters,Bangalore,1
+51,114881,Female,57,High School,Bangalore,1
+52,131862,Female,98,Bachelors,Delhi,1
+49,59454,Male,68,High School,Delhi,1
+41,21587,Male,38,Masters,Kolkata,1
+31,141688,Male,62,Masters,Delhi,1
+49,128107,Male,7,PhD,Delhi,0
+63,135584,Female,71,Bachelors,Bangalore,0
+60,74710,Male,50,Masters,Bangalore,0
+33,143157,Male,52,Masters,Chennai,0
+21,106567,Female,26,Bachelors,Bangalore,1
+69,111748,Female,26,Bachelors,Chennai,1
+54,95886,Female,19,PhD,Chennai,1
+38,38816,Male,9,High School,Delhi,1
+31,105824,Male,61,Bachelors,Bangalore,0
+48,49432,Male,20,Masters,Delhi,1
+65,129758,Male,50,Bachelors,Bangalore,0
+35,68617,Male,80,Masters,Delhi,0
+24,92373,Female,81,PhD,Delhi,0
+27,54217,Female,22,High School,Delhi,1
+24,40884,Male,13,PhD,Kolkata,0
+50,25454,Male,12,Bachelors,Delhi,1
+40,94960,Male,10,Masters,Mumbai,0
+38,122421,Male,65,Bachelors,Mumbai,0
+36,127173,Male,96,Bachelors,Mumbai,0
+65,63618,Female,30,Bachelors,Chennai,0
+36,103948,Female,8,Bachelors,Delhi,1
+53,82671,Female,21,High School,Mumbai,0
+46,67111,Male,22,Masters,Chennai,1
+35,59613,Male,18,Bachelors,Mumbai,1
+19,105678,Female,66,Masters,Bangalore,1
+18,140592,Female,48,High School,Kolkata,0
+64,122928,Male,44,Masters,Delhi,1
+22,144917,Female,9,Masters,Kolkata,0
+37,79993,Female,67,High School,Kolkata,0
+28,148652,Male,54,Bachelors,Bangalore,0
+59,28848,Female,26,Masters,Bangalore,1
+19,134853,Female,85,PhD,Bangalore,0
+20,98672,Female,94,Masters,Chennai,0
+40,139279,Male,92,Bachelors,Mumbai,0
+29,86125,Female,26,PhD,Delhi,0
+37,106444,Female,34,Bachelors,Bangalore,0
+22,137509,Female,8,Masters,Delhi,1
+54,81602,Male,10,High School,Delhi,0
+55,92045,Male,48,Bachelors,Delhi,1
+47,125997,Female,55,Bachelors,Bangalore,1
+26,62222,Male,54,High School,Bangalore,1
+51,69223,Female,78,Masters,Mumbai,0
+61,130012,Male,40,Bachelors,Bangalore,1
+52,131246,Male,15,Masters,Bangalore,0
+69,85333,Female,81,Masters,Delhi,0
+39,72732,Female,18,Masters,Mumbai,1
+61,142650,Female,96,High School,Kolkata,1
+41,69420,Male,23,Masters,Bangalore,1
+34,95504,Female,62,Masters,Bangalore,1
+27,22462,Male,46,PhD,Kolkata,0
+47,29460,Male,87,PhD,Delhi,1
+63,119319,Female,99,PhD,Mumbai,0
+40,145602,Male,39,Bachelors,Delhi,0
+49,29275,Female,15,Bachelors,Chennai,1
+34,114213,Male,53,PhD,Bangalore,1
+67,33269,Female,88,High School,Chennai,0
+68,149593,Male,64,High School,Bangalore,0
+34,142672,Male,63,PhD,Chennai,0
+31,85942,Female,92,Bachelors,Kolkata,0
+26,92920,Male,80,Bachelors,Bangalore,1
+57,140737,Female,16,High School,Bangalore,1
+19,42553,Male,70,Masters,Chennai,1
+62,44366,Male,66,High School,Mumbai,1
+42,64036,Male,13,Masters,Chennai,0
+56,37369,Female,47,Bachelors,Bangalore,0
+26,31795,Female,9,Bachelors,Bangalore,0
+39,90021,Female,63,PhD,Mumbai,1
+60,127205,Female,34,Bachelors,Delhi,1
+63,88154,Female,81,Masters,Mumbai,1
+21,50143,Male,91,High School,Delhi,0
+43,49425,Male,29,PhD,Bangalore,0
+46,108209,Female,37,Masters,Kolkata,1
+62,95139,Male,43,High School,Kolkata,0
+51,125232,Male,86,High School,Chennai,1
+40,25368,Male,64,High School,Mumbai,0
+54,24621,Male,24,Bachelors,Mumbai,0
+28,78829,Female,71,High School,Kolkata,1
+23,149036,Male,34,Bachelors,Delhi,0
+35,80294,Female,48,High School,Mumbai,1
+38,34719,Female,12,High School,Delhi,1
+59,49227,Male,23,Bachelors,Delhi,0
+53,129430,Female,79,Bachelors,Delhi,1
+58,27566,Male,97,Masters,Delhi,0
+55,32306,Male,13,High School,Chennai,0
+51,73822,Male,87,Bachelors,Chennai,1
+34,44042,Female,96,Masters,Kolkata,0
+54,35086,Female,45,Masters,Chennai,0
+42,37387,Female,99,Bachelors,Mumbai,1
+55,47042,Male,65,High School,Chennai,0
+29,109424,Male,47,Masters,Mumbai,1
+40,71618,Male,58,High School,Mumbai,1
+59,112050,Female,5,High School,Delhi,0
+39,38323,Male,77,Masters,Kolkata,0
+38,38019,Male,5,Bachelors,Delhi,0
+44,95426,Female,60,High School,Delhi,0
+48,60863,Female,96,PhD,Chennai,1
+23,140953,Female,21,Bachelors,Chennai,1
+44,131023,Male,24,Masters,Mumbai,0
+57,30283,Male,18,PhD,Chennai,1
+51,38279,Male,21,High School,Chennai,1
+29,66999,Female,54,Bachelors,Bangalore,0
+62,82780,Female,10,PhD,Mumbai,1
+24,42908,Female,24,Bachelors,Mumbai,1
+27,81584,Female,85,High School,Bangalore,0
+62,146278,Male,89,Bachelors,Mumbai,0
+34,133002,Male,60,PhD,Kolkata,1
+43,70225,Male,57,Bachelors,Kolkata,0
+38,57952,Male,23,Masters,Bangalore,0
+45,120706,Male,22,Masters,Chennai,1
+63,57663,Male,68,PhD,Kolkata,1
+19,142019,Male,34,Bachelors,Bangalore,0
+60,129708,Male,70,PhD,Kolkata,0
+18,81381,Female,28,Bachelors,Delhi,0
+68,67929,Female,95,High School,Bangalore,0
+53,29343,Male,99,Masters,Mumbai,0
+68,96173,Female,39,High School,Kolkata,0
+43,120260,Male,42,Bachelors,Mumbai,0
+46,59791,Male,23,High School,Bangalore,0
+38,49134,Female,70,PhD,Kolkata,0
+28,132366,Male,80,PhD,Mumbai,0
+57,67101,Male,2,Bachelors,Chennai,0
+28,89443,Male,24,Masters,Chennai,0
+53,119111,Male,17,PhD,Delhi,1
+66,77530,Male,65,Masters,Bangalore,0
+56,66799,Male,70,Bachelors,Mumbai,1
+57,24827,Male,69,Masters,Delhi,1
+52,116143,Female,60,Bachelors,Bangalore,0
+51,82653,Female,50,High School,Chennai,1
+64,33699,Male,93,Bachelors,Mumbai,0
+41,122828,Female,12,High School,Kolkata,0
+39,133497,Male,47,Bachelors,Chennai,0
+22,111419,Male,67,PhD,Kolkata,0
+50,134527,Male,65,PhD,Kolkata,0
+53,136972,Male,27,Masters,Mumbai,0
+64,25313,Female,48,Bachelors,Mumbai,1
+37,33598,Female,88,Bachelors,Kolkata,1
+36,131362,Female,62,Bachelors,Delhi,0
+52,135445,Female,44,Masters,Kolkata,0
+69,48807,Male,19,PhD,Kolkata,0
+60,90423,Female,59,Bachelors,Mumbai,0
+34,89390,Male,8,Masters,Bangalore,1
+62,65226,Male,55,Bachelors,Chennai,0
+60,79550,Female,47,High School,Mumbai,0
+51,100072,Male,2,Bachelors,Delhi,1
+26,23558,Female,94,High School,Chennai,1
+43,95308,Female,94,Masters,Mumbai,0
+19,70113,Female,39,Masters,Mumbai,0
+26,72999,Female,45,PhD,Bangalore,0
+26,75878,Female,32,Bachelors,Delhi,0
+57,56343,Male,65,Masters,Delhi,0
+34,78219,Female,38,PhD,Mumbai,0
+18,55186,Female,77,Bachelors,Bangalore,1
+42,56966,Male,11,Masters,Mumbai,0
+60,53769,Female,10,High School,Kolkata,0
+57,139932,Female,59,Masters,Kolkata,0
+59,146264,Male,90,High School,Bangalore,0
+42,125423,Male,55,PhD,Mumbai,1
+56,73218,Female,20,PhD,Bangalore,0
+52,39229,Male,81,Bachelors,Mumbai,0
+20,95209,Female,17,Bachelors,Mumbai,0
+67,47877,Male,68,Bachelors,Kolkata,0
+54,78001,Female,5,PhD,Chennai,0
+61,117137,Female,60,High School,Delhi,0
+61,58084,Female,23,Bachelors,Delhi,0
+68,101780,Male,46,Bachelors,Bangalore,0
+47,112892,Female,52,PhD,Delhi,0
+55,36806,Male,10,High School,Kolkata,1
+51,108635,Female,46,Masters,Chennai,1
+29,130177,Female,28,Bachelors,Mumbai,1
+36,57034,Female,97,Masters,Mumbai,1
+54,60317,Female,43,Masters,Kolkata,0
+61,75468,Female,26,Bachelors,Delhi,1
+66,39094,Male,55,PhD,Mumbai,0
+34,77796,Male,48,Bachelors,Delhi,0
+27,30589,Male,29,High School,Kolkata,0
+66,77221,Female,27,High School,Mumbai,0
+64,144855,Female,18,Bachelors,Bangalore,1
+29,21657,Male,60,Masters,Chennai,0
+33,118300,Female,74,High School,Delhi,0
+41,137229,Female,69,High School,Delhi,0
+36,59531,Female,74,Bachelors,Delhi,0
+25,72227,Male,21,Bachelors,Delhi,0
+48,23164,Male,24,PhD,Kolkata,0
+38,113078,Male,3,Bachelors,Kolkata,0
+34,103973,Male,95,Bachelors,Kolkata,1
+40,61247,Male,62,High School,Kolkata,0
+54,124041,Female,2,High School,Mumbai,0
+33,39601,Female,66,High School,Kolkata,1
+23,113966,Female,42,Masters,Mumbai,1
+25,70599,Female,34,High School,Bangalore,0
+42,91545,Male,42,High School,Kolkata,0
+35,135295,Male,20,Bachelors,Bangalore,1
+42,24552,Female,97,PhD,Kolkata,0
+29,136452,Male,68,High School,Bangalore,0
+32,29417,Female,45,PhD,Chennai,0
+43,78579,Female,75,High School,Bangalore,1
+58,127525,Female,42,High School,Mumbai,1
+62,88207,Female,47,PhD,Delhi,1
+43,92055,Male,5,Bachelors,Bangalore,0
+64,122266,Female,89,High School,Delhi,0
+49,98270,Male,49,PhD,Chennai,0
+27,131426,Female,37,High School,Chennai,1
+33,137865,Female,34,Masters,Mumbai,1
+24,23722,Female,73,Masters,Mumbai,0
+34,90442,Female,70,Masters,Bangalore,1
+40,115632,Male,18,Masters,Kolkata,0
+43,60031,Female,78,Bachelors,Chennai,0
+38,99235,Male,19,Masters,Delhi,1
+39,41438,Female,78,PhD,Kolkata,0
+24,78819,Female,40,High School,Chennai,0
+31,63856,Female,17,PhD,Bangalore,0
+32,53576,Male,60,Masters,Chennai,1
+24,61938,Female,99,Bachelors,Mumbai,1
+26,69028,Female,93,Masters,Delhi,1
+68,79807,Female,42,Masters,Delhi,1
+65,69877,Female,81,Bachelors,Mumbai,0
+25,117783,Female,72,Bachelors,Kolkata,0
+67,63461,Male,65,Bachelors,Mumbai,1
+40,113474,Male,53,Bachelors,Delhi,0
+46,60469,Female,7,Bachelors,Bangalore,1
+35,103136,Female,5,Bachelors,Kolkata,1
+48,40435,Male,24,High School,Chennai,1
+47,104117,Female,28,Masters,Bangalore,0
+69,34191,Male,62,Masters,Kolkata,0
+56,104726,Female,17,Bachelors,Delhi,1
+52,143658,Female,20,PhD,Delhi,1
+35,135660,Male,3,Bachelors,Bangalore,1
+59,47386,Female,37,High School,Kolkata,0
+56,51721,Male,90,PhD,Chennai,0
+34,74786,Male,15,High School,Chennai,1
+31,33704,Male,51,PhD,Mumbai,1
+48,76635,Female,48,PhD,Bangalore,1
+41,22123,Male,8,Bachelors,Kolkata,0
+52,110710,Male,13,High School,Bangalore,1
+61,129837,Female,48,PhD,Chennai,0
+62,134912,Female,3,High School,Kolkata,1
+51,82993,Female,65,Bachelors,Delhi,0
+20,132752,Female,73,Bachelors,Delhi,0
+54,100122,Female,31,Bachelors,Kolkata,1
+60,117512,Female,26,Bachelors,Bangalore,0
+57,45416,Male,81,Masters,Bangalore,0
+43,21814,Female,56,PhD,Delhi,0
+40,98537,Male,34,Masters,Delhi,1
+61,70258,Female,9,Bachelors,Chennai,0
+56,36508,Male,62,PhD,Kolkata,0
+32,105166,Male,13,PhD,Bangalore,1
+66,98916,Female,69,High School,Chennai,0
+21,133710,Female,41,Bachelors,Bangalore,0
+46,55699,Male,77,Masters,Delhi,0
+39,66335,Female,1,High School,Kolkata,1
+42,66806,Female,89,PhD,Mumbai,0
+30,97853,Male,47,Masters,Kolkata,1
+35,83768,Male,4,Bachelors,Mumbai,0
+50,55739,Male,63,Masters,Chennai,1
+33,54785,Female,52,Masters,Mumbai,1
+62,51980,Female,10,Masters,Mumbai,0
+59,109335,Female,28,High School,Chennai,0
+61,120719,Female,6,PhD,Kolkata,1
+19,114702,Male,27,Masters,Chennai,0
+52,105016,Female,12,PhD,Delhi,1
+59,21609,Male,62,High School,Delhi,0
+51,86253,Female,52,Bachelors,Mumbai,1
+47,105481,Female,48,Bachelors,Chennai,0
+30,111128,Male,67,Masters,Chennai,1
+30,48141,Female,46,High School,Chennai,0
+35,50009,Female,97,Bachelors,Kolkata,0
+49,147581,Male,74,High School,Bangalore,0
+49,130966,Female,95,High School,Bangalore,0
+52,26782,Male,15,Masters,Bangalore,0
+56,112072,Male,71,Masters,Kolkata,0
+63,119352,Male,36,High School,Chennai,1
+69,45933,Male,14,High School,Bangalore,0
+46,97154,Female,78,Masters,Chennai,1
+66,28307,Female,3,High School,Mumbai,0
+46,112207,Female,67,Masters,Bangalore,0
+61,126209,Male,86,PhD,Mumbai,0
+33,128297,Female,19,High School,Kolkata,1
+61,95874,Female,99,Masters,Delhi,1
+64,58346,Female,76,High School,Kolkata,0
+27,132138,Female,54,Masters,Kolkata,1
+47,70772,Male,69,High School,Kolkata,0
+42,92084,Male,10,Bachelors,Bangalore,0
+56,60149,Female,33,Bachelors,Mumbai,0
+37,106700,Male,13,High School,Bangalore,0
+22,47526,Female,99,Bachelors,Delhi,0
+18,116758,Female,51,High School,Kolkata,1
+47,105712,Female,32,High School,Chennai,0
+66,148447,Male,75,PhD,Delhi,1
+20,88477,Female,24,PhD,Mumbai,0
+62,25695,Male,35,Bachelors,Delhi,0
+31,59169,Male,83,PhD,Bangalore,1
+47,67947,Female,70,PhD,Chennai,1
+67,67224,Male,40,High School,Bangalore,1
+21,65865,Male,54,Masters,Kolkata,0
+35,45553,Female,44,High School,Kolkata,1
+54,124501,Male,62,PhD,Delhi,1
+42,80410,Male,99,High School,Kolkata,0
+65,123754,Female,68,Bachelors,Kolkata,0
+18,110895,Female,33,Masters,Mumbai,0
+63,44816,Male,77,PhD,Mumbai,0
+32,75026,Female,56,PhD,Bangalore,0
+26,70705,Female,36,High School,Bangalore,1
+32,81922,Male,54,High School,Mumbai,0
+66,135700,Male,19,High School,Delhi,1
+41,93914,Female,43,High School,Mumbai,1
+21,21881,Male,12,PhD,Bangalore,0
+29,59567,Female,11,High School,Chennai,0
+54,67365,Female,70,PhD,Kolkata,0
+54,147928,Male,12,High School,Chennai,1
+60,99211,Male,91,Masters,Chennai,1
+23,90122,Female,41,Masters,Kolkata,0
+56,45006,Female,25,High School,Mumbai,1
+63,61198,Female,3,High School,Delhi,0
+41,42831,Female,3,Bachelors,Chennai,1
+28,120649,Male,84,Masters,Delhi,0
+30,36459,Female,28,PhD,Bangalore,0
+51,52443,Male,23,Masters,Chennai,0
+42,62316,Male,48,PhD,Bangalore,0
+24,116131,Female,67,High School,Mumbai,0
+69,84486,Male,42,Masters,Chennai,1
+21,25877,Male,88,Masters,Bangalore,0
+25,59553,Female,40,Bachelors,Bangalore,1
+37,134137,Male,6,Bachelors,Mumbai,0
+46,24922,Male,20,Masters,Delhi,1
+68,142778,Female,11,Masters,Delhi,1
+62,137018,Female,96,Masters,Chennai,1
+63,24686,Female,27,PhD,Mumbai,0
+27,52766,Female,21,High School,Chennai,0
+60,99943,Female,13,Bachelors,Delhi,1
+51,52006,Female,86,High School,Mumbai,0
+43,51422,Female,35,Bachelors,Kolkata,0
+58,136590,Male,47,Bachelors,Mumbai,0
+66,148886,Male,86,Bachelors,Mumbai,1
+20,32205,Female,28,Masters,Kolkata,1
+23,106590,Male,21,Bachelors,Bangalore,1
+22,43527,Male,18,High School,Bangalore,0
+22,131483,Female,31,Bachelors,Bangalore,0
+64,38443,Male,60,High School,Delhi,1
+40,36524,Female,37,Bachelors,Mumbai,0
+66,136477,Male,21,Bachelors,Kolkata,0
+26,48202,Female,14,Masters,Delhi,0
+52,85552,Male,89,High School,Kolkata,0
+37,66142,Male,91,Bachelors,Delhi,0
+66,81692,Male,60,Bachelors,Delhi,0
+59,102384,Female,23,High School,Delhi,0
+52,40855,Male,95,Bachelors,Kolkata,0
+67,103747,Male,29,PhD,Chennai,1
+35,80372,Female,47,Masters,Delhi,0
+34,45095,Female,30,High School,Bangalore,0
+41,58724,Male,90,Masters,Mumbai,1
+20,69241,Male,84,PhD,Chennai,1
+49,123119,Male,38,PhD,Chennai,0
+52,72003,Male,83,PhD,Kolkata,1
+55,88379,Female,27,High School,Chennai,0
+30,114837,Male,89,PhD,Kolkata,0
+64,111996,Male,87,High School,Kolkata,0
+42,117454,Female,93,High School,Bangalore,0
+26,114283,Male,15,Bachelors,Delhi,1
+21,35972,Male,59,High School,Chennai,0
+31,143805,Male,3,PhD,Delhi,0
+54,113846,Female,10,High School,Delhi,1
+51,42927,Female,79,High School,Delhi,0
+28,140589,Male,80,Masters,Kolkata,1
+58,135657,Male,17,PhD,Delhi,1
+20,86630,Female,83,High School,Chennai,0
+45,124428,Male,11,Bachelors,Kolkata,1
+46,142035,Male,48,High School,Chennai,0
+26,72347,Female,5,High School,Kolkata,0
+20,119708,Female,69,Masters,Mumbai,0
+42,146244,Female,64,PhD,Mumbai,1
+51,108860,Male,14,PhD,Mumbai,1
+29,106210,Male,50,Bachelors,Mumbai,0
+59,89518,Male,26,Bachelors,Kolkata,0
+26,65283,Male,72,Bachelors,Delhi,0
+32,101326,Female,69,High School,Bangalore,1
+57,32205,Male,7,High School,Bangalore,1
+42,140243,Male,16,Bachelors,Mumbai,1
+22,109874,Female,55,PhD,Delhi,1
+28,32748,Female,78,PhD,Chennai,0
+51,41097,Male,56,Bachelors,Delhi,0
+41,23092,Female,4,Masters,Chennai,0
+32,73311,Female,48,PhD,Bangalore,1
+55,42692,Male,17,PhD,Delhi,0
+25,144954,Male,36,Bachelors,Delhi,0
+22,43862,Male,70,PhD,Bangalore,1
+65,110396,Male,80,High School,Delhi,1
+43,99507,Female,93,High School,Chennai,0
+35,100152,Female,38,PhD,Delhi,1
+23,90469,Male,62,High School,Chennai,1
+54,24926,Male,48,Masters,Mumbai,0
+65,111299,Female,10,PhD,Delhi,0
+30,23969,Male,36,Bachelors,Chennai,0
+45,55733,Male,29,High School,Bangalore,0
+22,89855,Male,78,Masters,Mumbai,1
+30,61743,Male,4,Masters,Delhi,0
+34,59876,Female,44,High School,Chennai,0
+67,127445,Male,56,Masters,Delhi,0
+57,40323,Female,42,PhD,Chennai,0
+62,36428,Male,13,Masters,Delhi,0
+49,54578,Male,46,High School,Mumbai,1
+46,106486,Female,82,Masters,Mumbai,0
+68,128577,Male,33,High School,Delhi,1
+20,84140,Female,21,High School,Delhi,1
+57,146378,Male,80,Masters,Kolkata,0
+51,127325,Male,79,High School,Delhi,1
+57,103829,Male,57,High School,Delhi,1
+44,26364,Male,69,Bachelors,Mumbai,0
+30,148867,Male,70,PhD,Delhi,0
+62,55349,Female,67,High School,Bangalore,1
+50,20691,Female,48,PhD,Delhi,1
+23,146899,Male,76,Bachelors,Kolkata,0
+41,115598,Male,33,Bachelors,Chennai,0
+36,86467,Female,36,Bachelors,Mumbai,0
+33,65896,Female,33,Bachelors,Bangalore,0
+57,77062,Male,31,PhD,Chennai,0
+45,117266,Male,21,Masters,Bangalore,0
+50,99762,Female,27,Masters,Mumbai,0
+65,33861,Male,91,PhD,Kolkata,0
+58,116837,Female,72,High School,Mumbai,0
+30,133779,Male,62,PhD,Bangalore,0
+60,108302,Female,96,High School,Bangalore,0
+62,121710,Female,26,High School,Mumbai,0
+42,83928,Male,66,Masters,Delhi,1
+59,126643,Female,12,Bachelors,Mumbai,1
+53,135720,Male,22,Masters,Kolkata,0
+44,103231,Male,17,Masters,Mumbai,0
+55,61347,Male,7,PhD,Chennai,0
+24,23121,Male,68,PhD,Delhi,0
+22,103793,Female,37,High School,Chennai,0
+60,48164,Male,38,PhD,Mumbai,0
+62,45491,Male,96,High School,Delhi,1
+68,79222,Male,11,High School,Chennai,0
+48,43165,Male,1,Bachelors,Chennai,0
+40,134250,Female,25,Bachelors,Delhi,1
+59,23748,Male,42,Masters,Delhi,1
+27,118581,Female,52,Bachelors,Bangalore,0
+49,46553,Female,24,High School,Delhi,0
+60,136547,Female,53,PhD,Mumbai,0
+47,80380,Male,56,Bachelors,Kolkata,0
+56,64331,Male,63,Bachelors,Bangalore,0
+48,116033,Male,81,Bachelors,Delhi,0
+35,116844,Male,8,Bachelors,Kolkata,0
+53,140617,Female,59,High School,Bangalore,1
+19,59560,Female,45,High School,Mumbai,1
+31,73865,Male,27,Masters,Kolkata,0
+30,66686,Male,52,PhD,Delhi,0
+46,95910,Male,18,Masters,Delhi,0
+29,24675,Male,91,Masters,Mumbai,0
+56,86706,Male,86,Bachelors,Bangalore,0
+19,126985,Male,16,PhD,Kolkata,1
+49,129021,Male,66,Bachelors,Mumbai,1
+30,144062,Female,5,High School,Bangalore,1
+63,147359,Female,82,Masters,Chennai,1
+44,97986,Female,3,PhD,Chennai,1
+66,96216,Female,91,High School,Bangalore,1
+58,30068,Male,81,Masters,Delhi,1
+34,74460,Male,80,PhD,Delhi,0
+57,120766,Male,70,Masters,Chennai,0
+48,66418,Male,7,PhD,Delhi,0
+51,46206,Male,50,Masters,Delhi,1
+41,148180,Female,14,Bachelors,Bangalore,0
+62,20287,Male,38,Masters,Bangalore,0
+52,42337,Female,79,Masters,Delhi,0
+65,40666,Male,47,PhD,Bangalore,1
+23,136595,Female,33,PhD,Kolkata,0
+36,21161,Male,43,Bachelors,Chennai,1
+47,134817,Female,91,PhD,Kolkata,1
+24,141025,Male,29,Masters,Kolkata,1
+27,120667,Male,57,PhD,Delhi,0
+58,110071,Male,5,PhD,Delhi,0
+49,118064,Male,93,PhD,Kolkata,0
+51,58751,Female,96,Bachelors,Kolkata,0
+45,102063,Male,60,Bachelors,Mumbai,0
+32,126511,Female,70,High School,Mumbai,1
+47,109389,Male,2,Bachelors,Chennai,0
+54,34758,Female,70,Bachelors,Kolkata,1
+46,85780,Male,43,Bachelors,Bangalore,1
+39,135614,Male,4,Masters,Mumbai,0
+21,23178,Female,56,High School,Delhi,1
+37,51831,Male,93,Masters,Kolkata,1
+49,22176,Male,59,Bachelors,Bangalore,0
+53,123306,Female,89,Bachelors,Bangalore,0
+67,53654,Male,9,High School,Bangalore,0
+21,143220,Female,3,High School,Delhi,0
+44,46627,Male,90,PhD,Mumbai,1
+34,72550,Female,48,Bachelors,Bangalore,0
+29,132025,Female,43,Bachelors,Mumbai,1
+39,64910,Female,91,Masters,Chennai,0
+34,110417,Female,96,PhD,Delhi,0
+27,78251,Male,1,Bachelors,Mumbai,0
+18,55422,Male,57,Masters,Mumbai,0
+39,31984,Female,53,High School,Bangalore,0
+43,109312,Male,16,Masters,Bangalore,0
+35,81386,Male,51,Bachelors,Delhi,1
+67,103291,Male,75,Masters,Mumbai,1
+31,27135,Female,90,Masters,Kolkata,0
+64,20320,Male,55,PhD,Bangalore,0
+46,122958,Male,1,PhD,Bangalore,0
+29,114171,Female,90,High School,Chennai,0
+53,41684,Male,28,PhD,Delhi,1
+52,75913,Female,53,Masters,Mumbai,1
+69,108774,Female,58,PhD,Mumbai,1
+29,41889,Female,73,Bachelors,Mumbai,0
+24,115849,Male,60,Masters,Bangalore,1
+46,118071,Male,59,Masters,Delhi,0
+28,68899,Female,22,Masters,Mumbai,1
+50,144011,Female,8,Bachelors,Kolkata,0
+23,30770,Female,49,Masters,Chennai,0
+64,59321,Female,42,PhD,Chennai,0
+32,105962,Female,27,Bachelors,Mumbai,0
+49,129863,Female,39,Masters,Bangalore,1
+68,61777,Male,83,PhD,Chennai,1
+28,66250,Female,25,PhD,Chennai,0
+40,93034,Female,38,High School,Chennai,1
+43,124940,Female,85,PhD,Chennai,0
+51,60130,Male,24,PhD,Mumbai,0
+63,101931,Male,24,High School,Delhi,1
+51,69346,Male,60,High School,Delhi,1
+46,22537,Male,83,Bachelors,Bangalore,0
+21,104762,Female,50,PhD,Kolkata,0
+34,35216,Male,66,Bachelors,Delhi,0
+52,104149,Female,14,Bachelors,Kolkata,1
+30,23009,Female,53,Masters,Delhi,1
+58,109904,Female,32,Bachelors,Delhi,0
+56,49327,Female,96,Bachelors,Bangalore,1
+32,34209,Female,92,Bachelors,Chennai,0
+46,68443,Female,48,Bachelors,Bangalore,0
+46,35029,Male,39,High School,Delhi,1
+28,87613,Male,40,PhD,Chennai,0
+69,99443,Male,42,Masters,Chennai,0
+49,76997,Male,77,High School,Chennai,1
+19,122171,Male,76,Masters,Kolkata,0
+64,134456,Female,8,Masters,Delhi,0
+31,82559,Male,79,High School,Mumbai,1
+37,84892,Male,26,Bachelors,Bangalore,1
+39,90409,Male,12,High School,Kolkata,1
+28,28635,Female,43,Masters,Bangalore,0
+44,53065,Female,51,Masters,Mumbai,0
+20,131399,Female,91,Bachelors,Chennai,1
+34,140544,Male,82,High School,Mumbai,0
+61,127340,Male,63,PhD,Bangalore,0
+45,53783,Male,49,Masters,Mumbai,0
+46,54152,Male,27,High School,Delhi,0
+38,78741,Male,9,Bachelors,Mumbai,0
+64,127049,Female,39,Bachelors,Delhi,1
+33,71502,Male,65,PhD,Mumbai,1
+54,49092,Female,71,Masters,Delhi,0
+37,37653,Male,90,PhD,Delhi,1
+23,117999,Female,71,PhD,Mumbai,1
+36,119564,Female,7,PhD,Kolkata,1
+22,60469,Female,72,PhD,Chennai,0
+20,143064,Female,80,Bachelors,Chennai,0
+18,106483,Male,67,Masters,Chennai,0
+55,141585,Male,10,PhD,Delhi,0
+32,79754,Male,71,Masters,Chennai,0
+51,49978,Female,85,Bachelors,Delhi,0
+52,107592,Male,53,Bachelors,Kolkata,0
+66,114543,Male,95,High School,Mumbai,0
+42,63169,Male,87,High School,Mumbai,0
+41,68287,Male,57,Masters,Delhi,0
+29,74745,Female,91,High School,Delhi,1
+35,130168,Female,86,PhD,Kolkata,0
+32,133985,Male,27,Masters,Chennai,1
+61,140843,Male,54,Bachelors,Kolkata,1
+33,25543,Male,4,Bachelors,Mumbai,1
+44,76392,Female,88,PhD,Mumbai,1
+25,41067,Female,23,High School,Chennai,1
+63,71033,Female,48,Masters,Mumbai,0
+42,65256,Male,83,Masters,Delhi,1
+34,110633,Female,42,PhD,Mumbai,1
+46,128383,Female,3,High School,Bangalore,1
+25,129048,Female,91,Masters,Chennai,0
+32,89345,Female,3,PhD,Chennai,0
+44,42191,Female,28,Masters,Chennai,1
+63,106803,Male,63,Bachelors,Bangalore,1
+67,92742,Male,81,Masters,Kolkata,1
+69,138843,Male,31,Masters,Delhi,0
+24,106593,Male,10,Masters,Chennai,0
+20,48992,Female,49,High School,Mumbai,0
+46,132050,Male,86,High School,Delhi,0
+61,101531,Male,94,PhD,Mumbai,0
+41,68803,Male,21,High School,Delhi,0
+20,129975,Female,53,Masters,Delhi,0
+37,83477,Male,87,Masters,Mumbai,0
+63,33210,Female,76,High School,Mumbai,0
+32,103329,Female,89,High School,Delhi,1
+42,46270,Female,54,Masters,Chennai,1
+47,82008,Male,57,Masters,Mumbai,1
+31,25197,Female,20,Bachelors,Bangalore,0
+24,133857,Male,49,PhD,Bangalore,1
+34,27452,Male,7,High School,Delhi,0
+61,61486,Male,29,PhD,Kolkata,1
+37,34859,Female,48,Masters,Delhi,1
+53,47236,Female,93,PhD,Delhi,0
+26,51899,Male,13,High School,Chennai,1
+55,52083,Female,3,High School,Chennai,0
+65,87708,Female,2,PhD,Kolkata,0
+39,131462,Female,16,High School,Kolkata,1
+19,36663,Male,94,Bachelors,Kolkata,0
+41,113076,Female,6,Masters,Kolkata,0
+25,138665,Female,45,Masters,Kolkata,1
+28,39053,Male,71,High School,Delhi,0
+30,31085,Female,5,Masters,Delhi,1
+34,50564,Male,56,Bachelors,Bangalore,1
+25,109745,Female,71,High School,Bangalore,0
+38,79095,Female,98,Bachelors,Mumbai,0
+35,89517,Female,32,Bachelors,Delhi,0
+47,41153,Female,49,Masters,Kolkata,0
+35,25247,Female,13,Masters,Mumbai,0
+63,30553,Female,30,PhD,Chennai,0
+64,40811,Male,25,Bachelors,Delhi,0
+48,115381,Female,85,Masters,Bangalore,0
+55,26135,Female,60,Bachelors,Delhi,1
+49,25573,Female,59,PhD,Delhi,1
+28,138819,Male,85,Bachelors,Delhi,1
+62,144588,Male,28,High School,Delhi,0
+42,99267,Male,58,PhD,Chennai,0
+50,27189,Female,20,PhD,Bangalore,1
+55,100077,Female,34,Bachelors,Delhi,0
+58,63646,Male,5,Bachelors,Chennai,0
+25,96623,Male,82,Masters,Mumbai,1
+28,131971,Male,60,High School,Delhi,0
+39,73687,Female,43,PhD,Chennai,0
+68,88312,Male,57,PhD,Kolkata,1
+41,127615,Female,57,PhD,Mumbai,1
+58,47564,Female,75,Masters,Bangalore,0
+34,48835,Female,54,High School,Delhi,0
+29,81587,Male,81,PhD,Delhi,0
+63,27697,Female,45,PhD,Chennai,1
+49,100165,Male,86,Masters,Bangalore,0
+32,93922,Male,37,Bachelors,Kolkata,0
+33,37046,Male,84,PhD,Mumbai,1
+39,77823,Male,48,High School,Bangalore,0
+45,93580,Female,54,High School,Delhi,1
+37,73370,Female,48,High School,Chennai,1
+50,29615,Female,6,High School,Kolkata,0
+27,133338,Female,34,Masters,Chennai,1
+57,25060,Male,63,PhD,Mumbai,0
+49,96436,Male,78,Masters,Bangalore,1
+67,80519,Male,48,High School,Chennai,1
+50,140562,Male,23,High School,Chennai,0
+19,91117,Female,84,High School,Delhi,1
+50,81158,Male,13,Masters,Chennai,1
+50,54782,Female,47,High School,Kolkata,0
+58,105709,Male,44,PhD,Bangalore,0
+30,98533,Male,32,High School,Mumbai,0
+47,128939,Male,26,PhD,Chennai,0
+50,78255,Male,53,PhD,Kolkata,1
+30,131952,Female,14,High School,Mumbai,1
+69,92684,Female,52,Masters,Kolkata,0
+43,76918,Female,36,Bachelors,Chennai,0
+39,146093,Female,8,Bachelors,Chennai,0
+56,104284,Male,40,PhD,Bangalore,0
+19,99558,Male,86,Masters,Delhi,0
+55,105549,Female,22,Bachelors,Kolkata,0
+56,124223,Female,16,High School,Delhi,0
+43,101422,Male,91,High School,Delhi,1
+63,140363,Male,60,PhD,Mumbai,1
+67,146352,Female,60,Masters,Mumbai,1
+32,45256,Female,10,Masters,Kolkata,0
+51,50005,Female,25,Bachelors,Delhi,1
+59,26638,Male,31,Bachelors,Bangalore,1
+61,57419,Female,21,High School,Delhi,1
+66,53377,Female,91,PhD,Mumbai,0
+57,126244,Female,81,Masters,Delhi,0
+28,63116,Female,33,Bachelors,Chennai,0
+20,56634,Female,31,Bachelors,Chennai,0
+23,102291,Male,90,PhD,Bangalore,1
+26,43382,Female,21,PhD,Kolkata,1
+23,135303,Male,36,High School,Delhi,0
+26,76063,Female,65,PhD,Chennai,0
+56,42394,Female,4,High School,Kolkata,1
+48,87789,Female,68,High School,Chennai,0
+49,123246,Male,90,PhD,Kolkata,1
+58,130634,Male,4,PhD,Kolkata,1
+67,20864,Male,9,PhD,Chennai,0
+29,119572,Female,30,PhD,Mumbai,1
+25,60222,Female,45,PhD,Kolkata,0
+25,33666,Male,4,High School,Delhi,1
+67,143664,Male,69,Bachelors,Chennai,1
+45,40955,Female,23,Masters,Mumbai,1
+37,130674,Male,16,Masters,Chennai,0
+64,123533,Female,22,High School,Bangalore,0
+24,101845,Male,72,High School,Delhi,0
+28,136925,Male,48,Bachelors,Bangalore,0
+37,89590,Male,62,PhD,Kolkata,1
+33,147775,Female,97,High School,Kolkata,0
+21,86471,Female,60,Masters,Bangalore,1
+23,130476,Male,80,PhD,Bangalore,0
+39,108314,Female,5,High School,Kolkata,0
+43,142579,Female,80,PhD,Mumbai,1
+20,63298,Female,7,Masters,Delhi,0
+58,83108,Female,51,PhD,Chennai,1
+59,133864,Male,65,High School,Bangalore,0
+31,68924,Female,9,High School,Delhi,1
+28,36709,Female,82,Masters,Chennai,0
+35,29726,Male,45,Bachelors,Chennai,1
+29,80824,Female,47,Bachelors,Bangalore,0
+40,60542,Female,67,PhD,Mumbai,0
+29,40245,Female,24,High School,Mumbai,1
+30,54753,Male,92,High School,Delhi,1
+42,99788,Male,10,Masters,Delhi,0
+62,41316,Female,73,Masters,Kolkata,0
+68,122907,Female,77,High School,Mumbai,0
+36,104698,Male,48,Masters,Delhi,0
+63,35960,Male,35,Bachelors,Kolkata,1
+53,50791,Male,54,Bachelors,Chennai,0
+62,127766,Female,87,PhD,Delhi,0
+25,45216,Female,81,Masters,Kolkata,1
+46,52467,Male,71,PhD,Mumbai,0
+49,84427,Female,16,Masters,Chennai,1
+68,132470,Female,53,Masters,Delhi,1
+61,82047,Female,40,Bachelors,Mumbai,0
+35,93290,Female,20,High School,Chennai,1
+23,67014,Female,88,Masters,Bangalore,0
+35,24078,Female,69,Masters,Mumbai,0
+36,98389,Female,45,Masters,Bangalore,0
+39,70519,Male,6,High School,Delhi,0
+54,24042,Male,92,PhD,Kolkata,0
+49,69052,Male,69,PhD,Delhi,0
+58,34389,Male,49,Masters,Mumbai,1
+20,115961,Male,39,Masters,Bangalore,1
+45,88111,Male,2,PhD,Bangalore,1
+27,125058,Male,39,PhD,Chennai,0
+68,113715,Male,21,Bachelors,Delhi,0
+52,70733,Male,40,Masters,Delhi,0
+46,54754,Female,82,PhD,Mumbai,0
+32,38624,Female,54,Bachelors,Bangalore,0
+50,105886,Male,12,High School,Mumbai,1
+24,46681,Female,81,Masters,Mumbai,0
+29,109524,Female,37,PhD,Bangalore,0
+66,101006,Male,38,Masters,Mumbai,0
+47,44704,Male,15,Bachelors,Bangalore,0
+38,124272,Male,7,PhD,Mumbai,0
+48,114913,Female,78,High School,Kolkata,0
+41,114108,Female,50,High School,Mumbai,1
+37,143731,Male,65,Bachelors,Mumbai,0
+54,27493,Female,67,High School,Kolkata,1
+21,89639,Female,44,High School,Delhi,0
+45,120380,Female,31,High School,Bangalore,0
+61,74383,Male,43,High School,Chennai,1
+37,22994,Female,77,High School,Kolkata,0
+41,89280,Female,48,High School,Delhi,0
+67,67234,Female,82,High School,Mumbai,1
+66,67291,Female,81,PhD,Delhi,0
+68,148674,Female,81,High School,Kolkata,0
+49,112868,Female,61,PhD,Mumbai,1
+58,25594,Female,75,Masters,Delhi,1
+53,125835,Male,84,Bachelors,Chennai,0
+51,27371,Male,10,High School,Bangalore,0
+53,67315,Female,29,Bachelors,Bangalore,1
+19,103564,Male,48,High School,Kolkata,0
+32,147251,Female,98,PhD,Mumbai,0
+51,121448,Female,81,High School,Mumbai,0
+53,99526,Female,62,Masters,Bangalore,1
+23,132387,Male,13,Bachelors,Delhi,0
+56,36626,Female,44,Bachelors,Mumbai,1
+59,106005,Female,47,Masters,Chennai,0
+68,126258,Male,64,PhD,Chennai,0
+68,125573,Male,91,PhD,Mumbai,1
+29,27130,Female,53,Masters,Mumbai,1
+20,26828,Male,90,Bachelors,Bangalore,0
+62,77514,Male,92,High School,Kolkata,0
+35,127148,Female,77,PhD,Bangalore,1
+57,132524,Female,76,High School,Kolkata,1
+38,124635,Female,44,Bachelors,Chennai,0
+32,72664,Male,28,High School,Kolkata,0
+50,131701,Male,2,Masters,Bangalore,1
+52,37883,Male,57,PhD,Mumbai,1
+43,63059,Female,57,PhD,Kolkata,1
+25,104078,Male,34,Masters,Bangalore,0
+53,62932,Male,87,Masters,Chennai,0
+65,149900,Female,58,PhD,Kolkata,1
+47,81269,Female,52,PhD,Chennai,0
+40,139850,Female,29,PhD,Chennai,0
+59,95986,Male,35,Bachelors,Delhi,0
+61,105959,Female,75,Bachelors,Kolkata,0
+31,22035,Male,48,Bachelors,Bangalore,0
+31,129767,Male,33,High School,Kolkata,1
+19,60745,Female,75,Bachelors,Kolkata,1
+54,37241,Female,73,PhD,Chennai,0
+22,72975,Female,78,Bachelors,Chennai,0
+55,43154,Female,9,PhD,Chennai,0
+62,45625,Female,48,Masters,Chennai,1
+58,64950,Male,67,High School,Bangalore,0
+64,118602,Male,93,High School,Mumbai,1
+31,76396,Male,83,Masters,Delhi,0
+56,119227,Female,36,PhD,Chennai,0
+42,138920,Male,96,High School,Chennai,1
+37,33331,Female,71,Bachelors,Delhi,0
+19,83927,Female,92,PhD,Chennai,0
+56,106226,Male,44,High School,Mumbai,0
+23,104719,Male,82,Masters,Kolkata,0
+34,83014,Female,60,PhD,Delhi,0
+42,59346,Male,63,High School,Bangalore,0
+45,90411,Female,5,Masters,Delhi,1
+19,74478,Male,87,PhD,Mumbai,1
+52,32254,Male,86,Bachelors,Bangalore,1
+54,75734,Male,90,PhD,Kolkata,0
+22,48621,Male,76,Bachelors,Chennai,1
+18,136490,Male,40,PhD,Delhi,0
+57,96441,Female,19,Masters,Bangalore,0
+29,66121,Male,47,Bachelors,Delhi,0
+53,147386,Male,65,Bachelors,Kolkata,1
+62,101418,Male,67,PhD,Delhi,0
+40,80197,Female,91,High School,Bangalore,1
+64,104577,Female,18,Bachelors,Mumbai,0
+48,114634,Female,50,PhD,Bangalore,0
+28,138034,Female,30,Masters,Delhi,0
+27,62431,Female,66,PhD,Kolkata,1
+20,137637,Male,5,PhD,Chennai,0
+31,119245,Male,93,Bachelors,Chennai,1
+33,120211,Male,97,High School,Kolkata,1
+27,24837,Female,42,Masters,Delhi,1
+46,131984,Female,84,Bachelors,Kolkata,0
+27,110025,Male,94,Bachelors,Delhi,1
+29,103163,Female,5,Bachelors,Bangalore,1
+47,91232,Female,50,Masters,Mumbai,0
+58,68994,Female,85,High School,Delhi,1
+18,99079,Male,58,Masters,Chennai,0
+22,32615,Male,79,Masters,Chennai,0
+37,21466,Female,84,High School,Mumbai,0
+25,50771,Female,8,Masters,Delhi,0
+60,138645,Female,31,PhD,Mumbai,0
+29,103886,Female,12,Masters,Bangalore,0
+18,85911,Male,21,Bachelors,Mumbai,1
+37,118566,Female,94,Masters,Bangalore,1
+45,40746,Male,62,Bachelors,Chennai,1
+60,108422,Male,91,Masters,Bangalore,0
+54,129884,Male,90,Bachelors,Delhi,1
+64,80739,Female,33,Bachelors,Delhi,0
+54,128440,Male,26,Bachelors,Delhi,1
+29,118187,Male,90,High School,Delhi,0
+54,93369,Female,40,Masters,Kolkata,0
+66,21893,Female,65,Masters,Bangalore,1
+66,50573,Female,59,PhD,Delhi,0
+61,116907,Male,15,PhD,Mumbai,0
+45,60874,Female,1,PhD,Mumbai,1
+64,97362,Male,11,Masters,Kolkata,0
+32,119956,Male,55,High School,Bangalore,0
+23,107460,Female,2,Bachelors,Bangalore,0
+61,147021,Male,65,Masters,Bangalore,0
+37,138580,Male,95,High School,Kolkata,0
+67,53367,Male,44,High School,Bangalore,1
+31,41199,Male,16,Masters,Bangalore,0
+19,136600,Female,22,Bachelors,Delhi,1
+26,111404,Male,18,High School,Bangalore,0
+54,94328,Female,47,Masters,Delhi,0
+37,77724,Male,81,Bachelors,Delhi,1
+43,106133,Male,30,PhD,Bangalore,1
+46,56405,Female,10,High School,Mumbai,1
+18,118232,Male,99,High School,Chennai,1
+52,128659,Male,58,Masters,Mumbai,0
+23,35989,Male,62,Masters,Bangalore,0
+54,48931,Male,85,Bachelors,Bangalore,1
+22,29290,Male,80,PhD,Mumbai,0
+50,58367,Male,6,PhD,Bangalore,0
+66,141136,Female,67,Masters,Delhi,0
+68,99878,Female,41,Masters,Kolkata,1
+31,110477,Female,43,Bachelors,Bangalore,0
+29,99481,Male,85,Masters,Bangalore,0
+59,96298,Male,77,Bachelors,Mumbai,0
+37,146299,Male,18,Bachelors,Delhi,1
+67,50133,Female,58,PhD,Mumbai,0
+41,132616,Male,60,Bachelors,Mumbai,0
+60,125686,Female,88,PhD,Bangalore,1
+51,47052,Male,27,PhD,Delhi,1
+42,127286,Male,68,PhD,Bangalore,1
+67,105489,Male,22,Masters,Bangalore,1
+46,60475,Female,24,PhD,Bangalore,0
+56,102666,Male,40,Bachelors,Bangalore,0
+48,116622,Female,74,Masters,Kolkata,0
+64,77656,Male,66,Bachelors,Chennai,1
+60,24633,Male,40,Masters,Delhi,0
+67,37304,Female,6,Bachelors,Kolkata,1
+40,127573,Male,18,High School,Chennai,1
+61,117820,Male,81,High School,Chennai,0
+55,66546,Male,87,High School,Chennai,0
+37,27008,Male,30,Bachelors,Kolkata,0
+40,68291,Female,21,Masters,Delhi,0
+62,47405,Female,62,PhD,Mumbai,0
+69,137069,Male,10,PhD,Chennai,1
+33,56386,Male,13,Bachelors,Mumbai,0
+67,110909,Female,76,Bachelors,Mumbai,0
+59,40827,Male,9,Bachelors,Bangalore,0
+25,53040,Female,68,Bachelors,Mumbai,1
+67,80354,Male,39,PhD,Bangalore,1
+38,98543,Female,24,Masters,Delhi,1
+18,38157,Female,34,PhD,Delhi,1
+25,117693,Female,61,Bachelors,Bangalore,0
+46,55315,Female,41,High School,Delhi,0
+49,55932,Male,5,PhD,Chennai,0
+55,41164,Male,79,High School,Delhi,0
+22,34414,Female,50,High School,Bangalore,1
+64,147597,Female,4,Bachelors,Chennai,0
+39,34327,Female,51,PhD,Mumbai,0
+64,133880,Female,52,Masters,Mumbai,1
+51,20946,Male,39,PhD,Mumbai,1
+18,34693,Female,8,Masters,Bangalore,1
+43,47241,Female,45,Masters,Mumbai,0
+60,135194,Female,88,Bachelors,Delhi,1
+27,115790,Female,28,Masters,Mumbai,0
+47,35540,Female,27,PhD,Kolkata,0
+67,92255,Female,65,PhD,Kolkata,1
+35,84757,Female,34,High School,Mumbai,1
+34,61203,Male,81,Masters,Mumbai,0
+43,45081,Female,62,Bachelors,Kolkata,0
+25,81861,Female,62,Bachelors,Mumbai,0
+64,31350,Female,38,PhD,Chennai,0
+57,75512,Male,26,Masters,Kolkata,1
+66,76809,Male,24,Bachelors,Bangalore,0
+29,121894,Male,39,Masters,Kolkata,1
+44,117557,Female,21,Masters,Delhi,1
+25,62832,Female,94,High School,Chennai,0
+42,48369,Female,47,Bachelors,Bangalore,0
+63,51728,Male,48,High School,Mumbai,0
+21,37576,Female,13,Bachelors,Delhi,0
+50,49001,Male,3,Masters,Delhi,0
+18,147625,Male,32,Bachelors,Chennai,0
+36,103384,Male,35,PhD,Bangalore,1
+48,20390,Male,19,Masters,Delhi,0
+33,107535,Male,14,Bachelors,Bangalore,1
+31,65436,Female,48,High School,Bangalore,0
+65,31569,Female,86,High School,Delhi,1
+22,33029,Male,81,Masters,Bangalore,1
+58,42490,Female,68,High School,Chennai,0
+43,65875,Female,45,Masters,Delhi,1
+45,143552,Male,19,Masters,Chennai,1
+19,120864,Male,64,Masters,Chennai,1
+67,25867,Female,66,Bachelors,Bangalore,1
+23,100820,Female,79,Masters,Bangalore,0
+26,119515,Female,66,High School,Delhi,0
+50,29121,Female,75,PhD,Mumbai,0
+58,21539,Male,45,Bachelors,Delhi,0
+42,111024,Female,87,High School,Chennai,1
+65,37027,Male,74,Masters,Bangalore,1
+30,147402,Male,67,Masters,Chennai,0
+26,94229,Female,69,PhD,Kolkata,1
+30,28921,Female,3,High School,Kolkata,1
+48,70435,Female,38,Bachelors,Chennai,0
+58,142368,Male,77,High School,Mumbai,0
+28,30310,Male,42,Masters,Mumbai,0
+21,83965,Male,83,Bachelors,Delhi,1
+51,142033,Male,40,Masters,Delhi,1
+55,131048,Female,50,Masters,Delhi,0
+63,116444,Male,35,High School,Bangalore,0
+21,89922,Male,24,PhD,Mumbai,1
+55,117799,Female,88,Masters,Chennai,1
+36,113948,Male,17,High School,Kolkata,1
+23,102839,Male,40,Bachelors,Mumbai,1
+51,32242,Female,74,PhD,Mumbai,0
+35,137027,Male,66,Masters,Mumbai,0
+30,132561,Male,44,Masters,Delhi,0
+58,28947,Male,23,Bachelors,Bangalore,1
+40,132250,Male,6,High School,Chennai,0
+36,91466,Female,66,Masters,Delhi,1
+62,123706,Male,21,Bachelors,Bangalore,0
+28,140351,Female,35,Masters,Mumbai,1
+18,144749,Male,29,High School,Bangalore,0
+41,81816,Female,7,PhD,Delhi,0
+24,68785,Female,93,High School,Mumbai,1
+42,139963,Female,53,High School,Delhi,0
+38,20507,Male,37,High School,Chennai,1
+32,86972,Male,23,Bachelors,Mumbai,0
+18,47151,Male,97,Masters,Bangalore,0
+29,31618,Female,8,PhD,Delhi,1
+24,94286,Male,76,Bachelors,Kolkata,1
+32,36122,Male,48,High School,Bangalore,0
+38,27354,Male,10,PhD,Bangalore,1
+36,129598,Male,79,High School,Mumbai,0
+46,50979,Female,24,High School,Bangalore,0
+42,106436,Female,90,High School,Delhi,0
+50,99376,Male,47,PhD,Kolkata,0
+66,72774,Male,53,Masters,Chennai,0
+49,122703,Male,39,High School,Kolkata,0
+66,25037,Female,67,Masters,Delhi,0
+52,48633,Male,66,PhD,Mumbai,1
+61,44495,Female,6,PhD,Delhi,0
+55,84550,Female,21,High School,Bangalore,1
+43,101384,Male,73,Masters,Mumbai,1
+28,56483,Male,74,Masters,Chennai,0
+52,133181,Male,36,High School,Chennai,0
+25,93373,Female,3,Bachelors,Delhi,0
+63,54069,Female,88,Bachelors,Bangalore,1
+31,27370,Male,86,PhD,Chennai,0
+27,139873,Female,78,PhD,Kolkata,0
+19,136843,Male,42,Bachelors,Mumbai,1
+63,91947,Male,45,Bachelors,Kolkata,1
+26,59133,Female,44,Bachelors,Chennai,0
+20,116035,Female,91,High School,Chennai,0
+38,115761,Female,33,High School,Delhi,1
+43,133753,Female,60,High School,Delhi,1
+25,20692,Male,86,High School,Mumbai,0
+65,48926,Male,93,High School,Delhi,0
+19,119782,Male,83,High School,Bangalore,1
+23,124700,Female,83,PhD,Mumbai,1
+45,93984,Male,70,Masters,Bangalore,1
+46,63390,Female,83,PhD,Delhi,0
+43,69593,Female,77,Masters,Mumbai,1
+42,95609,Female,26,PhD,Chennai,0
+29,120950,Male,86,PhD,Kolkata,0
+22,25209,Female,21,High School,Chennai,1
+51,146700,Female,2,High School,Bangalore,0
+65,26533,Female,47,Masters,Chennai,1
+54,106597,Female,30,Masters,Chennai,0
+32,27211,Female,27,High School,Kolkata,1
+61,29927,Female,71,PhD,Kolkata,0
+53,97463,Female,20,Masters,Chennai,1
+32,137333,Female,50,Bachelors,Kolkata,0
+60,44594,Female,95,Bachelors,Chennai,1
+65,94852,Female,23,Bachelors,Mumbai,1
+40,97713,Female,13,Masters,Chennai,0
+23,96382,Female,81,High School,Delhi,0
+63,27933,Male,4,High School,Kolkata,0
+67,123780,Male,14,High School,Kolkata,1
+61,132157,Female,20,Masters,Bangalore,0
+60,60696,Female,13,Masters,Bangalore,0
+62,85449,Female,3,Bachelors,Delhi,0
+38,87616,Male,90,Masters,Kolkata,1
+40,26089,Male,90,Bachelors,Kolkata,0
+60,76548,Male,82,Bachelors,Bangalore,0
+33,46123,Female,96,High School,Bangalore,1
+64,27797,Female,78,Masters,Chennai,1
+32,70013,Female,47,High School,Kolkata,0
+42,28346,Female,3,High School,Kolkata,1
+53,105414,Male,1,Masters,Chennai,1
+28,53672,Female,90,Masters,Kolkata,0
+68,37653,Male,24,PhD,Delhi,0
+32,69556,Male,35,Bachelors,Bangalore,1
+21,143723,Female,14,PhD,Bangalore,0
+38,128278,Male,67,Bachelors,Bangalore,0
+30,46140,Male,13,Bachelors,Mumbai,0
+39,21184,Male,47,Bachelors,Delhi,1
+36,143626,Male,50,High School,Delhi,0
+51,54493,Female,78,High School,Chennai,1
+31,64148,Female,85,Masters,Mumbai,0
+21,44846,Male,26,Bachelors,Kolkata,1
+65,131361,Female,3,Bachelors,Delhi,1
+69,42195,Male,51,Bachelors,Mumbai,0
+63,25606,Female,40,High School,Mumbai,1
+44,23956,Female,68,Masters,Delhi,0
+46,36555,Female,36,High School,Chennai,1
+64,110385,Female,51,PhD,Mumbai,0
+45,38690,Female,1,PhD,Bangalore,0
+52,78502,Male,33,PhD,Mumbai,1
+25,144586,Female,7,Masters,Kolkata,1
+33,68849,Male,52,PhD,Delhi,0
+59,46347,Male,11,Masters,Kolkata,0
+53,118725,Female,27,High School,Chennai,0
+47,123844,Male,14,High School,Bangalore,1
+35,111321,Female,86,Masters,Delhi,0
+19,69056,Male,80,High School,Mumbai,0
+66,83851,Male,46,High School,Bangalore,0
+30,118234,Female,76,Masters,Mumbai,1
+21,101502,Female,10,PhD,Chennai,0
+43,116633,Female,24,Masters,Delhi,0
+42,101418,Female,61,Bachelors,Chennai,0
+47,90211,Male,18,High School,Chennai,0
+28,61850,Female,86,Masters,Chennai,1
+24,98545,Male,9,High School,Chennai,1
+48,47843,Male,17,PhD,Mumbai,1
+61,82320,Male,58,High School,Kolkata,0
+27,49793,Male,13,Masters,Mumbai,1
+56,59516,Male,50,PhD,Bangalore,0
+30,124407,Male,6,PhD,Chennai,0
+48,149045,Female,85,PhD,Bangalore,1
+24,37857,Male,51,Bachelors,Mumbai,0
+66,39627,Male,36,Masters,Chennai,0
+59,81822,Male,71,Masters,Mumbai,1
+59,104101,Female,25,PhD,Chennai,0
+53,111561,Female,11,High School,Mumbai,1
+37,72248,Male,44,PhD,Delhi,1
+21,75798,Female,14,Bachelors,Kolkata,0
+24,113368,Male,29,PhD,Kolkata,0
+18,64116,Female,74,Masters,Chennai,0
+61,95318,Male,50,PhD,Delhi,0
+62,124186,Female,5,High School,Bangalore,0
+59,147119,Female,72,Masters,Delhi,1
+64,107902,Female,69,High School,Chennai,0
+30,48557,Male,88,PhD,Delhi,0
+39,91334,Male,57,Masters,Bangalore,0
+38,95163,Male,26,Bachelors,Chennai,0
+39,126719,Female,6,Masters,Kolkata,1
+45,143099,Female,16,High School,Delhi,0
+26,98002,Male,60,Masters,Kolkata,1
+43,62614,Female,12,Bachelors,Kolkata,0
+26,32720,Male,75,Bachelors,Mumbai,0
+32,77608,Male,3,Bachelors,Bangalore,0
+27,127449,Male,63,Bachelors,Delhi,0
+41,122828,Male,64,High School,Kolkata,1
+59,146613,Female,62,Masters,Kolkata,0
+25,92095,Female,6,PhD,Bangalore,1
+41,125924,Female,19,Bachelors,Kolkata,0
+33,104694,Male,18,PhD,Kolkata,1
+66,116452,Female,80,PhD,Kolkata,0
+43,107593,Male,87,Masters,Kolkata,0
+44,55892,Male,43,PhD,Mumbai,0
+54,126975,Male,73,PhD,Mumbai,0
+21,97242,Male,3,High School,Chennai,1
+67,136041,Male,72,PhD,Delhi,0
+41,146202,Male,38,Masters,Bangalore,0
+36,97606,Female,68,PhD,Chennai,0
+53,143769,Female,76,Masters,Mumbai,0
+56,138542,Female,44,Bachelors,Mumbai,1
+27,126438,Female,95,PhD,Mumbai,1
+42,20924,Male,89,PhD,Chennai,1
+35,71322,Male,80,PhD,Mumbai,0
+36,46478,Female,63,Bachelors,Chennai,1
+53,91042,Female,42,High School,Mumbai,1
+27,66418,Female,64,PhD,Kolkata,0
+50,82217,Female,54,Masters,Kolkata,0
+67,120699,Female,78,High School,Delhi,1
+22,110140,Female,77,High School,Mumbai,0
+64,100846,Female,71,High School,Delhi,1
+66,93762,Female,76,PhD,Chennai,0
+52,31781,Male,37,Bachelors,Delhi,0
+61,25515,Male,4,Bachelors,Mumbai,1
+51,137358,Male,2,PhD,Chennai,1
+50,56133,Male,99,Masters,Chennai,0
+38,102508,Female,44,Masters,Kolkata,1
+34,117628,Male,67,Masters,Chennai,0
+39,96946,Female,68,PhD,Chennai,1
+65,105058,Male,76,Bachelors,Delhi,1
+54,29095,Female,83,PhD,Chennai,1
+32,108583,Female,74,Bachelors,Bangalore,0
+52,40470,Male,62,High School,Kolkata,0
+45,63129,Male,1,PhD,Kolkata,1
+24,28531,Female,17,Bachelors,Chennai,0
+49,57038,Female,16,High School,Delhi,0
+28,107939,Female,9,High School,Kolkata,1
+27,62674,Male,53,PhD,Kolkata,0
+26,147572,Male,73,Bachelors,Bangalore,0
+31,114658,Female,59,High School,Chennai,0
+30,102476,Male,9,PhD,Kolkata,0
+42,49831,Female,12,High School,Kolkata,0
+19,77174,Male,41,Masters,Kolkata,1
+52,31279,Male,15,PhD,Kolkata,0
+24,58220,Male,66,High School,Delhi,0
+38,80610,Male,75,PhD,Mumbai,1
+35,72719,Male,11,PhD,Bangalore,1
+20,144936,Female,8,Bachelors,Delhi,1
+59,73051,Female,55,Bachelors,Bangalore,0
+56,92013,Male,96,High School,Kolkata,1
+58,76652,Female,6,PhD,Bangalore,0
+66,85524,Female,53,PhD,Chennai,0
+28,102936,Male,20,Masters,Chennai,0
+56,26470,Female,39,PhD,Mumbai,0
+41,87598,Male,99,Bachelors,Mumbai,0
+63,61798,Female,72,PhD,Bangalore,1
+36,144517,Female,34,Bachelors,Delhi,0
+21,73473,Female,57,Masters,Delhi,1
+43,39880,Female,19,High School,Kolkata,0
+55,120117,Female,71,Bachelors,Delhi,0
+59,64439,Female,31,High School,Mumbai,0
+49,140944,Female,82,High School,Delhi,1
+56,34308,Male,40,High School,Kolkata,1
+62,111563,Male,14,High School,Chennai,1
+63,116256,Male,81,Bachelors,Delhi,1
+53,55081,Male,37,Masters,Delhi,1
+57,95242,Female,44,PhD,Mumbai,1
+54,70383,Female,9,Bachelors,Bangalore,1
+50,29837,Female,58,Masters,Chennai,0
+53,124135,Male,20,PhD,Bangalore,0
+20,72151,Male,92,High School,Kolkata,0
+26,138128,Male,50,PhD,Kolkata,0
+25,56824,Female,20,PhD,Bangalore,0
+50,53073,Male,36,Masters,Mumbai,0
+23,132651,Female,27,PhD,Mumbai,0
+58,117624,Male,72,High School,Mumbai,0
+56,113648,Female,32,Bachelors,Chennai,1
+21,46299,Male,1,Bachelors,Kolkata,0
+30,119993,Female,17,Masters,Kolkata,0
+66,78861,Male,9,High School,Kolkata,1
+19,50063,Male,84,High School,Chennai,0
+22,89453,Female,45,PhD,Kolkata,0
+61,141768,Female,96,Masters,Bangalore,0
+44,143299,Male,66,High School,Delhi,0
+49,88472,Female,32,High School,Chennai,0
+38,122166,Male,45,High School,Delhi,0
+25,34506,Female,9,Bachelors,Bangalore,0
+55,114341,Male,30,Bachelors,Mumbai,1
+25,99854,Female,84,Bachelors,Mumbai,0
+67,133604,Male,38,PhD,Mumbai,1
+20,46026,Male,60,PhD,Chennai,0
+61,47672,Male,1,PhD,Mumbai,0
+20,58417,Female,5,High School,Chennai,1
+39,72413,Male,63,Bachelors,Chennai,0
+23,144044,Female,99,High School,Delhi,1
+19,85066,Female,36,High School,Mumbai,0
+40,79213,Female,65,Masters,Kolkata,1
+61,70971,Male,78,High School,Mumbai,0
+19,47281,Female,73,PhD,Mumbai,0
+55,133978,Female,94,Bachelors,Mumbai,1
+34,48091,Female,24,Bachelors,Kolkata,1
+52,70494,Male,4,High School,Kolkata,0
+51,123864,Female,78,PhD,Chennai,1
+40,133755,Female,89,PhD,Kolkata,0
+47,38610,Female,68,PhD,Chennai,0
+69,21079,Female,25,Bachelors,Delhi,0
+25,115386,Male,74,PhD,Chennai,1
+39,66751,Male,99,PhD,Mumbai,1
+61,106126,Female,7,High School,Bangalore,0
+53,75432,Female,13,Masters,Bangalore,0
+22,50951,Female,68,PhD,Mumbai,1
+30,100863,Female,43,High School,Chennai,0
+46,98291,Male,57,High School,Mumbai,0
+48,145659,Male,36,PhD,Kolkata,0
+64,79872,Male,14,Masters,Chennai,0
+33,27235,Male,82,Bachelors,Mumbai,0
+59,102733,Female,72,Masters,Kolkata,0
+47,82712,Female,96,PhD,Kolkata,1
+33,41473,Male,27,Masters,Chennai,1
+29,87567,Male,37,High School,Delhi,0
+34,126818,Female,87,High School,Delhi,0
+33,145849,Female,71,Masters,Kolkata,0
+29,127399,Female,76,Bachelors,Delhi,0
+25,144421,Female,25,Masters,Kolkata,1
+37,99823,Female,67,PhD,Delhi,1
+20,124215,Male,90,Bachelors,Kolkata,1
+33,129999,Male,4,Masters,Kolkata,1
+47,52230,Female,79,Masters,Kolkata,0
+62,104573,Female,96,Bachelors,Kolkata,0
+40,112588,Male,93,Masters,Bangalore,1
+45,88876,Female,74,PhD,Delhi,1
+68,60644,Male,85,High School,Kolkata,0
+57,68664,Male,16,PhD,Mumbai,0
+22,65203,Male,19,Masters,Chennai,1
+37,86677,Male,29,High School,Mumbai,0
+57,45425,Female,51,Bachelors,Mumbai,1
+61,143246,Female,18,PhD,Bangalore,1
+18,104817,Male,58,Bachelors,Delhi,0
+47,127585,Female,44,High School,Bangalore,1
+38,105961,Female,16,Masters,Delhi,1
+37,120342,Female,65,High School,Kolkata,1
+23,145740,Female,2,High School,Bangalore,0
+39,117649,Male,56,Bachelors,Chennai,0
+35,89806,Female,79,PhD,Delhi,0
+25,62814,Male,28,High School,Bangalore,0
+56,90219,Male,65,Masters,Chennai,0
+49,69646,Female,5,High School,Mumbai,0
+50,59884,Male,22,Bachelors,Kolkata,1
+33,115345,Female,13,PhD,Kolkata,0
+29,146062,Female,65,Masters,Mumbai,0
+55,120088,Male,16,Bachelors,Bangalore,0
+69,138198,Female,86,High School,Mumbai,1
+51,89322,Male,64,High School,Chennai,1
+31,41650,Male,32,PhD,Delhi,0
+53,114242,Female,80,Bachelors,Bangalore,1
+50,29190,Female,51,Bachelors,Delhi,0
+40,58196,Female,79,PhD,Mumbai,0
+67,59449,Male,58,Masters,Kolkata,1
+62,59661,Female,46,Bachelors,Delhi,1
+19,49709,Male,52,PhD,Delhi,0
+58,130965,Male,63,Bachelors,Kolkata,1
+38,100428,Female,76,PhD,Delhi,1
+19,95179,Female,60,High School,Delhi,0
+44,29943,Female,65,High School,Kolkata,0
+26,63240,Male,81,Bachelors,Kolkata,0
+18,65760,Female,55,Bachelors,Mumbai,0
+28,41042,Male,57,High School,Mumbai,0
+20,141770,Female,92,Masters,Delhi,1
+69,63894,Female,71,PhD,Bangalore,0
+40,26869,Male,73,Masters,Mumbai,1
+43,81078,Male,86,Masters,Mumbai,0
+21,76759,Female,26,Masters,Bangalore,0
+35,125973,Female,12,High School,Bangalore,0
+23,64306,Female,71,Bachelors,Kolkata,0
+52,128369,Female,46,Masters,Mumbai,0
+39,75371,Female,47,High School,Chennai,1
+60,40918,Male,79,PhD,Chennai,1
+32,48379,Male,38,Bachelors,Delhi,0
+39,140667,Male,21,PhD,Mumbai,1
+54,128475,Male,14,Masters,Chennai,0
+69,110810,Female,2,Bachelors,Mumbai,0
+59,103232,Male,72,Masters,Mumbai,0
+29,22962,Male,70,Bachelors,Chennai,1
+64,33851,Male,33,Masters,Mumbai,0
+66,137626,Female,6,PhD,Bangalore,0
+59,65747,Male,90,PhD,Delhi,0
+55,145180,Female,37,Masters,Kolkata,1
+35,72349,Male,14,Bachelors,Chennai,1
+62,90832,Female,37,PhD,Kolkata,1
+52,76356,Male,8,Bachelors,Delhi,1
+47,34745,Female,77,Bachelors,Bangalore,0
+41,25730,Male,13,PhD,Bangalore,1
+59,33921,Female,40,High School,Bangalore,1
+47,118430,Female,92,High School,Bangalore,0
+31,91138,Male,58,Bachelors,Chennai,0
+23,103111,Female,18,PhD,Chennai,0
+20,39023,Female,57,High School,Mumbai,0
+33,65349,Male,83,Masters,Mumbai,1
+24,146796,Male,38,Bachelors,Delhi,0
+69,101533,Female,32,High School,Mumbai,0
+31,103286,Male,86,PhD,Delhi,1
+26,61979,Male,66,PhD,Delhi,0
+32,42837,Male,77,Bachelors,Delhi,0
+38,34997,Female,87,PhD,Bangalore,1
+52,124975,Female,25,Masters,Kolkata,0
+19,108603,Female,92,Masters,Kolkata,1
+44,65039,Female,58,High School,Chennai,0
+19,147394,Female,75,PhD,Delhi,0
+52,40923,Female,33,Masters,Bangalore,0
+35,28876,Female,88,Bachelors,Mumbai,0
+31,80973,Male,66,PhD,Mumbai,1
+37,22887,Female,30,High School,Chennai,1
+35,83723,Female,81,Bachelors,Chennai,1
+27,62422,Male,34,Bachelors,Delhi,0
+42,122390,Male,86,Bachelors,Delhi,1
+19,71413,Male,69,Masters,Mumbai,1
+42,122484,Female,48,Bachelors,Mumbai,0
+50,22841,Male,40,Masters,Mumbai,1
+53,144647,Female,51,Bachelors,Mumbai,0
+48,48756,Female,80,Masters,Kolkata,0
+31,91576,Female,13,PhD,Delhi,1
+18,138248,Male,90,Masters,Delhi,1
+63,30304,Male,31,Masters,Mumbai,0
+33,50341,Female,39,PhD,Bangalore,0
+63,24758,Female,63,Bachelors,Mumbai,1
+69,37010,Female,48,PhD,Chennai,1
+20,147039,Male,87,Bachelors,Bangalore,0
+52,80758,Female,48,Masters,Chennai,0
+58,51658,Male,61,Bachelors,Bangalore,0
+23,69002,Female,12,Masters,Chennai,1
+42,123318,Male,78,Bachelors,Mumbai,0
+30,21375,Female,56,Masters,Mumbai,0
+51,119485,Male,18,Masters,Bangalore,0
+25,42092,Male,27,High School,Chennai,1
+38,20490,Male,28,Bachelors,Kolkata,1
+51,23729,Male,82,Bachelors,Bangalore,1
+21,25974,Male,80,High School,Bangalore,0
+42,138222,Male,52,Masters,Delhi,0
+32,105216,Female,16,Masters,Bangalore,1
+21,103860,Female,77,High School,Kolkata,1
+62,147288,Female,58,High School,Mumbai,1
+29,116870,Female,93,PhD,Chennai,1
+49,41398,Male,9,Masters,Delhi,1
+49,54650,Female,26,PhD,Chennai,1
+45,41292,Male,28,Bachelors,Mumbai,1
+30,121291,Male,77,PhD,Bangalore,1
+48,123889,Male,36,High School,Kolkata,0
+31,23159,Female,9,High School,Delhi,0
+37,118162,Male,47,High School,Kolkata,1
+35,82766,Female,78,High School,Kolkata,0
+46,114887,Female,51,PhD,Kolkata,1
+23,122834,Female,76,PhD,Kolkata,0
+49,37065,Female,57,PhD,Mumbai,0
+46,41638,Female,32,High School,Kolkata,0
+60,21073,Male,67,High School,Kolkata,0
+19,66511,Male,57,Masters,Mumbai,0
+40,104307,Female,54,Masters,Chennai,0
+36,145274,Male,16,High School,Mumbai,1
+48,120997,Female,62,Masters,Bangalore,0
+68,127866,Male,84,Bachelors,Mumbai,0
+22,49320,Male,96,Bachelors,Chennai,0
+36,89876,Male,56,High School,Bangalore,1
+51,54924,Male,23,PhD,Bangalore,1
+27,101720,Male,17,Bachelors,Delhi,1
+42,60734,Male,80,Bachelors,Kolkata,0
+19,88116,Male,38,PhD,Bangalore,0
+28,60025,Male,72,Masters,Bangalore,1
+67,114503,Male,83,PhD,Chennai,1
+48,22159,Male,30,Masters,Bangalore,0
+32,68940,Male,58,Masters,Chennai,0
+26,99436,Male,98,PhD,Kolkata,0
+40,96976,Male,78,Masters,Delhi,0
+36,34678,Female,22,Bachelors,Delhi,1
+26,81075,Male,17,High School,Kolkata,0
+52,67204,Male,15,Masters,Kolkata,0
+38,32021,Male,48,Bachelors,Mumbai,0
+26,26772,Male,32,PhD,Bangalore,1
+45,87163,Male,77,Masters,Bangalore,1
+63,129968,Male,85,Bachelors,Bangalore,1
+68,93755,Female,40,Masters,Chennai,0
+24,43464,Female,97,PhD,Mumbai,1
+33,71137,Female,57,High School,Bangalore,0
+33,50232,Male,58,Masters,Chennai,0
+50,81497,Male,91,High School,Chennai,0
+21,128017,Male,99,Masters,Delhi,0
+21,94024,Female,16,Masters,Chennai,0
+56,120485,Male,28,PhD,Kolkata,1
+57,129898,Male,98,Masters,Chennai,0
+34,71448,Female,1,Bachelors,Kolkata,0
+54,125468,Female,41,Bachelors,Kolkata,0
+56,104517,Male,48,High School,Delhi,0
+69,20901,Male,31,High School,Delhi,0
+46,107980,Male,36,Bachelors,Chennai,0
+69,127594,Male,33,High School,Delhi,0
+53,103597,Female,33,High School,Delhi,0
+55,22881,Male,82,Bachelors,Bangalore,0
+56,49863,Male,23,Bachelors,Chennai,0
+67,131362,Female,60,Bachelors,Chennai,0
+54,25622,Male,87,PhD,Chennai,0
+69,142740,Male,79,PhD,Delhi,0
+52,21378,Female,90,Bachelors,Delhi,1
+24,103168,Female,30,Masters,Kolkata,0
+44,113847,Male,89,Bachelors,Mumbai,0
+45,91186,Female,45,PhD,Mumbai,1
+39,65201,Female,80,High School,Mumbai,1
+31,140767,Male,39,Masters,Bangalore,1
+24,127760,Female,45,Masters,Delhi,1
+54,79251,Male,78,High School,Kolkata,0
+39,92572,Male,81,Masters,Kolkata,0
+22,59255,Male,12,High School,Mumbai,1
+19,83212,Male,93,PhD,Bangalore,1
+44,70210,Female,32,Masters,Bangalore,1
+38,145629,Male,56,Masters,Mumbai,1
+55,136736,Male,24,High School,Mumbai,0
+32,42499,Male,13,High School,Delhi,0
+38,122552,Male,20,PhD,Bangalore,1
+27,71628,Female,79,High School,Kolkata,1
+40,81360,Female,56,High School,Mumbai,1
+56,24603,Female,53,PhD,Delhi,1
+22,113309,Male,68,Bachelors,Kolkata,0
+18,147466,Female,54,Bachelors,Bangalore,0
+30,105473,Female,34,High School,Mumbai,1
+38,32632,Male,28,PhD,Mumbai,0
+43,50607,Female,50,Bachelors,Delhi,0
+67,111873,Male,2,PhD,Delhi,0
+62,85756,Female,94,High School,Bangalore,0
+38,66994,Female,26,High School,Mumbai,0
+35,83382,Female,51,PhD,Delhi,1
+54,90354,Female,47,Masters,Mumbai,0
+62,76344,Male,26,High School,Bangalore,0
+49,73775,Male,84,High School,Mumbai,1
+53,27349,Female,92,High School,Kolkata,0
+34,91154,Male,84,High School,Mumbai,1
+52,47464,Female,75,PhD,Chennai,0
+66,62624,Female,74,PhD,Chennai,1
+28,141897,Female,61,PhD,Bangalore,0
+38,146866,Female,23,PhD,Bangalore,0
+69,57344,Female,37,Masters,Bangalore,1
+43,145857,Female,41,PhD,Kolkata,1
+21,103791,Male,52,PhD,Kolkata,0
+51,44299,Male,83,High School,Mumbai,1
+69,67975,Female,82,Masters,Delhi,0
+65,21462,Male,49,High School,Chennai,1
+35,140209,Female,27,Masters,Chennai,0
+57,101441,Male,6,Bachelors,Chennai,0
+52,110456,Male,74,Masters,Mumbai,0
+58,101788,Male,66,Masters,Mumbai,0
+46,126540,Female,24,High School,Bangalore,0
+69,60581,Male,38,Masters,Delhi,0
+46,120372,Female,28,Masters,Bangalore,0
+55,91289,Female,28,High School,Mumbai,0
+59,125541,Female,66,Bachelors,Kolkata,0
+38,34175,Male,61,Bachelors,Bangalore,1
+59,141704,Male,46,Bachelors,Mumbai,0
+30,26191,Male,69,Masters,Mumbai,1
+66,103434,Female,75,High School,Kolkata,1
+58,104518,Female,74,Bachelors,Kolkata,1
+34,100158,Male,43,Bachelors,Kolkata,1
+26,86537,Female,59,Bachelors,Delhi,0
+58,135721,Male,2,Bachelors,Mumbai,0
+18,67645,Male,15,High School,Kolkata,0
+19,128536,Male,37,Bachelors,Delhi,0
+65,43283,Male,71,Masters,Chennai,1
+46,143153,Female,20,Masters,Chennai,0
+50,106971,Male,98,High School,Chennai,0
+27,112759,Male,35,PhD,Mumbai,1
+67,79123,Male,34,Bachelors,Delhi,0
+57,122780,Male,86,Bachelors,Delhi,0
+38,50024,Male,31,Masters,Chennai,0
+45,69630,Male,87,High School,Bangalore,1
+28,50734,Male,19,PhD,Chennai,1
+51,20515,Female,68,Masters,Mumbai,0
+25,130782,Female,24,PhD,Chennai,0
+39,86727,Female,84,High School,Chennai,0
+25,117800,Female,39,High School,Delhi,0
+66,129164,Male,92,High School,Chennai,1
+32,66216,Female,54,Masters,Kolkata,0
+34,91833,Female,39,High School,Kolkata,0
+40,78755,Female,17,Masters,Bangalore,1
+41,47856,Male,19,Masters,Mumbai,1
+62,134959,Female,48,Bachelors,Mumbai,1
+36,93870,Female,35,Masters,Delhi,0
+22,44162,Male,32,Masters,Mumbai,0
+49,26008,Female,47,Bachelors,Bangalore,0
+61,27987,Male,47,PhD,Kolkata,1
+18,82532,Female,64,Bachelors,Delhi,0
+40,116502,Male,46,Bachelors,Kolkata,1
+54,23332,Female,35,High School,Bangalore,1
+25,86323,Female,94,High School,Delhi,0
+30,58990,Female,17,Bachelors,Chennai,0
+25,29873,Male,42,High School,Mumbai,1
+40,102542,Female,29,Bachelors,Bangalore,1
+60,105761,Male,70,High School,Delhi,1
+18,56444,Male,17,Masters,Kolkata,0
+62,55340,Male,81,High School,Delhi,0
+68,125219,Male,14,High School,Chennai,1
+41,25033,Female,24,Masters,Bangalore,1
+52,93324,Female,57,Bachelors,Delhi,0
+41,35689,Female,50,High School,Bangalore,0
+34,129756,Male,57,High School,Bangalore,1
+22,107134,Female,61,Masters,Kolkata,0
+37,123016,Male,39,Masters,Mumbai,1
+38,115239,Male,55,Masters,Chennai,0
+57,20066,Male,96,PhD,Delhi,1
+48,134159,Female,36,Masters,Mumbai,1
+63,65246,Female,37,Bachelors,Kolkata,0
+53,27533,Male,14,High School,Mumbai,1
+28,100639,Female,27,High School,Bangalore,1
+69,90152,Female,83,PhD,Bangalore,1
+32,131581,Male,31,High School,Chennai,0
+36,135828,Male,73,High School,Delhi,1
+24,79658,Female,81,Bachelors,Delhi,1
+68,58498,Male,83,High School,Kolkata,0
+45,129028,Male,44,Bachelors,Chennai,1
+68,31772,Female,68,PhD,Delhi,0
+60,109385,Female,48,Bachelors,Bangalore,0
+22,69036,Male,57,Masters,Chennai,0
+22,78531,Female,75,Masters,Mumbai,0
+47,139159,Male,22,PhD,Chennai,1
+49,32940,Male,4,High School,Chennai,1
+25,138027,Female,81,Bachelors,Delhi,0
+27,36932,Male,72,Masters,Kolkata,1
+55,115305,Male,46,Bachelors,Kolkata,0
+64,76827,Male,59,Masters,Delhi,0
+49,81431,Female,34,Bachelors,Delhi,0
+65,44648,Female,11,High School,Delhi,0
+45,132947,Female,31,PhD,Kolkata,0
+34,52966,Male,11,High School,Delhi,1
+48,47777,Male,56,Bachelors,Mumbai,0
+25,144661,Female,38,Masters,Mumbai,0
+57,52567,Female,21,Masters,Bangalore,0
+42,135259,Female,94,PhD,Mumbai,0
+26,37174,Male,10,High School,Chennai,1
+19,62598,Female,26,High School,Bangalore,0
+32,144711,Male,91,High School,Mumbai,1
+67,79199,Female,8,Masters,Chennai,0
+20,33798,Male,8,PhD,Mumbai,1
+66,85364,Male,60,Masters,Chennai,0
+53,37558,Female,72,High School,Delhi,1
+21,81084,Male,34,Bachelors,Chennai,0
+31,64237,Female,16,Masters,Delhi,0
+58,85497,Male,13,PhD,Chennai,1
+58,20178,Male,87,High School,Chennai,1
+42,136932,Female,76,Bachelors,Mumbai,0
+67,106006,Male,91,Masters,Chennai,1
+27,37118,Female,22,Bachelors,Mumbai,1
+38,42616,Female,96,Bachelors,Chennai,0
+53,20798,Female,27,PhD,Kolkata,0
+29,27601,Male,64,Masters,Bangalore,0
+44,45363,Male,2,PhD,Mumbai,0
+57,22795,Male,97,High School,Mumbai,1
+19,117462,Female,26,Bachelors,Delhi,0
+30,65264,Female,92,PhD,Kolkata,0
+49,122892,Male,83,PhD,Delhi,1
+48,92833,Male,69,High School,Kolkata,0
+33,149688,Female,97,Masters,Kolkata,1
+49,23084,Male,84,PhD,Chennai,1
+49,115865,Female,30,Bachelors,Delhi,1
+51,96646,Male,8,Bachelors,Bangalore,1
+28,20731,Female,38,Bachelors,Kolkata,0
+27,21129,Male,61,Bachelors,Kolkata,0
+32,48022,Male,81,PhD,Mumbai,0
+34,21605,Female,65,Bachelors,Chennai,0
+57,97506,Female,67,PhD,Bangalore,1
+35,129241,Female,46,Masters,Kolkata,0
+26,64130,Male,90,Bachelors,Mumbai,1
+42,49265,Female,95,Masters,Delhi,1
+57,52330,Female,72,PhD,Kolkata,0
+31,88469,Male,43,High School,Mumbai,0
+42,35187,Female,59,Masters,Delhi,0
+67,45791,Female,46,Bachelors,Chennai,1
+39,110436,Female,72,High School,Delhi,1
+69,90610,Male,35,Masters,Kolkata,0
+47,132341,Male,39,PhD,Bangalore,0
+37,111962,Male,92,PhD,Delhi,0
+38,59867,Female,51,PhD,Bangalore,1
+61,136178,Male,4,Masters,Bangalore,0
+49,20893,Female,80,PhD,Delhi,0
+68,119694,Female,77,Masters,Chennai,1
+63,39773,Female,84,Bachelors,Delhi,1
+66,24239,Male,51,Bachelors,Mumbai,1
+38,40863,Male,5,Masters,Bangalore,0
+52,71415,Female,55,Masters,Kolkata,1
+49,88968,Female,20,High School,Bangalore,0
+47,120675,Male,24,PhD,Kolkata,0
+56,80430,Male,36,Bachelors,Mumbai,0
+66,139000,Male,34,Bachelors,Mumbai,0
+29,21515,Female,54,High School,Mumbai,0
+58,117206,Male,34,Masters,Delhi,1
+64,134210,Male,83,Masters,Bangalore,0
+35,124630,Male,17,High School,Kolkata,1
+38,34605,Female,5,PhD,Mumbai,0
+30,76240,Male,89,Masters,Mumbai,0
+38,25586,Female,18,Masters,Kolkata,1
+25,121221,Female,55,PhD,Bangalore,1
+63,140419,Female,53,PhD,Bangalore,0
+57,142374,Male,50,High School,Kolkata,1
+63,134205,Male,72,High School,Chennai,0
+24,51186,Male,91,High School,Bangalore,1
+40,46928,Female,79,Masters,Kolkata,0
+61,118264,Male,45,High School,Kolkata,1
+49,103087,Female,13,Masters,Mumbai,0
+28,142990,Male,16,Bachelors,Kolkata,1
+39,107029,Male,86,PhD,Delhi,1
+39,40711,Male,84,PhD,Mumbai,0
+60,74962,Male,13,Bachelors,Mumbai,1
+42,40039,Female,20,High School,Bangalore,0
+39,56561,Female,66,Masters,Chennai,0
+45,95483,Female,99,Masters,Bangalore,1
+46,117871,Female,47,Masters,Delhi,0
+30,101395,Male,19,PhD,Mumbai,0
+35,108658,Female,45,High School,Mumbai,0
+19,21577,Female,37,Masters,Kolkata,1
+46,127792,Female,54,Masters,Chennai,0
+38,48350,Male,6,Masters,Chennai,0
+32,136908,Female,14,Bachelors,Kolkata,1
+69,127468,Female,4,Masters,Delhi,1
+44,53798,Male,86,Bachelors,Chennai,1
+67,117434,Male,55,Masters,Mumbai,1
+48,101417,Female,34,Masters,Delhi,1
+32,30785,Female,27,Masters,Bangalore,0
+68,92227,Male,7,Bachelors,Bangalore,0
+40,138680,Female,3,Masters,Delhi,1
+41,81957,Male,47,High School,Mumbai,1
+61,85431,Female,97,Masters,Bangalore,1
+30,37297,Female,2,Bachelors,Mumbai,0
+39,91894,Female,80,Bachelors,Kolkata,0
+60,136869,Female,25,High School,Chennai,1
+54,83772,Female,60,PhD,Delhi,1
+50,39581,Male,79,High School,Chennai,1
+20,75192,Male,24,High School,Kolkata,0
+36,21462,Female,15,Bachelors,Bangalore,0
+40,148848,Female,95,Masters,Mumbai,1
+46,84173,Female,14,Masters,Mumbai,1
+47,35511,Male,54,PhD,Kolkata,0
+56,96106,Male,78,PhD,Delhi,0
+61,68665,Male,6,PhD,Chennai,1
+64,64414,Male,78,PhD,Bangalore,1
+42,101010,Male,81,High School,Delhi,0
+54,92573,Male,18,High School,Kolkata,0
+64,113665,Male,20,Masters,Kolkata,0
+25,127803,Male,62,High School,Mumbai,0
+59,139682,Female,81,Masters,Bangalore,1
+33,33386,Male,80,Masters,Delhi,0
+25,144069,Male,40,Masters,Mumbai,1
+18,74460,Male,39,Masters,Bangalore,1
+61,26221,Male,52,Bachelors,Chennai,0
+22,43474,Female,32,Masters,Chennai,0
+20,126073,Male,73,High School,Mumbai,0
+18,135375,Female,27,High School,Delhi,0
+21,132660,Female,52,High School,Bangalore,0
+57,41045,Female,97,High School,Chennai,1
+52,111319,Male,63,Bachelors,Chennai,1
+49,136582,Male,74,PhD,Delhi,1
+59,125693,Male,63,PhD,Mumbai,1
+51,24922,Female,17,Masters,Kolkata,1
+60,131943,Female,49,Masters,Bangalore,1
+42,42706,Female,81,High School,Chennai,0
+27,62771,Female,82,High School,Kolkata,1
+38,72335,Male,23,PhD,Delhi,0
+63,118015,Male,98,PhD,Mumbai,0
+56,72949,Male,72,High School,Bangalore,0
+44,90714,Female,13,Masters,Delhi,1
+44,115558,Female,23,Bachelors,Mumbai,1
+19,35240,Male,57,Bachelors,Delhi,1
+58,111756,Male,62,PhD,Chennai,1
+65,122272,Female,54,PhD,Chennai,0
+30,22716,Male,20,PhD,Kolkata,1
+26,36574,Male,86,Bachelors,Delhi,1
+69,131815,Female,52,Bachelors,Chennai,1
+53,103255,Female,23,High School,Mumbai,0
+39,93717,Female,35,Masters,Kolkata,0
+59,131299,Male,67,PhD,Bangalore,1
+43,64066,Female,34,High School,Delhi,0
+29,135066,Male,33,Bachelors,Chennai,1
+34,81826,Male,46,High School,Mumbai,0
+31,40213,Female,81,Bachelors,Delhi,1
+31,91916,Male,45,Masters,Mumbai,0
+51,86151,Female,19,Bachelors,Kolkata,1
+37,148518,Female,94,High School,Chennai,0
+28,137018,Male,87,Masters,Chennai,1
+33,149024,Male,15,Bachelors,Kolkata,0
+68,70906,Female,78,PhD,Mumbai,1
+48,20463,Female,66,Bachelors,Delhi,1
+23,51973,Female,39,Masters,Mumbai,0
+36,94694,Female,18,High School,Delhi,1
+54,40651,Female,70,Masters,Kolkata,0
+21,88694,Female,59,High School,Bangalore,0
+64,40008,Male,32,Bachelors,Delhi,0
+21,131738,Male,21,Bachelors,Chennai,1
+37,90474,Male,40,Masters,Chennai,0
+27,58185,Male,92,PhD,Chennai,0
+41,107924,Female,27,Bachelors,Mumbai,1
+52,94417,Male,2,PhD,Mumbai,1
+43,145502,Male,97,PhD,Mumbai,0
+54,91139,Female,80,Masters,Chennai,1
+55,54980,Male,39,Bachelors,Delhi,1
+38,42504,Female,86,PhD,Chennai,0
+57,74970,Female,56,Bachelors,Delhi,1
+56,36766,Female,13,High School,Mumbai,0
+38,136944,Female,56,PhD,Bangalore,1
+27,113922,Female,66,Masters,Mumbai,0
+55,31695,Male,78,Masters,Kolkata,1
+63,37796,Male,56,PhD,Delhi,0
+21,62543,Male,28,Bachelors,Bangalore,1
+62,34559,Female,64,High School,Mumbai,0
+37,124450,Male,71,High School,Bangalore,0
+34,53139,Male,82,Masters,Chennai,0
+24,140494,Male,64,Masters,Delhi,1
+21,123869,Male,56,Bachelors,Kolkata,0
+46,28802,Female,41,Masters,Chennai,0
+31,93843,Male,41,Bachelors,Bangalore,0
+20,60205,Female,4,PhD,Mumbai,1
+41,118750,Female,57,High School,Delhi,0
+54,54159,Male,30,PhD,Kolkata,1
+33,31516,Female,88,Masters,Mumbai,0
+69,70492,Female,84,High School,Kolkata,0
+21,49086,Female,46,High School,Delhi,0
+41,133758,Female,56,PhD,Bangalore,1
+51,50480,Female,31,Bachelors,Kolkata,0
+47,72091,Female,88,High School,Delhi,0
+35,148023,Female,7,Bachelors,Kolkata,0
+36,130195,Male,90,PhD,Mumbai,1
+48,67766,Male,77,PhD,Kolkata,0
+36,58737,Female,54,Bachelors,Mumbai,1
+66,29265,Female,8,PhD,Mumbai,0
+63,134165,Male,55,High School,Delhi,0
+36,139501,Male,69,PhD,Chennai,0
+39,138257,Male,44,PhD,Kolkata,1
+41,90990,Male,13,High School,Bangalore,1
+62,121454,Female,93,Bachelors,Mumbai,0
+29,111717,Female,20,PhD,Chennai,1
+47,35386,Male,78,Bachelors,Mumbai,0
+55,124718,Male,32,High School,Chennai,1
+48,57425,Male,60,Bachelors,Chennai,0
+53,141635,Male,50,Bachelors,Bangalore,0
+36,63254,Female,27,Masters,Chennai,1
+65,109863,Male,25,Masters,Bangalore,1
+62,138350,Male,52,PhD,Delhi,0
+53,73634,Male,68,Masters,Mumbai,0
+47,106717,Female,21,Masters,Bangalore,0
+66,67662,Female,18,Masters,Mumbai,1
+50,106988,Female,39,Bachelors,Kolkata,0
+35,123784,Male,15,Bachelors,Delhi,1
+69,126337,Male,53,Masters,Kolkata,0
+66,119287,Male,38,High School,Kolkata,0
+45,107527,Female,48,Masters,Chennai,0
+64,126847,Female,52,High School,Chennai,0
+28,95452,Male,88,Bachelors,Kolkata,0
+62,30143,Male,72,High School,Chennai,0
+50,111391,Female,28,Bachelors,Mumbai,1
+34,35581,Male,85,High School,Chennai,0
+23,87443,Male,16,Bachelors,Kolkata,1
+21,49424,Male,16,Bachelors,Chennai,0
+37,108844,Female,35,Masters,Chennai,1
+65,61984,Male,17,PhD,Bangalore,1
+64,61505,Male,73,PhD,Bangalore,1
+44,132061,Male,99,Bachelors,Kolkata,1
+32,122478,Male,52,Masters,Mumbai,0
+23,82699,Female,93,PhD,Delhi,1
+64,46957,Female,82,PhD,Delhi,1
+31,45464,Female,12,Masters,Kolkata,0
+28,134012,Male,83,Masters,Mumbai,0
+56,43649,Female,48,PhD,Mumbai,0
+26,62065,Male,22,PhD,Mumbai,0
+43,112661,Female,49,High School,Bangalore,0
+33,54758,Male,52,High School,Kolkata,0
+22,25596,Female,79,Bachelors,Delhi,0
+69,36374,Female,1,PhD,Mumbai,1
+27,138686,Female,66,Masters,Kolkata,0
+67,23775,Male,64,Masters,Delhi,1
+20,47388,Male,8,PhD,Bangalore,0
+30,143800,Male,86,Bachelors,Chennai,0
+60,41029,Female,25,Masters,Delhi,0
+66,103981,Male,66,PhD,Delhi,0
+47,73639,Male,73,PhD,Delhi,0
+62,134010,Male,73,Bachelors,Chennai,0
+23,34645,Male,77,PhD,Mumbai,0
+34,51105,Male,70,Masters,Chennai,1
+62,33668,Male,94,High School,Delhi,0
+68,147949,Female,79,Bachelors,Bangalore,0
+36,35960,Female,51,PhD,Delhi,1
+59,146519,Male,53,Bachelors,Bangalore,0
+52,31357,Female,15,PhD,Kolkata,0
+63,84604,Female,50,High School,Bangalore,0
+43,122739,Male,71,Bachelors,Delhi,0
+68,71796,Male,75,PhD,Chennai,0
+22,35804,Female,38,High School,Delhi,0
+46,147732,Male,40,Masters,Delhi,0
+54,135733,Female,66,PhD,Kolkata,1
+37,34626,Female,39,High School,Mumbai,0
+66,48132,Female,74,High School,Delhi,0
+38,27951,Male,17,Bachelors,Kolkata,1
+27,26449,Female,7,PhD,Chennai,1
+22,39065,Male,39,Masters,Kolkata,0
+53,121503,Male,68,PhD,Kolkata,1
+23,125072,Male,35,High School,Bangalore,0
+43,29130,Male,51,Masters,Mumbai,0
+21,109360,Male,47,High School,Mumbai,1
+56,82287,Female,36,Bachelors,Chennai,1
+56,126937,Male,64,PhD,Kolkata,0
+67,71702,Male,95,High School,Chennai,1
+52,56993,Male,89,High School,Chennai,1
+18,51875,Male,13,PhD,Mumbai,0
+41,135284,Male,18,Masters,Mumbai,0
+53,26054,Female,21,High School,Mumbai,0
+23,119809,Male,65,PhD,Delhi,1
+58,127357,Male,8,Bachelors,Kolkata,0
+63,68517,Female,48,Bachelors,Chennai,1
+61,96368,Male,85,PhD,Kolkata,0
+48,49670,Female,43,High School,Chennai,0
+37,69112,Female,53,PhD,Chennai,1
+41,108388,Female,85,PhD,Chennai,1
+42,109156,Female,27,High School,Chennai,0
+53,48307,Male,19,Masters,Bangalore,0
+38,133087,Male,23,Masters,Bangalore,0
+47,87087,Female,50,Bachelors,Delhi,0
+41,67922,Female,51,Masters,Mumbai,0
+61,83080,Male,43,PhD,Chennai,1
+59,113348,Female,99,High School,Kolkata,0
+47,99335,Female,51,Bachelors,Bangalore,0
+39,46312,Female,69,Masters,Mumbai,0
+45,125156,Male,41,PhD,Delhi,1
+24,86985,Female,72,Bachelors,Mumbai,0
+52,140641,Male,11,High School,Chennai,1
+45,77608,Male,80,Masters,Mumbai,0
+31,109962,Male,88,PhD,Chennai,0
+27,120963,Female,85,High School,Bangalore,0
+33,60277,Female,52,PhD,Bangalore,0
+33,51551,Male,23,PhD,Chennai,1
+48,109813,Male,49,PhD,Kolkata,0
+59,76597,Male,38,High School,Bangalore,1
+42,121025,Female,47,Bachelors,Kolkata,0
+30,144342,Female,72,PhD,Chennai,0
+23,65212,Male,7,Bachelors,Chennai,0
+61,29637,Male,66,Bachelors,Bangalore,1
+26,63258,Female,94,Masters,Kolkata,1
+62,55693,Male,77,Masters,Chennai,1
+53,29824,Female,62,Bachelors,Bangalore,0
+60,149553,Female,87,Masters,Chennai,1
+37,46950,Male,29,Masters,Mumbai,0
+35,43488,Male,38,Bachelors,Mumbai,1
+60,147870,Female,84,High School,Bangalore,1
+38,124544,Female,33,Masters,Chennai,0
+21,135200,Female,29,Masters,Bangalore,0
+67,20215,Female,79,High School,Delhi,1
+50,125603,Female,23,High School,Bangalore,1
+44,31523,Male,3,High School,Bangalore,0
+24,95900,Female,93,Bachelors,Mumbai,1
+23,88689,Female,45,High School,Mumbai,1
+32,43834,Female,8,Bachelors,Chennai,0
+35,54474,Male,86,PhD,Bangalore,0
+49,63066,Male,29,PhD,Bangalore,1
+28,119871,Female,2,High School,Chennai,0
+37,30400,Female,50,High School,Kolkata,0
+41,145211,Male,65,PhD,Chennai,0
+32,30345,Male,20,Bachelors,Mumbai,1
+65,53896,Male,52,Bachelors,Mumbai,1
+24,105430,Male,85,High School,Bangalore,0
+38,48899,Female,37,High School,Mumbai,1
+59,126171,Male,72,High School,Chennai,1
+43,48229,Female,27,PhD,Bangalore,0
+61,137053,Female,47,Masters,Chennai,1
+31,25583,Male,99,High School,Chennai,1
+54,24897,Male,6,Bachelors,Bangalore,1
+38,140406,Male,60,Masters,Kolkata,1
+35,91537,Male,45,Bachelors,Mumbai,0
+22,129417,Female,44,Masters,Delhi,0
+20,24567,Female,83,PhD,Delhi,0
+40,94807,Female,18,Masters,Delhi,1
+43,149648,Male,65,Bachelors,Mumbai,1
+54,132652,Female,25,Masters,Kolkata,0
+41,97239,Male,27,PhD,Chennai,0
+66,33329,Female,7,Bachelors,Bangalore,0
+36,121045,Male,44,High School,Kolkata,1
+68,137708,Female,29,Masters,Delhi,0
+42,91792,Female,95,Bachelors,Mumbai,1
+38,20228,Male,44,Masters,Mumbai,0
+29,110282,Female,36,PhD,Bangalore,0
+58,102214,Female,19,Bachelors,Chennai,0
+50,57052,Male,6,High School,Kolkata,1
+67,77769,Male,25,High School,Kolkata,0
+21,66032,Male,31,Masters,Kolkata,1
+59,131694,Male,9,PhD,Chennai,0
+24,108721,Male,84,PhD,Chennai,0
+39,53686,Female,74,Masters,Chennai,0
+50,96981,Male,37,Bachelors,Bangalore,1
+34,118802,Female,27,Bachelors,Mumbai,1
+41,83261,Female,13,Masters,Delhi,0
+51,22809,Male,41,Bachelors,Chennai,1
+45,123265,Female,66,Bachelors,Mumbai,0
+60,61785,Female,85,Bachelors,Chennai,0
+58,56547,Male,97,Masters,Delhi,0
+56,62818,Female,24,High School,Chennai,1
+39,120422,Male,44,PhD,Mumbai,0
+66,91927,Male,98,High School,Bangalore,0
+34,85681,Male,60,Bachelors,Delhi,0
+51,99465,Female,9,Masters,Mumbai,0
+23,109862,Female,2,PhD,Kolkata,0
+63,115527,Female,56,Bachelors,Kolkata,0
+23,133221,Female,30,PhD,Kolkata,0
+51,57333,Male,22,PhD,Bangalore,1
+18,146457,Female,75,High School,Chennai,0
+27,36576,Male,81,Bachelors,Chennai,0
+38,139875,Female,13,PhD,Chennai,0
+22,59405,Female,71,High School,Bangalore,0
+19,114000,Female,16,Masters,Kolkata,1
+39,93779,Female,97,PhD,Chennai,0
+65,51601,Female,45,Bachelors,Bangalore,1
+19,87946,Male,65,Masters,Bangalore,1
+27,87356,Female,11,PhD,Mumbai,1
+51,72116,Female,70,PhD,Chennai,0
+33,120825,Female,20,Bachelors,Kolkata,0
+65,144749,Female,99,PhD,Delhi,0
+68,137256,Male,63,Bachelors,Bangalore,1
+56,124186,Female,90,Bachelors,Mumbai,0
+39,82894,Male,12,Bachelors,Delhi,0
+29,54635,Female,62,Bachelors,Bangalore,0
+41,27465,Male,94,PhD,Mumbai,1
+64,76754,Male,92,Masters,Chennai,1
+57,117975,Male,91,Masters,Mumbai,0
+55,112850,Male,42,High School,Bangalore,0
+27,129765,Male,83,Bachelors,Chennai,0
+52,105119,Female,69,PhD,Kolkata,0
+68,112691,Male,58,PhD,Mumbai,1
+66,58871,Female,5,High School,Delhi,1
+49,82874,Male,27,Masters,Chennai,1
+24,97733,Male,28,PhD,Chennai,0
+38,49511,Female,26,High School,Kolkata,1
+37,100960,Male,91,Masters,Mumbai,1
+43,68821,Male,49,PhD,Delhi,1
+21,85776,Male,21,Bachelors,Kolkata,1
+63,138128,Male,1,High School,Mumbai,0
+69,90167,Female,92,PhD,Delhi,1
+39,95135,Male,58,High School,Delhi,1
+32,64462,Male,79,High School,Bangalore,1
+57,81382,Female,55,High School,Delhi,0
+38,110194,Female,81,Bachelors,Mumbai,1
+32,123381,Male,26,Masters,Kolkata,0
+39,52574,Male,84,Masters,Kolkata,0
+69,122072,Female,25,PhD,Bangalore,0
+45,61910,Male,77,Bachelors,Mumbai,1
+31,93531,Female,33,Masters,Delhi,0
+44,45186,Male,89,PhD,Bangalore,0
+58,114781,Female,72,PhD,Chennai,1
+57,42813,Female,69,High School,Mumbai,1
+45,98812,Female,6,Bachelors,Bangalore,1
+43,105525,Male,23,Masters,Kolkata,0
+66,98282,Male,30,Bachelors,Bangalore,1
+19,129779,Male,78,Bachelors,Chennai,0
+42,38557,Male,54,Masters,Mumbai,0
+20,48060,Female,87,Masters,Bangalore,0
+25,78866,Female,11,Bachelors,Delhi,1
+61,92104,Female,31,PhD,Mumbai,0
+50,120905,Male,6,Bachelors,Bangalore,0
+59,104577,Male,11,Masters,Bangalore,0
+69,26080,Male,77,Bachelors,Mumbai,0
+52,33854,Female,12,Masters,Kolkata,1
+23,142013,Male,66,PhD,Delhi,1
+56,87695,Male,53,Bachelors,Mumbai,0
+69,47025,Female,99,PhD,Delhi,0
+40,72982,Female,36,Bachelors,Delhi,0
+42,61081,Male,17,Bachelors,Mumbai,1
+67,24368,Female,28,Masters,Bangalore,0
+60,119621,Male,92,High School,Kolkata,0
+36,139181,Female,22,Masters,Delhi,0
+22,47094,Female,7,Bachelors,Delhi,0
+68,66040,Female,15,High School,Bangalore,0
+28,86766,Male,96,High School,Mumbai,0
+29,103053,Male,11,PhD,Kolkata,0
+27,43991,Male,24,Bachelors,Delhi,0
+25,21301,Female,67,Masters,Delhi,1
+41,48610,Female,30,High School,Mumbai,0
+45,101463,Female,70,High School,Bangalore,0
+58,54678,Female,66,Masters,Chennai,1
+53,44466,Male,61,Masters,Bangalore,1
+54,100440,Male,78,High School,Delhi,0
+38,60875,Male,41,Masters,Delhi,1
+25,46081,Female,82,PhD,Kolkata,0
+26,44354,Female,51,High School,Bangalore,1
+64,113297,Male,44,PhD,Chennai,1
+32,38300,Female,95,Bachelors,Kolkata,0
+65,84384,Male,13,PhD,Chennai,0
+63,115027,Female,90,Masters,Kolkata,0
+57,141684,Female,12,High School,Bangalore,1
+35,80892,Male,82,PhD,Delhi,0
+59,55525,Male,9,Masters,Chennai,1
+37,46532,Female,85,Masters,Bangalore,0
+23,26464,Male,48,PhD,Chennai,0
+29,36562,Male,49,High School,Bangalore,0
+19,127392,Female,53,PhD,Kolkata,0
+24,75514,Female,56,Bachelors,Bangalore,0
+33,133428,Female,40,PhD,Kolkata,0
+20,132564,Male,24,PhD,Delhi,1
+62,128047,Female,98,High School,Kolkata,1
+20,94219,Female,72,PhD,Mumbai,1
+44,52634,Female,33,Masters,Delhi,0
+67,20060,Female,23,High School,Bangalore,1
+60,29269,Female,77,Masters,Bangalore,1
+57,83143,Male,54,High School,Mumbai,0
+55,43065,Female,53,Bachelors,Bangalore,0
+50,22895,Female,49,Bachelors,Delhi,0
+45,100859,Male,78,Bachelors,Delhi,1
+18,32352,Female,78,PhD,Kolkata,0
+25,130179,Female,80,Bachelors,Chennai,0
+54,69737,Male,49,High School,Bangalore,0
+49,124127,Female,60,Bachelors,Mumbai,1
+65,116426,Male,90,High School,Delhi,0
+60,52016,Female,90,Masters,Delhi,0
+54,81304,Male,65,PhD,Delhi,0
+21,31962,Male,32,Masters,Chennai,0
+47,53302,Female,79,Masters,Chennai,0
+23,105382,Male,21,Bachelors,Bangalore,0
+63,24011,Male,18,Bachelors,Mumbai,1
+36,149716,Female,94,Bachelors,Chennai,1
+49,39782,Female,60,Masters,Kolkata,1
+26,87691,Male,13,PhD,Chennai,0
+29,140654,Female,24,PhD,Delhi,1
+28,142017,Male,30,Masters,Mumbai,0
+63,59725,Male,2,PhD,Bangalore,0
+33,29196,Female,83,Masters,Chennai,1
+18,63459,Female,25,Masters,Delhi,1
+62,107245,Male,50,PhD,Kolkata,0
+38,149613,Female,14,High School,Kolkata,1
+47,98863,Female,6,High School,Bangalore,1
+30,143206,Male,76,Bachelors,Bangalore,1
+51,139391,Male,84,PhD,Chennai,1
+21,121010,Male,87,Bachelors,Bangalore,1
+45,52769,Male,30,Masters,Delhi,0
+55,127529,Male,30,High School,Delhi,0
+48,145361,Male,38,PhD,Delhi,1
+44,44700,Female,58,PhD,Chennai,0
+22,135792,Male,94,PhD,Chennai,0
+42,100356,Female,41,High School,Bangalore,0
+20,96427,Female,94,Bachelors,Chennai,0
+50,120165,Male,57,High School,Delhi,1
+21,25269,Female,36,Bachelors,Mumbai,1
+42,141631,Male,64,Masters,Delhi,0
+37,63880,Female,98,Masters,Mumbai,1
+51,134003,Male,16,Bachelors,Bangalore,1
+43,28320,Male,88,Masters,Kolkata,0
+22,69589,Male,78,Masters,Chennai,1
+52,139534,Male,90,PhD,Chennai,0
+45,96276,Female,72,PhD,Delhi,0
+46,55897,Female,14,High School,Delhi,0
+26,78565,Female,31,High School,Mumbai,1
+69,50930,Female,66,High School,Chennai,0
+55,77233,Female,68,PhD,Bangalore,1
+67,102821,Male,65,High School,Delhi,1
+23,34380,Male,55,High School,Chennai,0
+36,96896,Male,84,PhD,Kolkata,0
+61,90934,Male,78,Bachelors,Mumbai,0
+28,75830,Male,40,PhD,Delhi,0
+19,25529,Female,25,Bachelors,Delhi,1
+64,141292,Male,25,PhD,Bangalore,0
+61,114598,Male,3,High School,Delhi,0
+61,122222,Female,69,Masters,Chennai,0
+26,102987,Female,26,Masters,Chennai,1
+38,69178,Male,40,Bachelors,Chennai,1
+41,26937,Male,38,Bachelors,Kolkata,1
+51,141952,Female,38,Bachelors,Kolkata,1
+39,59886,Male,68,Masters,Delhi,0
+20,69699,Male,7,Bachelors,Kolkata,0
+29,96396,Male,94,PhD,Kolkata,1
+45,110678,Female,30,PhD,Bangalore,1
+47,45279,Male,19,Masters,Kolkata,0
+43,58106,Male,35,PhD,Mumbai,0
+65,130776,Female,33,Bachelors,Mumbai,0
+38,121444,Female,33,Masters,Mumbai,1
+45,126300,Female,78,Bachelors,Delhi,0
+43,133793,Male,38,PhD,Chennai,0
+50,136278,Female,10,Bachelors,Bangalore,1
+38,99737,Male,57,Masters,Delhi,0
+52,60544,Female,28,Bachelors,Chennai,0
+69,123247,Male,78,PhD,Bangalore,0
+51,131190,Female,38,High School,Bangalore,0
+58,28997,Male,16,Masters,Bangalore,0
+68,126102,Male,21,Bachelors,Mumbai,0
+64,105711,Female,92,Masters,Mumbai,0
+35,136045,Female,97,Bachelors,Mumbai,1
+28,60860,Male,6,High School,Bangalore,1
+40,23225,Female,41,PhD,Bangalore,0
+65,130114,Male,15,Bachelors,Mumbai,0
+39,79470,Female,3,Bachelors,Bangalore,1
+34,133218,Female,43,High School,Mumbai,0
+22,148854,Male,47,Masters,Mumbai,0
+61,120764,Female,99,PhD,Mumbai,0
+28,127041,Female,14,Bachelors,Chennai,1
+47,132224,Male,66,Bachelors,Bangalore,0
+32,83656,Male,29,PhD,Delhi,1
+44,71880,Female,4,High School,Mumbai,1
+52,81078,Male,26,Masters,Delhi,1
+50,108646,Female,12,PhD,Chennai,0
+37,96290,Female,2,Masters,Bangalore,1
+33,76633,Male,17,High School,Mumbai,0
+51,46655,Male,35,High School,Mumbai,0
+19,141118,Male,10,PhD,Mumbai,0
+52,63601,Male,86,Bachelors,Delhi,0
+57,23114,Male,43,High School,Chennai,1
+45,46502,Male,21,High School,Bangalore,0
+64,69768,Female,15,PhD,Chennai,0
+56,68128,Female,35,PhD,Mumbai,0
+23,40028,Male,85,PhD,Chennai,1
+26,75565,Female,85,High School,Delhi,0
+37,103123,Female,85,Masters,Kolkata,1
+18,128255,Female,60,High School,Kolkata,1
+25,55333,Female,44,PhD,Bangalore,1
+40,23174,Male,96,Bachelors,Bangalore,0
+20,137769,Female,5,Bachelors,Chennai,1
+21,55398,Female,73,PhD,Bangalore,0
+42,55929,Male,18,Bachelors,Delhi,1
+64,24321,Male,21,High School,Mumbai,1
+55,143549,Male,72,Masters,Mumbai,0
+32,115971,Male,98,High School,Chennai,1
+38,131508,Female,74,PhD,Mumbai,0
+52,75421,Male,51,High School,Chennai,0
+63,92635,Female,41,Bachelors,Bangalore,0
+69,43760,Female,24,High School,Bangalore,1
+31,31360,Male,24,Masters,Delhi,1
+53,30313,Male,96,Bachelors,Mumbai,1
+29,131806,Male,97,Masters,Delhi,1
+34,105998,Male,38,Masters,Kolkata,0
+56,25801,Male,44,Masters,Delhi,1
+26,34130,Male,57,High School,Chennai,0
+52,34271,Female,59,High School,Chennai,1
+30,36075,Female,34,High School,Delhi,1
+32,122455,Female,75,High School,Bangalore,0
+35,127215,Female,95,Bachelors,Kolkata,0
+68,38984,Male,82,High School,Delhi,0
+50,108095,Male,23,Bachelors,Bangalore,1
+23,80942,Female,86,Masters,Delhi,0
+44,32861,Female,43,Bachelors,Mumbai,0
+40,118970,Female,82,PhD,Chennai,1
+44,102203,Male,40,High School,Mumbai,0
+51,91376,Male,47,PhD,Mumbai,0
+63,81247,Male,41,Bachelors,Kolkata,1
+55,89101,Female,47,High School,Bangalore,0
+31,128730,Female,20,PhD,Chennai,1
+53,40977,Male,77,High School,Mumbai,0
+25,70617,Male,65,Bachelors,Chennai,0
+52,77473,Female,68,PhD,Bangalore,0
+36,106654,Female,24,Bachelors,Delhi,0
+47,108177,Male,36,PhD,Mumbai,1
+31,92902,Female,45,Masters,Bangalore,1
+37,112172,Male,2,Masters,Chennai,0
+66,35630,Male,28,Masters,Bangalore,0
+42,40056,Female,26,Masters,Delhi,0
+57,27382,Female,23,Masters,Bangalore,0
+41,75739,Female,79,Bachelors,Chennai,0
+31,101685,Male,36,Masters,Mumbai,1
+43,68639,Female,91,Bachelors,Mumbai,0
+55,79838,Female,6,Masters,Kolkata,0
+40,66041,Male,35,High School,Chennai,0
+39,20992,Male,38,Masters,Kolkata,0
+65,92394,Female,35,High School,Kolkata,1
+36,87657,Male,74,Bachelors,Delhi,0
+63,47160,Male,94,Masters,Chennai,0
+68,65156,Male,53,PhD,Mumbai,0
+20,71375,Female,38,Bachelors,Chennai,1
+59,106442,Female,93,Masters,Delhi,0
+36,39572,Male,59,Bachelors,Chennai,1
+26,137925,Male,43,PhD,Chennai,0
+45,24136,Male,4,Masters,Kolkata,1
+37,81868,Female,5,PhD,Chennai,1
+62,102263,Male,68,Masters,Kolkata,0
+24,52167,Male,45,High School,Kolkata,1
+31,130957,Female,80,Bachelors,Bangalore,1
+26,35479,Male,25,PhD,Delhi,0
+36,139392,Female,78,Bachelors,Kolkata,0
+64,51376,Female,11,PhD,Chennai,1
+69,24823,Female,29,Bachelors,Kolkata,1
+31,145156,Male,34,Bachelors,Kolkata,1
+55,90456,Male,86,Bachelors,Kolkata,1
+53,39585,Female,14,High School,Mumbai,1
+57,123775,Male,24,Masters,Mumbai,1
+34,37272,Female,59,High School,Mumbai,0
+47,46619,Male,39,Bachelors,Mumbai,0
+26,95069,Female,26,PhD,Bangalore,1
+50,59895,Female,43,Bachelors,Kolkata,0
+69,23720,Male,36,Masters,Bangalore,0
+42,39267,Male,39,High School,Chennai,1
+31,35696,Male,61,Masters,Delhi,0
+28,49968,Male,16,PhD,Bangalore,0
+52,73364,Female,59,Masters,Mumbai,0
+58,43345,Female,96,High School,Mumbai,1
+31,71567,Male,6,PhD,Chennai,1
+47,111229,Male,98,Masters,Kolkata,0
+58,81607,Female,56,High School,Delhi,0
+21,39385,Male,8,High School,Bangalore,0
+21,103658,Male,94,Bachelors,Kolkata,0
+45,86900,Male,27,Masters,Kolkata,0
+25,88244,Male,71,PhD,Bangalore,0
+19,85425,Female,27,Bachelors,Bangalore,0
+58,98518,Female,89,Masters,Bangalore,0
+63,102844,Male,46,Masters,Bangalore,0
+39,52919,Female,41,PhD,Mumbai,1
+58,110697,Male,79,Bachelors,Kolkata,1
+33,77196,Male,25,Bachelors,Kolkata,1
+46,135600,Male,86,PhD,Mumbai,1
+66,120625,Female,18,Bachelors,Kolkata,0
+65,99401,Female,12,High School,Bangalore,1
+47,20495,Female,87,PhD,Delhi,0
+29,64755,Female,51,Masters,Kolkata,1
+52,87684,Female,39,PhD,Delhi,1
+28,53324,Male,89,High School,Delhi,1
+63,98929,Male,10,PhD,Mumbai,1
+67,21552,Female,94,Masters,Chennai,1
+38,71272,Female,74,Masters,Kolkata,1
+38,55853,Female,98,PhD,Mumbai,0
+22,138192,Male,77,PhD,Mumbai,1
+65,52924,Female,54,High School,Delhi,0
+37,94462,Male,29,High School,Kolkata,1
+54,116387,Male,41,Masters,Mumbai,0
+20,43889,Female,9,Bachelors,Bangalore,0
+61,125466,Male,63,Bachelors,Mumbai,1
+50,74675,Male,77,Bachelors,Bangalore,0
+26,142231,Female,37,Bachelors,Chennai,1
+26,93591,Male,14,Masters,Bangalore,0
+21,90190,Female,73,Bachelors,Bangalore,1
+52,42634,Male,72,Bachelors,Delhi,1
+34,52363,Female,39,PhD,Mumbai,1
+51,83752,Female,40,Bachelors,Chennai,0
+41,97004,Male,54,PhD,Mumbai,0
+49,76398,Female,3,Masters,Bangalore,1
+18,118458,Male,55,PhD,Bangalore,0
+25,60718,Male,33,High School,Mumbai,0
+62,133627,Female,96,PhD,Chennai,1
+40,102916,Male,71,Bachelors,Chennai,0
+64,46870,Female,19,PhD,Delhi,0
+57,57394,Male,34,PhD,Bangalore,0
+29,72057,Male,78,Masters,Bangalore,0
+29,99795,Female,50,Masters,Delhi,1
+63,100409,Male,47,Bachelors,Mumbai,0
+64,33016,Male,46,High School,Bangalore,1
+32,62137,Male,56,High School,Mumbai,0
+58,20153,Male,57,PhD,Chennai,0
+36,27853,Male,83,High School,Kolkata,0
+43,32379,Male,51,Masters,Delhi,0
+69,35792,Male,54,Bachelors,Bangalore,1
+46,141169,Male,90,Bachelors,Delhi,1
+39,58367,Female,81,Masters,Chennai,0
+57,38100,Male,28,Bachelors,Chennai,1
+38,146082,Male,19,PhD,Chennai,0
+68,133089,Female,27,Bachelors,Chennai,0
+55,83456,Female,48,High School,Kolkata,0
+37,31049,Female,19,Bachelors,Mumbai,1
+46,20786,Male,97,Bachelors,Mumbai,0
+68,89904,Female,51,Masters,Kolkata,1
+21,50699,Female,7,Masters,Mumbai,0
+24,142784,Male,29,High School,Chennai,0
+45,67691,Male,43,Masters,Mumbai,0
+45,57040,Female,69,High School,Delhi,1
+21,138455,Female,94,PhD,Mumbai,1
+39,112990,Male,58,High School,Delhi,0
+29,77986,Male,8,Bachelors,Bangalore,1
+62,58762,Male,42,High School,Delhi,0
+20,43600,Male,76,PhD,Delhi,1
+39,114774,Male,42,Bachelors,Chennai,1
+61,110777,Female,13,High School,Chennai,1
+19,39810,Male,26,Masters,Chennai,1
+41,105703,Male,18,Masters,Delhi,0
+51,107347,Male,42,Masters,Kolkata,1
+44,125315,Male,51,High School,Chennai,0
+58,77204,Male,84,High School,Chennai,0
+18,40085,Female,16,PhD,Delhi,0
+25,66854,Male,3,Bachelors,Bangalore,0
+40,94797,Female,91,Bachelors,Bangalore,0
+55,104269,Male,79,Bachelors,Mumbai,0
+23,59779,Female,98,Bachelors,Bangalore,0
+39,76207,Female,45,High School,Chennai,0
+42,114615,Male,22,High School,Kolkata,1
+35,53980,Male,23,PhD,Mumbai,0
+34,76117,Male,59,Bachelors,Kolkata,1
+29,34141,Male,62,High School,Kolkata,0
+23,29344,Male,68,High School,Chennai,0
+43,125008,Female,54,High School,Delhi,0
+44,35896,Male,57,High School,Delhi,0
+25,109353,Male,23,Bachelors,Delhi,1
+36,49813,Female,60,Bachelors,Bangalore,1
+59,104431,Male,73,High School,Delhi,0
+18,85679,Female,88,Masters,Chennai,0
+46,30681,Male,85,PhD,Bangalore,1
+62,92903,Female,55,Bachelors,Delhi,0
+66,23228,Male,80,Bachelors,Kolkata,0
+52,24582,Female,63,Masters,Chennai,1
+57,98683,Female,56,Bachelors,Chennai,0
+31,31397,Male,55,Masters,Mumbai,1
+52,58799,Male,25,Masters,Chennai,1
+65,57011,Male,26,High School,Kolkata,0
+62,99183,Female,49,Bachelors,Chennai,0
+37,113254,Female,63,PhD,Mumbai,0
+66,64264,Female,45,Masters,Chennai,0
+30,62317,Male,73,PhD,Chennai,1
+55,67914,Male,79,High School,Mumbai,1
+66,104633,Female,39,Bachelors,Chennai,0
+63,122489,Male,97,High School,Bangalore,0
+66,144237,Female,65,High School,Chennai,0
+25,65254,Male,69,PhD,Delhi,0
+60,60096,Male,56,PhD,Delhi,1
+37,73785,Female,9,Masters,Bangalore,1
+50,72344,Male,70,Bachelors,Chennai,0
+43,134988,Male,28,High School,Kolkata,0
+56,102643,Male,45,Masters,Chennai,1
+38,140382,Male,26,Masters,Delhi,0
+66,88546,Male,28,High School,Mumbai,1
+59,91091,Female,40,High School,Bangalore,0
+60,85603,Male,15,Masters,Mumbai,1
+58,48412,Female,6,High School,Kolkata,1
+26,130489,Male,27,High School,Chennai,1
+41,71658,Male,38,PhD,Kolkata,1
+54,119841,Female,68,Bachelors,Mumbai,1
+66,69549,Female,75,Masters,Chennai,1
+58,147595,Male,85,High School,Kolkata,1
+34,31549,Male,64,Masters,Delhi,1
+41,91216,Female,30,Bachelors,Delhi,1
+38,45739,Female,82,Masters,Bangalore,0
+68,41209,Female,99,Masters,Delhi,0
+56,127051,Female,3,Masters,Delhi,1
+58,107968,Male,62,PhD,Mumbai,0
+56,35116,Male,12,Bachelors,Delhi,1
+30,40045,Male,91,Bachelors,Delhi,0
+28,46327,Male,30,Masters,Mumbai,0
+63,55709,Male,85,Masters,Delhi,1
+36,63617,Female,38,Bachelors,Delhi,1
+28,80139,Female,85,High School,Bangalore,0
+30,46905,Female,60,PhD,Delhi,1
+63,84148,Male,38,Bachelors,Delhi,1
+62,92603,Female,15,Masters,Bangalore,0
+18,118095,Male,18,High School,Mumbai,0
+57,139779,Male,52,High School,Delhi,0
+61,62919,Male,29,High School,Kolkata,0
+36,103521,Female,60,PhD,Mumbai,0
+29,112905,Male,21,PhD,Mumbai,0
+25,103400,Male,17,Bachelors,Delhi,0
+25,108150,Female,18,Bachelors,Bangalore,1
+62,78446,Male,57,Bachelors,Mumbai,0
+29,72428,Female,37,Bachelors,Bangalore,1
+65,67894,Male,60,Masters,Kolkata,0
+50,101149,Female,38,PhD,Bangalore,1
+62,26447,Male,12,High School,Chennai,1
+43,25499,Male,75,Masters,Bangalore,0
+56,59041,Female,84,Bachelors,Mumbai,1
+45,51315,Male,73,Bachelors,Bangalore,1
+22,21299,Female,1,Masters,Bangalore,1
+25,140506,Male,58,High School,Chennai,1
+42,125005,Female,3,PhD,Chennai,0
+44,24994,Male,63,PhD,Delhi,0
+63,115414,Male,21,High School,Mumbai,0
+40,101163,Male,23,PhD,Delhi,0
+47,146759,Female,9,Bachelors,Chennai,0
+62,27489,Female,83,Bachelors,Bangalore,1
+64,111647,Female,55,Bachelors,Chennai,0
+40,52355,Female,19,Bachelors,Kolkata,1
+66,93805,Female,62,High School,Bangalore,0
+64,88367,Male,87,PhD,Delhi,0
+37,129906,Male,91,PhD,Bangalore,0
+35,137409,Male,91,Masters,Kolkata,0
+35,97355,Male,39,High School,Chennai,1
+19,136220,Male,76,PhD,Mumbai,1
+21,110349,Female,27,PhD,Mumbai,0
+47,107173,Male,46,Masters,Mumbai,1
+50,21996,Female,34,Bachelors,Chennai,1
+53,139999,Male,33,PhD,Mumbai,0
+35,64387,Female,92,Bachelors,Kolkata,1
+54,134965,Female,95,Masters,Chennai,1
+36,23089,Female,96,PhD,Mumbai,0
+64,118827,Male,50,Bachelors,Delhi,1
+45,40659,Male,20,High School,Chennai,0
+57,65178,Male,40,Bachelors,Chennai,0
+37,140053,Male,99,Bachelors,Bangalore,0
+66,115965,Female,95,Bachelors,Mumbai,1
+50,101268,Female,58,Bachelors,Delhi,1
+29,105042,Female,31,High School,Kolkata,0
+68,126471,Female,38,Masters,Chennai,0
+32,90726,Male,86,Bachelors,Kolkata,0
+58,90111,Female,45,Bachelors,Kolkata,1
+56,126031,Male,41,PhD,Kolkata,0
+19,133682,Female,9,PhD,Bangalore,1
+46,54565,Female,9,High School,Kolkata,1
+58,120435,Female,63,High School,Mumbai,1
+27,109242,Male,79,High School,Mumbai,0
+19,133204,Male,77,PhD,Delhi,0
+68,149642,Female,22,Bachelors,Delhi,0
+28,42884,Female,16,PhD,Kolkata,1
+30,37199,Female,32,Masters,Kolkata,1
+27,80038,Male,66,High School,Bangalore,0
+31,77786,Male,90,High School,Kolkata,0
+35,129636,Male,14,High School,Kolkata,1
+68,124970,Female,38,Masters,Kolkata,0
+26,69294,Male,98,Bachelors,Chennai,0
+56,98015,Female,8,Bachelors,Chennai,1
+45,54178,Male,21,Bachelors,Bangalore,0
+20,32665,Female,56,High School,Bangalore,1
+37,149604,Female,46,Bachelors,Mumbai,1
+23,20534,Male,43,PhD,Bangalore,1
+44,111828,Female,92,High School,Mumbai,0
+19,56132,Female,46,Masters,Kolkata,0
+46,135720,Female,48,Masters,Bangalore,0
+55,56110,Male,70,Bachelors,Bangalore,0
+20,78754,Female,84,High School,Bangalore,1
+33,83580,Male,31,PhD,Mumbai,1
+47,42469,Male,33,PhD,Mumbai,0
+57,84016,Female,44,High School,Delhi,1
+19,66233,Male,71,Bachelors,Mumbai,1
+34,122804,Female,8,Masters,Mumbai,0
+58,149863,Male,73,Masters,Chennai,0
+29,86708,Female,2,PhD,Bangalore,0
+52,78232,Male,17,PhD,Mumbai,1
+60,113450,Female,52,PhD,Bangalore,0
+18,106437,Female,45,Masters,Bangalore,1
+62,126311,Female,37,PhD,Chennai,0
+32,54409,Female,42,Masters,Bangalore,1
+43,135159,Male,44,Masters,Mumbai,0
+54,39324,Male,81,Bachelors,Bangalore,1
+38,28738,Female,38,Bachelors,Delhi,1
+66,123030,Male,99,Bachelors,Delhi,0
+48,130093,Female,94,PhD,Chennai,1
+42,44054,Female,6,Masters,Mumbai,1
+40,49709,Male,68,PhD,Chennai,1
+41,129321,Male,51,Masters,Delhi,0
+55,105643,Female,35,Bachelors,Mumbai,0
+45,148805,Male,58,Bachelors,Bangalore,1
+38,20363,Female,57,PhD,Mumbai,1
+60,30358,Male,73,Masters,Kolkata,0
+35,121613,Male,6,PhD,Mumbai,1
+53,135233,Male,13,High School,Bangalore,0
+52,23240,Male,59,PhD,Kolkata,1
+62,92201,Male,86,Bachelors,Chennai,0
+26,65689,Female,92,Masters,Mumbai,0
+55,21936,Male,30,Masters,Chennai,0
+47,132272,Male,2,PhD,Mumbai,0
+61,111074,Female,58,Bachelors,Delhi,0
+51,63965,Female,36,High School,Delhi,0
+49,97534,Female,72,PhD,Bangalore,0
+20,20882,Male,45,Masters,Delhi,0
+20,40224,Male,9,Bachelors,Kolkata,1
+45,125227,Female,65,Masters,Kolkata,0
+61,143750,Female,77,Masters,Mumbai,0
+32,139299,Female,50,Masters,Chennai,1
+58,145865,Female,79,Masters,Kolkata,1
+40,132012,Male,32,High School,Mumbai,1
+57,143745,Male,98,Bachelors,Chennai,0
+28,50825,Male,43,PhD,Delhi,1
+65,90740,Male,95,Bachelors,Mumbai,1
+49,48885,Male,78,Bachelors,Chennai,0
+53,60056,Female,54,Bachelors,Bangalore,1
+50,23203,Male,47,PhD,Bangalore,0
+41,80241,Female,14,Bachelors,Kolkata,0
+56,22244,Female,48,PhD,Chennai,0
+51,118322,Female,55,PhD,Bangalore,1
+45,135329,Male,29,High School,Kolkata,0
+54,88619,Female,47,Masters,Mumbai,0
+24,41584,Male,63,PhD,Mumbai,0
+21,28521,Female,19,Masters,Chennai,0
+54,70017,Male,91,Bachelors,Chennai,0
+18,53541,Female,9,Masters,Chennai,0
+18,49063,Male,37,Masters,Chennai,0
+64,90268,Female,92,Masters,Bangalore,1
+37,145234,Female,52,Bachelors,Bangalore,0
+36,146218,Female,57,Bachelors,Kolkata,0
+46,138206,Female,88,PhD,Bangalore,0
+27,84952,Male,28,PhD,Mumbai,0
+35,113054,Male,36,High School,Kolkata,0
+45,59563,Male,64,Bachelors,Bangalore,0
+52,59752,Female,18,High School,Chennai,1
+60,115233,Female,89,Bachelors,Bangalore,0
+64,22567,Female,35,Masters,Delhi,0
+48,36121,Female,68,High School,Kolkata,0
+44,21674,Female,78,High School,Bangalore,1
+28,96411,Female,39,High School,Bangalore,1
+66,129876,Male,90,Bachelors,Mumbai,0
+66,86275,Male,8,PhD,Chennai,0
+55,87081,Male,88,High School,Chennai,1
+22,49140,Male,80,PhD,Mumbai,0
+25,145139,Male,84,Bachelors,Mumbai,0
+51,29327,Male,15,High School,Delhi,0
+65,90663,Male,7,Bachelors,Kolkata,0
+69,43331,Male,17,PhD,Chennai,1
+29,43004,Female,86,PhD,Mumbai,1
+55,127369,Female,86,High School,Mumbai,1
+18,139243,Female,64,PhD,Kolkata,0
+48,30492,Female,12,Masters,Mumbai,0
+21,74797,Female,82,Masters,Delhi,0
+66,78095,Female,56,High School,Kolkata,1
+62,33749,Female,46,Bachelors,Delhi,1
+67,83217,Male,47,Bachelors,Bangalore,0
+22,109044,Male,79,Bachelors,Chennai,0
+47,29045,Female,16,Masters,Mumbai,0
+41,40116,Male,69,PhD,Kolkata,1
+20,38667,Male,2,Masters,Delhi,0
+28,95057,Male,92,PhD,Chennai,0
+62,94205,Male,54,Masters,Chennai,0
+21,47302,Male,27,Bachelors,Mumbai,0
+43,31283,Female,31,Bachelors,Chennai,1
+44,50935,Male,41,Bachelors,Mumbai,1
+63,92534,Female,36,High School,Bangalore,1
+60,114342,Female,47,High School,Mumbai,1
+44,51624,Female,43,PhD,Delhi,0
+59,33440,Male,65,High School,Chennai,0
+68,131001,Female,50,Masters,Chennai,0
+67,66501,Female,93,Masters,Chennai,1
+23,107333,Female,1,PhD,Mumbai,0
+32,21269,Female,72,PhD,Kolkata,1
+47,27868,Male,57,Bachelors,Mumbai,0
+59,50251,Female,16,High School,Delhi,0
+54,97909,Female,28,Bachelors,Mumbai,1
+54,104523,Female,86,High School,Chennai,1
+59,58729,Female,82,High School,Bangalore,0
+54,35734,Male,22,PhD,Delhi,0
+52,62429,Female,41,Bachelors,Bangalore,1
+40,61337,Female,76,Bachelors,Delhi,1
+23,60325,Female,19,High School,Delhi,0
+21,103600,Female,89,High School,Chennai,0
+35,82514,Female,50,PhD,Mumbai,0
+26,28433,Female,59,Masters,Chennai,0
+66,133957,Male,69,Bachelors,Chennai,1
+46,29111,Female,34,Bachelors,Chennai,0
+30,123986,Male,39,PhD,Bangalore,0
+64,83753,Male,74,PhD,Delhi,0
+69,133783,Female,7,Bachelors,Kolkata,0
+34,100583,Male,52,Bachelors,Mumbai,0
+62,93620,Female,60,High School,Chennai,0
+49,41751,Male,52,Masters,Delhi,0
+65,36453,Female,79,Bachelors,Mumbai,0
+39,105844,Male,24,PhD,Kolkata,0
+21,58968,Male,26,High School,Kolkata,0
+22,50077,Female,90,High School,Chennai,1
+54,128582,Male,90,PhD,Kolkata,0
+58,54775,Male,10,PhD,Kolkata,0
+66,78144,Male,17,High School,Mumbai,0
+30,68570,Male,78,PhD,Mumbai,1
+51,66097,Male,2,High School,Chennai,1
+62,44503,Female,77,PhD,Delhi,0
+39,22779,Male,27,High School,Chennai,1
+40,106840,Male,73,Bachelors,Bangalore,0
+68,20755,Female,71,Bachelors,Kolkata,0
+20,59263,Female,48,PhD,Delhi,0
+59,128491,Female,74,Masters,Mumbai,0
+51,75087,Male,9,Bachelors,Bangalore,0
+49,62281,Male,86,High School,Bangalore,1
+62,71482,Male,23,Masters,Kolkata,1
+68,74857,Male,71,High School,Mumbai,0
+66,142989,Female,73,High School,Delhi,0
+38,37400,Female,27,Bachelors,Mumbai,0
+63,60115,Male,88,PhD,Kolkata,0
+61,34249,Male,93,PhD,Bangalore,1
+38,133183,Male,81,High School,Kolkata,1
+61,66825,Male,84,Bachelors,Chennai,1
+28,130361,Female,71,High School,Bangalore,1
+56,44600,Female,43,Masters,Kolkata,0
+21,57706,Male,7,High School,Delhi,0
+68,39222,Female,92,Bachelors,Delhi,0
+18,119041,Male,83,High School,Delhi,0
+45,124504,Male,63,Bachelors,Chennai,1
+41,61139,Female,84,PhD,Mumbai,0
+52,134919,Male,44,Bachelors,Delhi,0
+30,136605,Female,39,Masters,Chennai,1
+64,61302,Male,40,Bachelors,Delhi,1
+51,114684,Female,7,Masters,Chennai,0
+28,107838,Male,70,Masters,Delhi,1
+53,88159,Female,25,High School,Mumbai,0
+68,28646,Male,59,Masters,Kolkata,0
+34,33543,Male,13,Bachelors,Delhi,0
+52,114496,Female,86,PhD,Kolkata,0
+35,148212,Male,81,Bachelors,Delhi,1
+57,42785,Female,86,PhD,Mumbai,0
+39,98353,Female,98,Masters,Kolkata,1
+41,51406,Male,62,High School,Chennai,1
+36,108992,Male,8,Masters,Delhi,0
+54,71428,Male,45,Masters,Delhi,1
+56,43777,Male,18,PhD,Chennai,0
+38,77939,Female,88,Bachelors,Mumbai,0
+25,73026,Male,60,High School,Bangalore,1
+45,106450,Male,60,High School,Delhi,1
+22,49553,Male,2,High School,Chennai,0
+34,43548,Female,66,High School,Bangalore,1
+54,83221,Male,91,Bachelors,Delhi,0
+53,57265,Female,14,High School,Kolkata,1
+36,145549,Male,48,PhD,Chennai,0
+44,60701,Female,56,PhD,Kolkata,0
+51,71287,Male,12,High School,Mumbai,0
+28,26727,Male,96,High School,Bangalore,0
+62,130460,Female,92,Bachelors,Chennai,0
+64,70717,Male,55,Bachelors,Delhi,1
+29,52427,Male,28,High School,Delhi,0
+38,36692,Male,89,Bachelors,Bangalore,0
+28,51625,Female,4,Masters,Kolkata,0
+56,44918,Male,90,High School,Kolkata,0
+45,126931,Female,36,Bachelors,Chennai,1
+22,61136,Female,50,PhD,Chennai,1
+34,134826,Female,3,High School,Kolkata,1
+37,134881,Male,1,High School,Chennai,0
+58,72409,Female,17,PhD,Kolkata,0
+63,35577,Female,71,PhD,Bangalore,0
+29,105155,Male,62,Bachelors,Chennai,1
+23,131776,Female,48,PhD,Kolkata,1
+34,119246,Female,62,Masters,Chennai,0
+68,122924,Male,69,High School,Delhi,0
+36,146759,Male,19,Masters,Delhi,1
+43,140408,Female,34,Bachelors,Mumbai,1
+65,101731,Male,99,PhD,Kolkata,1
+61,47689,Male,49,High School,Mumbai,0
+61,31154,Male,80,PhD,Kolkata,1
+69,124657,Female,47,PhD,Chennai,0
+49,114948,Female,91,Bachelors,Kolkata,1
+23,41341,Male,50,Bachelors,Delhi,1
+53,117554,Female,89,Bachelors,Chennai,1
+55,94681,Male,26,Bachelors,Delhi,1
+28,127798,Male,56,High School,Chennai,0
+50,66330,Male,78,Masters,Kolkata,0
+41,138069,Male,14,Masters,Kolkata,0
+40,107759,Male,78,High School,Delhi,0
+32,88416,Female,25,PhD,Bangalore,0
+44,145067,Female,4,High School,Kolkata,0
+28,106807,Female,79,Masters,Bangalore,1
+68,53313,Female,32,Masters,Chennai,0
+67,66900,Male,82,High School,Bangalore,1
+34,98840,Male,78,Bachelors,Delhi,1
+68,54695,Female,65,PhD,Mumbai,0
+31,50225,Female,61,High School,Mumbai,0
+44,106072,Male,20,Masters,Delhi,0
+35,116367,Male,74,Bachelors,Mumbai,1
+45,69156,Male,10,PhD,Delhi,0
+68,97209,Female,88,Masters,Kolkata,0
+64,107453,Male,34,PhD,Bangalore,1
+64,47829,Male,61,Bachelors,Mumbai,0
+21,100908,Female,92,Masters,Kolkata,1
+24,45938,Female,27,Bachelors,Mumbai,0
+62,79164,Female,40,High School,Chennai,1
+52,74530,Male,65,High School,Delhi,1
+65,140921,Male,33,PhD,Delhi,1
+26,88199,Female,68,Bachelors,Kolkata,0
+25,80282,Male,71,Bachelors,Chennai,0
+69,67801,Male,9,PhD,Bangalore,1
+62,29465,Male,16,PhD,Chennai,0
+34,23326,Female,5,PhD,Chennai,0
+34,23659,Female,98,High School,Bangalore,1
+66,80289,Male,23,PhD,Bangalore,0
+50,47594,Male,43,High School,Chennai,0
+49,135819,Male,89,PhD,Mumbai,1
+25,24763,Male,57,Bachelors,Mumbai,0
+36,108657,Female,51,Bachelors,Chennai,0
+55,30828,Female,13,PhD,Mumbai,1
+20,67588,Male,24,PhD,Bangalore,1
+22,31221,Male,11,High School,Bangalore,0
+30,31211,Female,52,Masters,Mumbai,1
+64,33569,Male,17,High School,Bangalore,1
+63,116894,Female,37,Bachelors,Delhi,0
+48,57860,Male,13,PhD,Bangalore,0
+33,91558,Female,62,Bachelors,Chennai,0
+67,65337,Male,91,Masters,Kolkata,1
+49,72311,Male,84,High School,Mumbai,1
+39,33515,Female,97,Bachelors,Mumbai,0
+46,91695,Female,96,High School,Bangalore,1
+39,142006,Male,8,PhD,Bangalore,1
+60,131527,Male,56,Bachelors,Kolkata,0
+20,126749,Female,93,Masters,Kolkata,1
+27,107227,Female,83,High School,Chennai,0
+59,44904,Male,70,High School,Delhi,1
+38,79935,Male,44,Masters,Chennai,0
+33,63790,Female,60,Bachelors,Mumbai,1
+29,88580,Female,41,Bachelors,Bangalore,1
+19,95148,Female,21,High School,Chennai,0
+58,25636,Female,86,Masters,Bangalore,1
+41,97129,Female,42,High School,Bangalore,1
+52,134483,Male,74,High School,Chennai,1
+47,22892,Male,74,PhD,Chennai,0
+47,41672,Female,29,Bachelors,Kolkata,0
+64,25812,Male,80,Bachelors,Delhi,1
+52,116621,Male,65,PhD,Kolkata,1
+36,148177,Female,17,Bachelors,Delhi,1
+67,20654,Male,30,Bachelors,Chennai,1
+25,74633,Male,26,Bachelors,Delhi,0
+43,37143,Male,53,Masters,Mumbai,0
+66,75934,Female,19,PhD,Kolkata,0
+57,87334,Female,53,High School,Kolkata,1
+24,123463,Male,85,Masters,Kolkata,1
+47,145851,Male,17,High School,Bangalore,1
+24,49087,Male,46,PhD,Bangalore,0
+20,31618,Male,85,PhD,Chennai,1
+18,28446,Male,53,PhD,Chennai,1
+53,107182,Male,64,Bachelors,Bangalore,1
+42,122127,Female,45,Masters,Kolkata,0
+54,68867,Male,49,PhD,Bangalore,1
+18,71028,Male,19,High School,Delhi,1
+32,80101,Female,71,Bachelors,Kolkata,1
+54,47200,Male,81,Bachelors,Bangalore,1
+30,115107,Male,65,Masters,Chennai,1
+57,108074,Male,37,Masters,Bangalore,0
+25,126091,Male,70,Masters,Mumbai,0
+22,81465,Female,26,Bachelors,Bangalore,1
+26,129500,Male,2,PhD,Kolkata,0
+18,106436,Female,59,High School,Bangalore,0
+53,138422,Male,96,PhD,Chennai,0
+52,144124,Male,5,High School,Delhi,0
+19,107892,Female,37,PhD,Mumbai,1
+57,108559,Male,31,Masters,Kolkata,0
+40,140044,Female,76,High School,Chennai,1
+26,59148,Female,99,Bachelors,Mumbai,1
+51,102928,Female,94,High School,Bangalore,0
+63,40698,Male,48,Bachelors,Mumbai,0
+31,62470,Male,6,PhD,Delhi,1
+21,112071,Male,15,Masters,Mumbai,1
+47,71660,Male,15,High School,Mumbai,0
+48,73910,Female,61,Bachelors,Bangalore,0
+55,55450,Male,16,PhD,Bangalore,0
+28,76463,Male,20,Masters,Kolkata,0
+52,53757,Female,77,Masters,Bangalore,0
+25,98012,Female,44,Masters,Mumbai,1
+20,126750,Male,42,PhD,Delhi,1
+31,147043,Female,46,PhD,Bangalore,1
+30,90247,Female,95,PhD,Kolkata,0
+62,92015,Female,34,Masters,Kolkata,1
+49,51390,Female,64,High School,Mumbai,0
+51,76116,Female,29,Bachelors,Bangalore,0
+62,33161,Male,3,PhD,Bangalore,1
+36,52152,Male,9,High School,Kolkata,1
+55,100171,Male,75,Bachelors,Bangalore,0
+33,126379,Male,75,Masters,Mumbai,1
+19,115833,Male,25,High School,Delhi,1
+57,40836,Male,86,Masters,Mumbai,0
+34,110367,Male,42,Bachelors,Bangalore,1
+51,86543,Female,46,PhD,Mumbai,1
+59,75648,Male,73,Masters,Chennai,1
+33,46331,Male,84,High School,Chennai,0
+55,125992,Male,59,PhD,Bangalore,0
+19,30763,Female,21,High School,Bangalore,0
+19,89444,Male,74,Bachelors,Delhi,0
+43,113109,Male,22,Bachelors,Mumbai,1
+30,39187,Female,29,PhD,Delhi,0
+64,31957,Male,63,High School,Bangalore,1
+48,24379,Male,73,High School,Bangalore,0
+51,47959,Female,61,High School,Kolkata,1
+56,102018,Male,64,High School,Delhi,0
+20,143076,Female,69,Bachelors,Bangalore,0
+25,47105,Male,40,High School,Chennai,1
+40,20877,Male,75,Bachelors,Kolkata,0
+31,68353,Male,1,High School,Mumbai,0
+44,103788,Female,65,High School,Kolkata,0
+46,116870,Female,62,Masters,Mumbai,0
+56,104585,Female,54,Masters,Chennai,1
+56,103308,Male,60,High School,Mumbai,1
+18,71567,Male,46,Bachelors,Delhi,0
+34,77913,Female,5,High School,Mumbai,0
+58,22637,Female,22,Masters,Mumbai,1
+47,92778,Male,90,High School,Kolkata,1
+30,62025,Male,53,Masters,Chennai,1
+38,126917,Male,70,High School,Mumbai,1
+36,121187,Male,32,PhD,Delhi,0
+36,119508,Female,11,High School,Kolkata,0
+42,102464,Male,10,Bachelors,Chennai,0
+39,48742,Male,39,Masters,Chennai,0
+48,31831,Male,98,PhD,Bangalore,1
+34,133768,Male,31,Masters,Delhi,1
+40,135911,Male,12,Masters,Kolkata,1
+49,105092,Male,80,Bachelors,Kolkata,0
+27,110879,Male,38,High School,Delhi,1
+27,108370,Female,67,Bachelors,Chennai,0
+53,146537,Female,66,High School,Mumbai,0
+25,66762,Female,52,PhD,Delhi,0
+69,124824,Male,5,Bachelors,Kolkata,1
+37,118958,Female,11,Bachelors,Delhi,0
+49,108741,Male,25,Masters,Chennai,1
+67,38830,Male,35,Bachelors,Bangalore,0
+31,75044,Male,35,High School,Bangalore,0
+67,93948,Male,22,Bachelors,Mumbai,1
+45,89202,Female,37,Bachelors,Mumbai,0
+63,57045,Male,86,PhD,Chennai,0
+69,106322,Male,55,High School,Mumbai,0
+41,137257,Female,75,Masters,Bangalore,1
+32,91051,Female,96,High School,Chennai,0
+39,127509,Female,99,PhD,Chennai,0
+47,46627,Male,95,High School,Chennai,0
+21,35198,Female,72,High School,Delhi,0
+30,89521,Male,64,Bachelors,Mumbai,0
+40,131439,Male,20,Bachelors,Kolkata,1
+25,126471,Female,98,High School,Bangalore,1
+35,49475,Female,4,High School,Mumbai,0
+29,125752,Female,18,Masters,Bangalore,1
+48,138998,Male,51,PhD,Mumbai,1
+31,39403,Male,68,Bachelors,Kolkata,1
+51,23681,Male,20,Bachelors,Bangalore,0
+35,111555,Male,9,Bachelors,Kolkata,0
+51,138884,Male,80,Bachelors,Bangalore,1
+28,113122,Male,26,High School,Delhi,0
+58,135260,Female,25,High School,Delhi,0
+29,62292,Male,68,Masters,Bangalore,1
+66,123057,Female,41,Bachelors,Bangalore,0
+32,125386,Female,59,Bachelors,Kolkata,0
+48,122306,Female,45,High School,Chennai,0
+66,25629,Female,41,Masters,Bangalore,1
+46,113246,Female,38,High School,Mumbai,0
+43,115864,Male,19,Bachelors,Mumbai,1
+35,97814,Male,14,Bachelors,Mumbai,1
+49,28417,Male,21,PhD,Delhi,0
+39,138888,Male,15,PhD,Kolkata,0
+55,54765,Female,3,PhD,Delhi,0
+34,94499,Female,37,Masters,Mumbai,1
+40,134088,Female,46,High School,Bangalore,0
+41,76574,Male,16,Bachelors,Mumbai,1
+67,122828,Male,14,Bachelors,Bangalore,0
+25,110545,Male,9,Masters,Kolkata,0
+58,148206,Male,7,Bachelors,Chennai,0
+23,47675,Female,14,Bachelors,Bangalore,1
+22,145609,Female,6,High School,Delhi,0
+61,121711,Male,85,PhD,Mumbai,0
+46,92267,Male,15,PhD,Mumbai,1
+45,60563,Female,52,Masters,Mumbai,0
+28,31332,Female,72,PhD,Bangalore,0
+18,143745,Female,34,PhD,Kolkata,1
+60,39177,Female,1,Masters,Bangalore,1
+36,109254,Male,96,Masters,Delhi,0
+26,88447,Female,69,PhD,Mumbai,0
+44,77104,Female,94,High School,Bangalore,1
+51,104335,Female,86,Masters,Mumbai,0
+61,134938,Female,20,Bachelors,Delhi,1
+21,100730,Male,80,Masters,Chennai,0
+53,24951,Male,7,Bachelors,Chennai,0
+35,126402,Male,7,Masters,Chennai,0
+32,48333,Male,50,Masters,Mumbai,0
+68,41673,Male,2,PhD,Bangalore,1
+30,134421,Male,47,PhD,Mumbai,0
+36,60870,Female,14,PhD,Kolkata,0
+66,141945,Female,31,High School,Bangalore,1
+23,147536,Female,50,PhD,Delhi,0
+65,91101,Female,61,PhD,Chennai,1
+29,42821,Male,41,Masters,Bangalore,1
+68,45494,Female,14,Masters,Bangalore,1
+54,119477,Male,5,High School,Chennai,1
+34,146083,Female,75,Bachelors,Delhi,0
+40,94160,Female,5,Masters,Mumbai,1
+43,132698,Female,64,Masters,Mumbai,1
+46,131560,Male,29,Bachelors,Bangalore,1
+50,20835,Female,75,High School,Chennai,0
+44,145126,Male,5,Masters,Kolkata,1
+42,38646,Male,96,PhD,Delhi,1
+27,143777,Female,36,High School,Mumbai,1
+64,97360,Male,79,Bachelors,Delhi,0
+40,57335,Male,19,Bachelors,Delhi,0
+38,89351,Female,64,PhD,Delhi,1
+38,134934,Female,22,PhD,Chennai,0
+60,22429,Female,34,PhD,Chennai,0
+30,61950,Female,56,High School,Chennai,1
+54,80654,Female,17,Bachelors,Bangalore,0
+50,127422,Female,76,PhD,Chennai,0
+41,129934,Male,89,PhD,Bangalore,0
+61,139975,Female,56,Bachelors,Mumbai,0
+28,88143,Female,17,Masters,Mumbai,0
+34,111186,Male,74,High School,Mumbai,0
+21,124234,Female,92,Masters,Mumbai,0
+64,117889,Male,82,PhD,Mumbai,1
+42,122326,Female,18,High School,Chennai,1
+47,97527,Female,45,Masters,Kolkata,0
+26,106704,Male,96,Bachelors,Chennai,0
+38,51099,Female,78,PhD,Kolkata,0
+37,59385,Male,56,High School,Chennai,1
+36,55919,Female,80,High School,Mumbai,1
+36,116952,Female,50,High School,Delhi,0
+29,80782,Male,58,High School,Kolkata,0
+54,91116,Female,18,PhD,Delhi,1
+59,92590,Female,80,PhD,Mumbai,1
+34,109626,Male,81,Bachelors,Kolkata,0
+54,60387,Female,7,Bachelors,Delhi,1
+65,35823,Male,76,Bachelors,Chennai,1
+56,66015,Female,98,Masters,Mumbai,1
+45,122877,Male,10,Bachelors,Chennai,0
+58,35339,Female,69,PhD,Chennai,1
+52,149949,Male,85,Masters,Mumbai,0
+64,23491,Male,3,PhD,Kolkata,1
+65,20706,Female,83,Masters,Bangalore,0
+35,117493,Female,44,Bachelors,Bangalore,0
+31,35728,Male,99,Bachelors,Mumbai,1
+52,26997,Female,70,Bachelors,Bangalore,0
+61,123537,Male,14,Masters,Delhi,0
+58,80408,Female,4,PhD,Kolkata,0
+24,78097,Female,18,High School,Chennai,0
+58,149526,Male,93,PhD,Chennai,0
+30,58523,Male,99,Bachelors,Mumbai,1
+35,141648,Female,52,Masters,Chennai,0
+54,45163,Female,38,Masters,Delhi,0
+30,37718,Female,80,Bachelors,Delhi,0
+53,107508,Female,20,Masters,Mumbai,0
+48,103767,Female,88,Bachelors,Chennai,0
+19,59619,Male,99,PhD,Bangalore,0
+33,32126,Female,44,Masters,Bangalore,0
+26,109131,Female,51,High School,Kolkata,0
+26,84926,Male,19,Masters,Mumbai,1
+55,60633,Male,68,Bachelors,Kolkata,1
+28,97654,Male,97,High School,Bangalore,0
+39,23317,Female,66,Bachelors,Bangalore,0
+50,64980,Male,13,Masters,Bangalore,1
+53,64115,Male,62,High School,Kolkata,0
+62,81646,Male,61,High School,Mumbai,1
+40,63158,Male,30,Masters,Delhi,0
+62,75963,Female,98,High School,Delhi,0
+62,67631,Female,30,PhD,Bangalore,1
+51,69316,Female,51,High School,Mumbai,1
+26,125364,Male,88,High School,Mumbai,0
+41,79342,Male,48,PhD,Chennai,0
+25,35504,Male,33,Bachelors,Chennai,0
+24,88593,Male,74,Bachelors,Kolkata,1
+53,46660,Male,82,PhD,Chennai,1
+35,57196,Male,19,High School,Kolkata,0
+20,85938,Female,71,Masters,Delhi,0
+45,28605,Female,57,PhD,Bangalore,0
+23,77388,Male,19,Masters,Mumbai,0
+61,101297,Female,88,Bachelors,Delhi,0
+61,75501,Male,79,PhD,Delhi,1
+38,73309,Male,41,Masters,Kolkata,0
+45,47043,Female,42,High School,Bangalore,0
+57,53635,Male,87,PhD,Kolkata,1
+18,99315,Female,52,Masters,Delhi,0
+53,100691,Male,4,PhD,Mumbai,0
+38,126514,Male,4,PhD,Chennai,0
+60,53132,Female,5,Bachelors,Kolkata,0
+52,109387,Male,41,Bachelors,Delhi,1
+30,35366,Male,87,High School,Chennai,1
+66,113944,Male,61,Bachelors,Chennai,0
+27,92107,Female,75,Bachelors,Delhi,0
+61,82580,Male,55,Bachelors,Bangalore,0
+64,135267,Male,75,Masters,Delhi,0
+27,142362,Male,13,PhD,Mumbai,0
+63,77889,Female,14,Bachelors,Chennai,0
+30,99553,Female,60,Masters,Mumbai,0
+54,59236,Female,72,PhD,Kolkata,0
+55,24150,Female,25,Bachelors,Chennai,1
+41,131369,Female,82,Bachelors,Bangalore,1
+19,39423,Male,44,PhD,Delhi,1
+39,24137,Female,82,Masters,Kolkata,0
+34,49992,Female,10,Masters,Mumbai,1
+53,130540,Male,71,High School,Kolkata,1
+31,114438,Female,50,PhD,Bangalore,1
+27,135140,Male,44,High School,Delhi,0
+52,64921,Female,14,Masters,Kolkata,1
+42,141225,Male,15,Bachelors,Mumbai,0
+20,99369,Male,16,High School,Kolkata,1
+64,86917,Female,2,Masters,Delhi,0
+55,93690,Female,30,Masters,Kolkata,1
+34,54235,Male,30,Bachelors,Mumbai,1
+29,98975,Male,82,PhD,Delhi,0
+69,39122,Male,31,Masters,Bangalore,0
+41,43956,Male,77,High School,Bangalore,0
+46,83879,Male,20,Bachelors,Chennai,0
+60,78560,Male,49,PhD,Kolkata,0
+42,141435,Male,35,PhD,Mumbai,0
+53,102800,Female,23,PhD,Kolkata,1
+43,130310,Male,97,Masters,Delhi,0
+55,88685,Female,99,PhD,Chennai,1
+18,44660,Female,61,Masters,Mumbai,1
+37,148029,Male,84,Bachelors,Kolkata,1
+45,126196,Male,55,Bachelors,Mumbai,1
+33,106064,Female,67,PhD,Delhi,0
+64,134440,Male,8,Bachelors,Chennai,1
+34,21168,Male,40,High School,Mumbai,0
+57,65124,Female,59,High School,Delhi,1
+45,55897,Female,32,Masters,Bangalore,1
+29,35032,Female,93,PhD,Mumbai,1
+44,72797,Male,7,Masters,Chennai,0
+59,55294,Male,2,Bachelors,Mumbai,0
+64,63827,Female,85,PhD,Mumbai,1
+47,23516,Male,6,Masters,Delhi,1
+58,39751,Female,92,PhD,Kolkata,0
+51,50373,Male,36,PhD,Kolkata,1
+54,142026,Female,32,Masters,Mumbai,0
+23,50270,Male,45,PhD,Chennai,1
+24,30386,Female,42,Bachelors,Chennai,1
+49,121859,Male,53,High School,Delhi,0
+49,84817,Male,9,High School,Mumbai,0
+42,85184,Female,75,PhD,Mumbai,1
+50,134316,Male,87,High School,Kolkata,0
+24,99693,Male,75,PhD,Delhi,0
+69,57879,Female,49,Masters,Bangalore,1
+29,125056,Male,2,Bachelors,Chennai,1
+33,69597,Male,67,High School,Chennai,0
+33,59132,Male,11,Masters,Mumbai,0
+60,23626,Female,50,Bachelors,Delhi,0
+53,105936,Female,35,High School,Bangalore,1
+30,122179,Female,15,High School,Chennai,0
+24,123801,Female,75,Bachelors,Delhi,1
+53,101515,Female,31,Masters,Bangalore,1
+64,97065,Male,92,Masters,Mumbai,0
+68,75390,Male,62,High School,Kolkata,0
+26,36645,Female,28,Bachelors,Chennai,1
+49,111960,Male,96,Masters,Chennai,0
+28,74144,Male,25,Bachelors,Bangalore,1
+25,33382,Male,84,Bachelors,Kolkata,1
+50,24025,Male,92,High School,Delhi,1
+40,63226,Female,25,Bachelors,Mumbai,0
+42,99380,Female,75,Bachelors,Delhi,0
+25,142971,Male,83,PhD,Bangalore,1
+62,138910,Male,92,Bachelors,Chennai,1
+39,89711,Female,1,Masters,Chennai,0
+21,116055,Male,59,High School,Delhi,0
+57,146189,Male,69,High School,Mumbai,0
+20,94710,Male,74,Bachelors,Bangalore,1
+46,23443,Female,42,Bachelors,Mumbai,0
+58,41395,Female,34,Masters,Bangalore,1
+46,30725,Male,66,PhD,Mumbai,1
+51,53461,Male,18,High School,Delhi,1
+51,147000,Male,77,PhD,Kolkata,1
+45,61115,Male,5,Masters,Bangalore,1
+30,130084,Male,20,High School,Delhi,0
+32,116887,Male,66,Masters,Chennai,0
+40,103732,Female,75,Bachelors,Chennai,1
+61,132145,Female,62,Masters,Mumbai,0
+43,99790,Male,94,Bachelors,Chennai,0
+21,99557,Female,96,PhD,Kolkata,0
+43,131672,Male,32,High School,Bangalore,0
+57,91260,Male,58,High School,Mumbai,1
+26,48690,Female,50,PhD,Bangalore,1
+22,21407,Female,38,Bachelors,Bangalore,0
+49,93568,Male,55,High School,Delhi,1
+37,78560,Male,28,Masters,Chennai,0
+67,67340,Female,74,Bachelors,Bangalore,1
+28,37794,Female,86,High School,Kolkata,0
+32,39881,Male,81,Masters,Kolkata,1
+49,106292,Male,22,Masters,Chennai,0
+45,125698,Male,43,High School,Chennai,0
+39,114952,Female,83,PhD,Mumbai,1
+58,69703,Male,81,PhD,Mumbai,0
+34,64354,Female,88,High School,Mumbai,1
+43,111288,Male,36,Masters,Chennai,1
+61,98462,Female,96,PhD,Bangalore,0
+24,139020,Female,52,PhD,Delhi,1
+59,119301,Female,36,PhD,Mumbai,0
+43,138764,Female,28,Bachelors,Delhi,0
+42,34390,Male,78,PhD,Kolkata,1
+27,124403,Female,58,High School,Chennai,0
+62,107475,Female,36,High School,Kolkata,1
+36,47307,Female,70,Bachelors,Mumbai,0
+28,116364,Male,9,Bachelors,Bangalore,1
+30,114049,Male,21,High School,Mumbai,0
+25,138740,Male,64,Bachelors,Delhi,0
+57,139991,Male,76,PhD,Mumbai,1
+21,44502,Male,61,Masters,Bangalore,0
+64,115599,Male,94,Masters,Bangalore,1
+48,42486,Female,95,Masters,Chennai,0
+45,131813,Female,40,High School,Chennai,0
+28,58258,Female,56,Bachelors,Bangalore,1
+60,77716,Male,4,Masters,Bangalore,0
+18,117228,Female,31,PhD,Delhi,0
+66,123920,Female,27,PhD,Mumbai,1
+64,101494,Male,58,PhD,Chennai,1
+69,120552,Female,25,Bachelors,Delhi,0
+55,102768,Male,69,Masters,Mumbai,0
+41,30748,Female,70,PhD,Chennai,1
+64,82785,Male,5,Bachelors,Delhi,1
+48,96050,Male,91,PhD,Kolkata,1
+58,42738,Male,8,Masters,Kolkata,1
+63,94231,Female,9,Masters,Chennai,0
+67,93606,Female,15,Masters,Delhi,1
+43,113301,Male,7,Masters,Mumbai,1
+66,61662,Male,96,Masters,Mumbai,0
+67,138313,Female,72,PhD,Delhi,0
+22,116297,Female,15,Masters,Kolkata,0
+37,102234,Male,37,PhD,Delhi,1
+69,35123,Female,83,Masters,Kolkata,0
+58,120680,Female,39,PhD,Kolkata,0
+28,45616,Female,6,Masters,Mumbai,0
+50,122682,Male,83,PhD,Chennai,0
+67,31182,Male,57,Masters,Bangalore,0
+55,110369,Female,92,Bachelors,Delhi,1
+44,118878,Male,81,PhD,Kolkata,0
+51,82013,Female,19,Bachelors,Delhi,1
+32,51331,Female,63,PhD,Chennai,1
+49,66098,Male,31,PhD,Chennai,1
+38,46128,Male,75,PhD,Bangalore,1
+63,51556,Male,79,High School,Bangalore,0
+22,147398,Female,10,Masters,Kolkata,0
+23,107505,Female,87,Bachelors,Bangalore,0
+55,41876,Male,67,Bachelors,Kolkata,1
+39,28949,Male,62,PhD,Mumbai,0
+35,71962,Male,3,Bachelors,Kolkata,0
+31,110054,Female,18,Bachelors,Bangalore,1
+27,143984,Female,25,Bachelors,Delhi,1
+63,91206,Female,20,Bachelors,Bangalore,1
+30,44099,Male,58,High School,Chennai,1
+48,124871,Male,93,PhD,Bangalore,0
+47,32716,Female,86,Bachelors,Mumbai,1
+20,72611,Male,50,High School,Kolkata,0
+47,58885,Male,79,High School,Chennai,1
+23,73144,Male,10,PhD,Kolkata,0
+46,85220,Male,21,Masters,Kolkata,0
+25,27837,Female,29,Masters,Bangalore,1
+61,69355,Male,96,Masters,Delhi,0
+62,67299,Female,10,Bachelors,Chennai,1
+60,39159,Female,13,PhD,Mumbai,1
+61,145212,Male,47,Masters,Mumbai,1
+50,136680,Female,23,Bachelors,Delhi,0
+34,136931,Female,50,PhD,Delhi,0
+65,126802,Male,87,Bachelors,Bangalore,1
+28,136375,Female,95,Masters,Mumbai,1
+30,122413,Female,4,Masters,Chennai,0
+67,71012,Female,67,High School,Delhi,0
+28,79305,Female,85,High School,Delhi,0
+48,107096,Female,53,PhD,Delhi,1
+45,37106,Female,2,Bachelors,Chennai,0
+61,78123,Female,68,Bachelors,Mumbai,0
+23,131825,Female,65,Masters,Chennai,1
+58,28720,Male,79,Masters,Chennai,0
+33,57661,Male,57,PhD,Bangalore,1
+21,135031,Male,97,High School,Delhi,0
+52,113898,Female,70,Masters,Mumbai,0
+65,113794,Female,7,Bachelors,Bangalore,0
+43,107318,Female,19,Masters,Bangalore,0
+29,126704,Male,44,High School,Kolkata,0
+28,41120,Male,63,Bachelors,Delhi,0
+54,39790,Male,65,High School,Mumbai,0
+42,78655,Female,39,PhD,Mumbai,1
+35,79643,Male,83,PhD,Mumbai,0
+36,113448,Male,26,High School,Delhi,1
+40,67374,Female,44,Bachelors,Mumbai,1
+55,62907,Male,12,High School,Chennai,0
+35,70071,Female,22,Masters,Chennai,0
+43,140507,Male,77,Masters,Delhi,0
+23,54812,Female,92,High School,Mumbai,0
+21,69570,Female,14,Masters,Kolkata,0
+61,70901,Female,86,High School,Kolkata,0
+68,80186,Female,30,Masters,Kolkata,1
+46,142066,Female,44,High School,Chennai,0
+51,148364,Male,84,Masters,Kolkata,0
+34,70251,Female,91,Bachelors,Mumbai,0
+60,85171,Female,38,Bachelors,Mumbai,1
+60,56160,Female,59,Masters,Kolkata,0
+33,39156,Female,42,High School,Bangalore,1
+19,96208,Male,52,Masters,Kolkata,0
+51,99980,Female,63,PhD,Bangalore,1
+25,92320,Male,61,PhD,Delhi,0
+30,37929,Female,34,High School,Delhi,1
+59,86606,Female,39,Masters,Mumbai,1
+25,108442,Male,41,Masters,Chennai,0
+47,120154,Male,37,Bachelors,Mumbai,0
+49,82559,Male,65,High School,Mumbai,0
+53,74205,Female,79,PhD,Chennai,1
+64,130694,Male,32,PhD,Mumbai,1
+47,88475,Female,8,High School,Chennai,0
+18,84341,Male,97,PhD,Mumbai,0
+60,115377,Male,18,High School,Delhi,0
+56,62863,Female,45,PhD,Bangalore,1
+34,101837,Male,93,PhD,Mumbai,1
+37,85439,Male,96,High School,Bangalore,0
+41,27194,Female,33,High School,Kolkata,0
+67,91387,Female,5,PhD,Mumbai,0
+39,141361,Female,82,PhD,Delhi,0
+46,101914,Male,74,Bachelors,Chennai,0
+39,86214,Male,36,Masters,Delhi,0
+61,116176,Male,97,High School,Bangalore,0
+26,119292,Male,23,High School,Chennai,1
+54,49777,Male,40,Masters,Delhi,1
+27,145355,Female,5,Bachelors,Delhi,1
+53,46183,Male,34,PhD,Delhi,0
+54,47445,Female,24,PhD,Chennai,1
+45,87038,Male,17,Bachelors,Delhi,1
+45,136477,Female,95,Bachelors,Delhi,0
+59,107201,Male,71,Masters,Bangalore,0
+60,36198,Male,81,Masters,Delhi,1
+38,41411,Female,92,PhD,Delhi,1
+41,70577,Male,22,Bachelors,Kolkata,0
+59,35867,Female,15,Bachelors,Chennai,0
+57,82501,Male,15,PhD,Kolkata,1
+19,34266,Male,25,PhD,Bangalore,1
+25,59422,Female,53,PhD,Kolkata,1
+65,55208,Male,21,PhD,Mumbai,0
+44,128538,Female,66,PhD,Chennai,0
+39,141544,Male,91,Masters,Delhi,0
+54,51213,Male,32,PhD,Kolkata,1
+44,27367,Male,21,Bachelors,Kolkata,1
+46,144158,Male,68,High School,Delhi,0
+20,99026,Male,44,Masters,Delhi,0
+61,55362,Male,83,Bachelors,Bangalore,1
+30,139377,Male,66,High School,Kolkata,1
+62,71588,Female,90,Masters,Kolkata,1
+27,58285,Male,98,PhD,Mumbai,0
+53,146683,Male,14,Masters,Mumbai,1
+26,145085,Male,15,PhD,Kolkata,1
+44,94755,Female,20,PhD,Mumbai,0
+51,91846,Female,34,PhD,Kolkata,1
+68,56307,Male,36,High School,Chennai,0
+18,115167,Male,83,Masters,Bangalore,1
+49,100280,Male,9,PhD,Mumbai,1
+42,39867,Female,71,Bachelors,Kolkata,0
+46,76523,Male,30,Masters,Mumbai,1
+24,104161,Female,77,Bachelors,Bangalore,0
+66,26378,Male,91,High School,Chennai,1
+20,104685,Female,63,High School,Delhi,1
+37,127669,Female,35,Masters,Delhi,1
+37,96958,Male,13,High School,Mumbai,1
+47,47926,Male,79,High School,Kolkata,0
+52,123215,Male,46,Masters,Bangalore,0
+52,118707,Male,56,Bachelors,Chennai,0
+66,33180,Male,9,PhD,Chennai,1
+56,112837,Male,87,Masters,Chennai,0
+44,138070,Male,36,Masters,Delhi,1
+43,56931,Female,3,PhD,Bangalore,0
+31,44014,Male,98,Bachelors,Delhi,1
+34,134775,Male,19,PhD,Mumbai,0
+35,116472,Female,28,PhD,Chennai,1
+62,99872,Male,23,Bachelors,Bangalore,1
+69,78502,Male,7,Bachelors,Chennai,1
+46,107736,Male,76,PhD,Delhi,1
+37,25470,Male,14,PhD,Delhi,1
+44,116395,Female,46,Masters,Delhi,1
+35,34953,Female,15,Bachelors,Chennai,1
+21,124580,Male,67,High School,Bangalore,0
+18,58507,Male,15,Bachelors,Bangalore,1
+67,138961,Female,51,PhD,Mumbai,1
+18,112969,Male,88,PhD,Chennai,0
+43,111493,Female,8,PhD,Mumbai,1
+62,26523,Female,69,PhD,Mumbai,1
+37,106923,Female,62,High School,Mumbai,1
+69,77190,Male,51,Bachelors,Mumbai,1
+40,67761,Male,63,High School,Delhi,0
+27,51169,Male,68,High School,Mumbai,0
+28,65641,Female,78,PhD,Bangalore,0
+58,42990,Male,16,High School,Mumbai,0
+58,49661,Male,84,PhD,Delhi,1
+22,33419,Female,24,PhD,Kolkata,0
+18,34457,Male,6,PhD,Kolkata,1
+34,87600,Male,57,High School,Kolkata,1
+39,123619,Male,31,PhD,Chennai,1
+51,96102,Female,6,High School,Bangalore,0
+62,53085,Male,99,Bachelors,Delhi,0
+58,117064,Female,79,PhD,Kolkata,0
+46,70654,Female,29,Masters,Delhi,0
+21,26130,Female,67,Masters,Delhi,1
+22,125723,Male,75,Masters,Chennai,1
+28,22042,Male,3,Masters,Kolkata,0
+68,90134,Male,28,Masters,Mumbai,1
+38,62982,Female,74,High School,Delhi,0
+52,118422,Female,97,Bachelors,Kolkata,1
+29,85185,Male,48,High School,Delhi,0
+43,53477,Female,80,PhD,Chennai,1
+68,134161,Male,10,Bachelors,Chennai,0
+36,72709,Male,33,Bachelors,Mumbai,0
+62,48716,Male,67,Bachelors,Chennai,0
+24,98137,Male,69,Bachelors,Kolkata,0
+64,56018,Male,12,Masters,Chennai,1
+24,28061,Male,57,PhD,Mumbai,0
+43,28609,Male,44,Bachelors,Bangalore,1
+57,55371,Female,13,Bachelors,Delhi,1
+22,130350,Male,24,Masters,Delhi,1
+38,103021,Female,44,High School,Kolkata,1
+31,40805,Female,57,High School,Mumbai,0
+21,27857,Male,96,High School,Mumbai,0
+40,31620,Female,16,PhD,Mumbai,1
+59,28177,Female,96,High School,Delhi,1
+37,50111,Female,21,Bachelors,Chennai,1
+32,140770,Male,76,Masters,Delhi,1
+67,108578,Male,51,Masters,Delhi,0
+69,104181,Male,21,High School,Delhi,1
+62,109941,Male,60,Masters,Chennai,1
+46,147049,Male,51,Bachelors,Bangalore,0
+25,31826,Female,21,High School,Kolkata,1
+58,33890,Female,6,Bachelors,Bangalore,0
+65,102428,Male,73,PhD,Bangalore,0
+36,137067,Female,65,Bachelors,Delhi,1
+65,146044,Female,76,Bachelors,Bangalore,1
+56,78031,Female,58,Bachelors,Delhi,1
+63,139440,Female,78,Bachelors,Delhi,1
+45,132134,Male,6,PhD,Kolkata,0
+63,95020,Male,65,High School,Mumbai,1
+44,25495,Male,86,Bachelors,Delhi,0
+21,48481,Female,34,High School,Bangalore,0
+32,31267,Female,56,Masters,Kolkata,0
+52,137897,Male,75,Bachelors,Bangalore,1
+54,125702,Male,3,Bachelors,Mumbai,0
+18,26743,Female,42,Masters,Chennai,1
+20,74800,Male,62,High School,Mumbai,1
+64,123475,Male,6,PhD,Kolkata,0
+41,68773,Female,6,Bachelors,Mumbai,1
+44,77042,Female,63,Masters,Mumbai,0
+57,69476,Male,20,Masters,Kolkata,0
+53,147967,Female,21,Bachelors,Kolkata,1
+51,112105,Male,2,High School,Bangalore,0
+46,48552,Female,90,High School,Delhi,1
+41,85242,Female,95,Bachelors,Chennai,1
+41,65772,Male,90,Masters,Chennai,0
+59,63730,Female,56,Bachelors,Chennai,1
+21,48948,Male,96,PhD,Mumbai,0
+20,96311,Female,10,PhD,Kolkata,0
+51,89093,Male,87,High School,Kolkata,0
+66,89123,Female,70,PhD,Kolkata,0
+40,36535,Female,23,Masters,Delhi,0
+69,86490,Male,92,PhD,Kolkata,1
+40,66562,Female,30,Bachelors,Kolkata,0
+62,139042,Male,78,Masters,Mumbai,1
+22,145251,Female,37,High School,Bangalore,0
+48,109080,Female,55,High School,Chennai,0
+58,147844,Male,96,PhD,Mumbai,0
+23,78535,Female,49,High School,Mumbai,1
+54,118991,Female,34,Bachelors,Mumbai,0
+27,61269,Male,44,Masters,Chennai,0
+57,100674,Female,22,Bachelors,Mumbai,0
+24,62462,Male,31,Bachelors,Bangalore,1
+56,23127,Male,7,Bachelors,Kolkata,0
+55,43147,Male,21,Bachelors,Bangalore,1
+38,65528,Female,16,Masters,Kolkata,0
+37,97095,Female,20,Masters,Kolkata,1
+20,133100,Male,43,Bachelors,Mumbai,0
+68,88931,Female,44,Bachelors,Mumbai,0
+39,110925,Male,47,High School,Chennai,0
+64,86381,Female,19,High School,Delhi,1
+21,119468,Male,48,Masters,Bangalore,0
+45,131258,Male,96,High School,Chennai,1
+29,83749,Female,79,Masters,Chennai,0
+55,58672,Male,69,Masters,Bangalore,0
+68,33731,Male,11,PhD,Bangalore,0
+53,144647,Female,79,Masters,Kolkata,0
+64,74512,Male,29,High School,Delhi,1
+58,118658,Male,45,PhD,Mumbai,1
+22,71024,Female,68,High School,Delhi,1
+30,136712,Male,36,Masters,Delhi,1
+40,121121,Male,48,Masters,Mumbai,0
+67,23832,Male,87,Bachelors,Delhi,1
+47,52332,Male,15,Masters,Chennai,0
+54,32467,Male,44,PhD,Chennai,1
+42,61025,Male,67,Masters,Mumbai,0
+65,33107,Male,96,Bachelors,Mumbai,1
+44,148347,Male,74,Masters,Bangalore,1
+68,97994,Female,40,Masters,Bangalore,1
+31,114202,Male,86,Masters,Delhi,0
+65,63481,Male,14,Bachelors,Delhi,0
+64,22581,Female,63,High School,Mumbai,0
+53,95118,Male,81,Masters,Delhi,1
+56,144010,Male,85,PhD,Kolkata,1
+33,71638,Male,51,Bachelors,Chennai,0
+39,143714,Male,79,PhD,Delhi,0
+38,28418,Male,58,Masters,Delhi,0
+38,113627,Male,15,Bachelors,Bangalore,1
+25,49113,Female,65,Masters,Kolkata,0
+66,104363,Female,88,PhD,Delhi,1
+33,143607,Female,55,Bachelors,Chennai,0
+48,83044,Female,76,High School,Delhi,0
+59,99955,Female,10,High School,Mumbai,1
+27,81030,Male,42,High School,Kolkata,0
+49,31814,Male,95,Masters,Delhi,0
+51,119340,Male,11,Bachelors,Kolkata,0
+26,30024,Male,16,PhD,Delhi,0
+34,83288,Male,73,PhD,Chennai,1
+28,129236,Female,78,Masters,Chennai,0
+49,77836,Female,19,Masters,Kolkata,1
+27,27435,Male,31,PhD,Bangalore,0
+39,87084,Male,73,Bachelors,Bangalore,1
+34,144023,Male,53,Masters,Mumbai,1
+21,90601,Female,90,Bachelors,Bangalore,1
+65,108416,Female,8,PhD,Kolkata,1
+69,140871,Male,24,Bachelors,Bangalore,0
+64,138645,Female,8,High School,Mumbai,0
+42,23407,Male,83,PhD,Delhi,1
+38,118943,Female,48,High School,Bangalore,0
+54,52940,Female,30,PhD,Kolkata,0
+55,25666,Male,58,High School,Kolkata,0
+66,57122,Female,86,Bachelors,Mumbai,0
+18,138647,Female,55,PhD,Mumbai,0
+42,45092,Male,73,PhD,Chennai,0
+68,149753,Female,62,High School,Chennai,0
+53,143402,Male,48,Bachelors,Chennai,1
+34,95645,Female,4,PhD,Delhi,0
+58,121190,Male,37,Masters,Kolkata,1
+41,120468,Male,8,High School,Chennai,0
+19,149207,Female,1,PhD,Kolkata,1
+57,46505,Female,92,Bachelors,Mumbai,0
+32,56713,Male,70,Bachelors,Delhi,0
+49,74387,Female,47,Bachelors,Mumbai,0
+56,63169,Female,75,Bachelors,Kolkata,0
+23,93282,Female,5,High School,Chennai,1
+18,97511,Male,50,PhD,Mumbai,1
+64,71742,Male,24,High School,Bangalore,0
+40,60522,Male,47,High School,Delhi,0
+56,101132,Female,18,Bachelors,Kolkata,0
+34,139622,Female,84,Masters,Chennai,0
+51,138764,Male,28,Bachelors,Mumbai,0
+58,123489,Male,77,Masters,Delhi,1
+46,119397,Female,5,High School,Chennai,0
+26,23880,Female,30,Bachelors,Mumbai,1
+30,63454,Female,1,Bachelors,Kolkata,1
+23,75711,Female,86,High School,Bangalore,1
+23,63539,Male,82,Bachelors,Bangalore,0
+37,128984,Female,46,PhD,Kolkata,1
+69,88321,Female,69,Masters,Delhi,1
+20,107985,Male,31,Masters,Kolkata,0
+34,34799,Male,70,Masters,Mumbai,0
+66,134584,Female,91,Bachelors,Delhi,1
+29,124843,Male,56,PhD,Bangalore,1
+65,80102,Female,89,Bachelors,Mumbai,0
+64,70726,Female,93,Masters,Chennai,0
+62,68784,Male,28,Bachelors,Chennai,0
+18,140364,Male,16,Masters,Chennai,0
+34,133034,Female,54,High School,Bangalore,0
+20,63333,Male,53,Masters,Kolkata,0
+43,60828,Female,12,High School,Delhi,1
+32,89526,Female,20,High School,Bangalore,1
+53,74362,Female,82,High School,Mumbai,1
+49,73997,Male,34,Masters,Mumbai,0
+49,143973,Female,53,PhD,Chennai,1
+21,70341,Female,64,Masters,Delhi,0
+35,39073,Female,23,Bachelors,Chennai,0
+66,122399,Male,27,Bachelors,Mumbai,1
+36,34549,Female,17,PhD,Mumbai,0
+60,103795,Female,48,PhD,Kolkata,0
+69,76920,Female,21,PhD,Kolkata,0
+52,105326,Male,50,High School,Kolkata,0
+57,95515,Female,40,PhD,Chennai,1
+31,149392,Female,95,PhD,Delhi,1
+50,40316,Male,3,PhD,Kolkata,1
+31,46183,Male,17,Masters,Bangalore,1
+51,113860,Female,61,Bachelors,Kolkata,1
+21,44624,Female,50,Bachelors,Chennai,1
+41,82515,Female,90,PhD,Delhi,0
+46,123712,Male,87,Bachelors,Kolkata,1
+36,105781,Male,6,Masters,Delhi,0
+23,66705,Female,28,Bachelors,Bangalore,1
+50,109326,Male,72,High School,Mumbai,0
+66,46756,Female,55,Masters,Delhi,1
+57,80390,Female,58,Bachelors,Kolkata,1
+36,88369,Male,45,Bachelors,Chennai,1
+18,90821,Female,72,Masters,Chennai,1
+22,29589,Male,19,Bachelors,Chennai,0
+44,133012,Male,29,Bachelors,Chennai,0
+33,34116,Female,23,PhD,Delhi,0
+23,93181,Male,32,High School,Chennai,0
+57,64786,Female,10,Masters,Mumbai,0
+30,114686,Male,91,PhD,Bangalore,0
+65,143711,Female,49,Bachelors,Delhi,0
+52,96425,Female,65,Masters,Delhi,1
+36,50286,Female,29,Masters,Chennai,1
+29,123081,Male,59,High School,Chennai,0
+33,35994,Female,45,High School,Delhi,0
+60,121039,Male,67,Masters,Chennai,0
+27,131915,Male,51,High School,Chennai,0
+42,142961,Male,95,High School,Chennai,0
+37,110198,Male,11,Bachelors,Chennai,0
+48,124672,Male,86,High School,Chennai,0
+21,46639,Female,82,High School,Kolkata,0
+61,37205,Male,99,PhD,Kolkata,0
+40,76677,Female,6,Bachelors,Kolkata,0
+19,52930,Female,67,Bachelors,Delhi,1
+39,93313,Male,62,Masters,Bangalore,1
+68,113851,Female,5,High School,Delhi,0
+54,133153,Female,9,PhD,Kolkata,0
+25,112509,Male,28,PhD,Delhi,0
+24,38316,Female,83,Bachelors,Bangalore,0
+31,47304,Male,92,High School,Chennai,0
+20,121839,Male,91,PhD,Mumbai,0
+67,116058,Male,77,Masters,Kolkata,0
+33,107876,Female,38,High School,Kolkata,0
+36,105366,Female,43,High School,Bangalore,1
+68,33403,Female,21,High School,Chennai,0
+35,100052,Female,91,PhD,Chennai,0
+69,137478,Male,62,Bachelors,Mumbai,0
+33,104627,Male,46,Bachelors,Chennai,0
+25,93495,Female,70,Masters,Bangalore,1
+50,51932,Male,38,PhD,Chennai,1
+66,116090,Female,49,High School,Bangalore,0
+29,56701,Male,75,Masters,Kolkata,1
+28,23385,Male,81,Masters,Kolkata,1
+22,141324,Male,39,Bachelors,Kolkata,0
+44,119226,Male,71,High School,Delhi,0
+29,77241,Male,30,High School,Kolkata,1
+34,30367,Female,21,PhD,Bangalore,0
+23,85030,Female,1,PhD,Mumbai,0
+50,66505,Male,89,PhD,Chennai,0
+22,144462,Female,32,Masters,Kolkata,1
+45,53332,Male,8,High School,Delhi,1
+31,105178,Male,69,Bachelors,Delhi,1
+22,96325,Male,30,Masters,Bangalore,1
+50,55268,Male,8,Masters,Mumbai,1
+67,106486,Female,19,Bachelors,Kolkata,1
+65,45563,Male,59,Bachelors,Kolkata,1
+58,125185,Female,55,PhD,Delhi,1
+36,56404,Male,30,Bachelors,Bangalore,0
+39,75182,Male,79,Bachelors,Delhi,1
+22,52991,Female,36,Bachelors,Delhi,1
+19,124601,Male,55,Bachelors,Mumbai,1
+47,67663,Male,44,PhD,Bangalore,1
+64,85886,Female,27,Masters,Mumbai,1
+56,142002,Female,77,High School,Bangalore,1
+21,103848,Female,78,High School,Kolkata,0
+50,44127,Male,54,Masters,Chennai,0
+30,77692,Male,48,High School,Chennai,0
+37,114389,Female,30,High School,Bangalore,0
+24,57500,Female,39,Masters,Chennai,0
+32,53785,Male,13,High School,Delhi,0
+40,104146,Male,16,High School,Kolkata,0
+31,109126,Female,44,Masters,Kolkata,1
+40,114979,Female,71,High School,Chennai,0
+36,67997,Female,27,Bachelors,Bangalore,1
+46,27170,Female,45,Masters,Delhi,1
+37,33303,Male,35,PhD,Bangalore,0
+46,91743,Male,79,High School,Chennai,0
+41,97852,Male,28,PhD,Kolkata,1
+35,55187,Male,99,High School,Kolkata,1
+27,85034,Female,7,Bachelors,Bangalore,0
+58,91776,Male,62,Masters,Mumbai,0
+25,21893,Female,51,PhD,Bangalore,0
+43,33753,Male,46,Masters,Mumbai,0
+46,58090,Male,20,PhD,Bangalore,0
+27,84922,Male,96,High School,Mumbai,0
+34,96768,Female,38,Bachelors,Mumbai,1
+19,79412,Male,61,PhD,Mumbai,1
+23,142406,Female,32,PhD,Mumbai,1
+22,76030,Female,26,Bachelors,Delhi,1
+45,37509,Male,58,Bachelors,Mumbai,1
+58,88653,Female,39,Bachelors,Mumbai,1
+22,56929,Male,20,Bachelors,Kolkata,0
+35,149626,Female,82,Bachelors,Delhi,0
+43,68291,Male,50,Masters,Mumbai,1
+37,24042,Female,79,High School,Chennai,1
+58,82574,Female,52,High School,Delhi,0
+66,57201,Male,86,PhD,Kolkata,0
+44,112282,Male,22,Bachelors,Bangalore,1
+66,34016,Male,53,Masters,Kolkata,0
+29,45022,Male,85,Masters,Kolkata,0
+24,120962,Female,66,PhD,Delhi,1
+20,47938,Female,43,Bachelors,Delhi,0
+27,63678,Female,82,High School,Chennai,1
+51,138171,Female,23,Bachelors,Chennai,1
+42,149638,Male,77,Masters,Delhi,0
+52,121248,Female,64,Bachelors,Delhi,0
+33,81720,Male,9,High School,Delhi,0
+19,125514,Female,7,High School,Bangalore,0
+41,76805,Male,41,PhD,Kolkata,1
+27,94323,Male,54,Masters,Chennai,0
+55,21986,Male,65,Bachelors,Chennai,0
+39,96478,Male,2,Bachelors,Mumbai,0
+43,102994,Male,4,PhD,Bangalore,0
+60,32161,Female,78,PhD,Delhi,0
+56,40689,Male,32,PhD,Delhi,1
+44,147101,Female,2,Masters,Bangalore,0
+46,114699,Female,64,Bachelors,Chennai,0
+64,80924,Male,14,PhD,Delhi,0
+55,121311,Female,20,Masters,Mumbai,1
+37,119273,Female,89,Bachelors,Chennai,0
+44,94308,Female,49,High School,Kolkata,1
+58,121128,Male,8,PhD,Bangalore,0
+37,83745,Male,92,Masters,Chennai,1
+61,146881,Male,63,Bachelors,Kolkata,0
+36,21211,Male,46,Bachelors,Mumbai,1
+37,20229,Female,21,PhD,Bangalore,1
+52,138972,Female,87,PhD,Delhi,1
+64,68542,Female,32,Bachelors,Delhi,0
+19,34345,Female,8,Masters,Kolkata,1
+47,121489,Female,95,High School,Chennai,1
+51,51819,Female,16,Bachelors,Mumbai,0
+39,67779,Male,40,Masters,Kolkata,0
+20,102421,Female,27,PhD,Mumbai,1
+23,112244,Female,18,Bachelors,Mumbai,0
+32,85584,Female,35,PhD,Mumbai,1
+44,39950,Male,52,High School,Bangalore,0
+27,35173,Female,15,PhD,Kolkata,0
+26,137743,Female,63,High School,Bangalore,1
+50,78032,Male,53,PhD,Chennai,0
+49,135074,Female,91,PhD,Chennai,1
+65,119273,Male,81,High School,Delhi,1
+23,48036,Male,66,PhD,Delhi,1
+58,143885,Female,31,Masters,Delhi,1
+53,132857,Female,61,PhD,Chennai,1
+19,91356,Male,64,Bachelors,Mumbai,0
+46,34292,Female,98,PhD,Mumbai,1
+21,23052,Female,34,Masters,Kolkata,0
+18,64377,Male,55,Bachelors,Chennai,0
+36,109317,Male,59,Masters,Delhi,0
+43,87838,Female,3,Bachelors,Chennai,1
+42,87819,Male,17,PhD,Mumbai,0
+27,133689,Female,78,Masters,Mumbai,0
+32,128103,Female,78,PhD,Bangalore,1
+39,35620,Female,46,Bachelors,Bangalore,0
+68,50461,Female,38,Masters,Kolkata,1
+65,40750,Male,35,High School,Chennai,1
+38,118426,Female,1,Masters,Bangalore,0
+39,108719,Male,29,PhD,Bangalore,0
+53,29472,Female,4,High School,Chennai,1
+51,89263,Female,61,High School,Mumbai,0
+47,132036,Male,97,Bachelors,Kolkata,0
+42,77602,Female,17,High School,Kolkata,0
+62,45523,Male,28,High School,Kolkata,0
+45,50766,Male,50,Bachelors,Bangalore,0
+18,123262,Female,90,Masters,Mumbai,0
+66,86060,Female,8,PhD,Kolkata,1
+62,29079,Female,34,Masters,Chennai,0
+21,28399,Female,59,High School,Kolkata,1
+24,80726,Male,18,PhD,Delhi,0
+66,112906,Female,95,Masters,Mumbai,0
+26,36532,Female,59,PhD,Delhi,1
+53,142689,Female,27,High School,Mumbai,1
+36,102357,Female,16,Masters,Chennai,1
